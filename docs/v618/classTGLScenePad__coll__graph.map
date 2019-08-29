@@ -1,0 +1,33 @@
+<map id="TGLScenePad" name="TGLScenePad">
+<area shape="rect" id="node2" href="$classTVirtualViewer3D.html" title="Abstract 3D shapes viewer. " alt="" coords="573,840,709,867"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,629,329,656"/>
+<area shape="rect" id="node11" href="$classTGLLogicalShape.html" title="Abstract logical shape &#45; a GL &#39;drawable&#39; &#45; base for all shapes &#45; faceset sphere etc. " alt="" coords="1043,147,1176,173"/>
+<area shape="rect" id="node23" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1410,628,1497,655"/>
+<area shape="rect" id="node25" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="753,651,847,677"/>
+<area shape="rect" id="node26" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,612,548,639"/>
+<area shape="rect" id="node37" href="$classTVirtualPad.html" title="TVirtualPad is an abstract base class for the Pad and Canvas classes. " alt="" coords="2146,764,2242,791"/>
+<area shape="rect" id="node4" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="2533,348,2620,375"/>
+<area shape="rect" id="node5" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="2135,316,2253,343"/>
+<area shape="rect" id="node6" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="1784,219,1889,245"/>
+<area shape="rect" id="node7" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="1801,168,1873,195"/>
+<area shape="rect" id="node8" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="1383,196,1524,223"/>
+<area shape="rect" id="node10" href="$classTGLPShapeRef.html" title="Base class for references to TGLPysicalShape that need to be notified when the shape is destroyed..." alt="" coords="1779,359,1895,385"/>
+<area shape="rect" id="node9" href="$classTGLMatrix.html" title="16 component (4x4) transform matrix &#45; column MAJOR as per GL. " alt="" coords="1065,237,1153,264"/>
+<area shape="rect" id="node35" href="$classTGLFaceSet.html" title="Implements a native ROOT&#45;GL representation of an arbitrary set of polygons. " alt="" coords="1788,55,1885,81"/>
+<area shape="rect" id="node12" href="$classTGLBoundingBox.html" title="Concrete class describing an orientated (free) or axis aligned box of 8 vertices. ..." alt="" coords="733,147,867,173"/>
+<area shape="rect" id="node13" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="245,149,341,176"/>
+<area shape="rect" id="node14" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="447,119,542,145"/>
+<area shape="rect" id="node15" href="$classTString.html" title="Basic string class. " alt="" coords="461,460,529,487"/>
+<area shape="rect" id="node16" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,365,349,392"/>
+<area shape="rect" id="node17" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,315,144,341"/>
+<area shape="rect" id="node18" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,365,143,392"/>
+<area shape="rect" id="node19" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,416,145,443"/>
+<area shape="rect" id="node21" href="$classTGLContextIdentity.html" title="Identifier of a shared GL&#45;context. " alt="" coords="2120,537,2268,564"/>
+<area shape="rect" id="node22" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1771,511,1902,537"/>
+<area shape="rect" id="node24" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1050,651,1169,677"/>
+<area shape="rect" id="node42" href="$classTList.html" title="A doubly linked list. " alt="" coords="1427,777,1480,804"/>
+<area shape="rect" id="node38" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="1799,663,1874,689"/>
+<area shape="rect" id="node39" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="1803,764,1870,791"/>
+<area shape="rect" id="node40" href="$classTAttPad.html" title="Manages default Pad attributes. " alt="" coords="1801,865,1872,892"/>
+<area shape="rect" id="node41" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="1795,815,1878,841"/>
+</map>

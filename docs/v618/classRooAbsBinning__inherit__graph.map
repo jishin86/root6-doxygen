@@ -1,0 +1,10 @@
+<map id="RooAbsBinning" name="RooAbsBinning">
+<area shape="rect" id="node5" href="$classRooBinning.html" title="Class RooBinning is an implements RooAbsBinning in terms of an array of boundary values, posing no constraints on the choice of binning, thus allowing variable bin sizes. " alt="" coords="5,229,100,256"/>
+<area shape="rect" id="node6" href="$classRooLinTransBinning.html" title="RooLinTransBinning is a special binning implementation for RooLinearVar that transforms the binning o..." alt="" coords="124,229,272,256"/>
+<area shape="rect" id="node7" href="$classRooParamBinning.html" title="Class RooParamBinning is an implementation of RooAbsBinning that constructs a binning with a range de..." alt="" coords="297,229,433,256"/>
+<area shape="rect" id="node8" href="$classRooRangeBinning.html" title="RooRangeBinning is binning/range definition that only defines a range but no binning. " alt="" coords="457,229,593,256"/>
+<area shape="rect" id="node9" href="$classRooUniformBinning.html" title="RooUniformBinning is an implementation of RooAbsBinning that provides a uniform binning in &#39;n&#39; bins b..." alt="" coords="617,229,765,256"/>
+<area shape="rect" id="node2" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="269,80,346,107"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="271,5,343,32"/>
+<area shape="rect" id="node4" href="$classRooPrintable.html" title="RooPlotable is a &#39;mix&#45;in&#39; base class that define the standard RooFit plotting and printing methods..." alt="" coords="370,80,474,107"/>
+</map>

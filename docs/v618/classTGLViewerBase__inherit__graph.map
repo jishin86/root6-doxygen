@@ -1,0 +1,6 @@
+<map id="TGLViewerBase" name="TGLViewerBase">
+<area shape="rect" id="node3" href="$classTGLViewer.html" title="Base GL viewer object &#45; used by both standalone and embedded (in pad) GL. " alt="" coords="119,155,210,181"/>
+<area shape="rect" id="node2" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="112,5,217,32"/>
+<area shape="rect" id="node4" href="$classTGLEmbeddedViewer.html" title="Minimal GL&#45;viewer that can be embedded in a standard ROOT frames. " alt="" coords="5,229,167,256"/>
+<area shape="rect" id="node5" href="$classTGLSAViewer.html" title="The top level standalone GL&#45;viewer &#45; created via plugin manager. " alt="" coords="191,229,299,256"/>
+</map>

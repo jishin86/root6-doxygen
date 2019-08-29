@@ -1,0 +1,7 @@
+<map id="ROOT::Experimental::RAxisBase" name="ROOT::Experimental::RAxisBase">
+<area shape="rect" id="node2" href="$classROOT_1_1Experimental_1_1RAxisConfig.html" title=" &#160;Objects used to configure the different axis types. " alt="" coords="207,5,360,47"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Experimental_1_1RAxisEquidistant.html" title=" Axis with equidistant bin borders. " alt="" coords="207,71,360,112"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Experimental_1_1RAxisIrregular.html" title="An axis with non&#45;equidistant bins (also known as &quot;variable binning&quot;). " alt="" coords="207,136,360,177"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Experimental_1_1RAxisGrow.html" title="An axis that can extend its range, keeping the number of its bins unchanged. " alt="" coords="408,71,561,112"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Experimental_1_1RAxisLabels.html" title=" &#160;A RAxisGrow that has a label assigned to each bin and a bin width of 1. " alt="" coords="609,71,763,112"/>
+</map>

@@ -1,0 +1,32 @@
+<map id="TAttBBox" name="TAttBBox">
+<area shape="rect" id="node2" href="$classTEveArrow.html" title="Class used for display of a thick arrow. " alt="" coords="177,56,269,83"/>
+<area shape="rect" id="node3" href="$classTEveCaloViz.html" title="Base class for calorimeter data visualization. " alt="" coords="172,107,275,133"/>
+<area shape="rect" id="node7" href="$classTEveDigitSet.html" title="Base&#45;class for storage of digit collections; provides transformation matrix (TEveTrans), signal to color mapping (TEveRGBAPalette) and visual grouping (TEveFrameBox). " alt="" coords="170,208,277,235"/>
+<area shape="rect" id="node10" href="$classTEveProjectionAxes.html" title="Axes for non&#45;linear projections. " alt="" coords="148,309,299,336"/>
+<area shape="rect" id="node11" href="$classTEveProjectionManager.html" title="Manager class for steering of projections and managing projected objects. " alt="" coords="136,360,311,387"/>
+<area shape="rect" id="node12" href="$classTEveShape.html" title="Abstract base&#45;class for 2D/3D shapes. " alt="" coords="176,411,271,437"/>
+<area shape="rect" id="node20" href="$classTEveStraightLineSet.html" title="Set of straight lines with optional markers along the lines. " alt="" coords="147,461,300,488"/>
+<area shape="rect" id="node23" href="$classTEveText.html" title="TEveElement class used for displaying FreeType GL fonts. " alt="" coords="183,512,264,539"/>
+<area shape="rect" id="node24" href="$classTEveTriangleSet.html" title="Made from a list of vertices and a list of triangles (triplets of vertex indices). " alt="" coords="160,563,287,589"/>
+<area shape="rect" id="node25" href="$classTPointSet3D.html" title="TPolyMarker3D using TPointSet3DGL for direct OpenGL rendering. " alt="" coords="172,664,275,691"/>
+<area shape="rect" id="node4" href="$classTEveCalo2D.html" title="Visualization of a calorimeter event data in 2D. " alt="" coords="415,5,517,32"/>
+<area shape="rect" id="node5" href="$classTEveCalo3D.html" title="Visualization of a calorimeter event data in 3D. " alt="" coords="415,56,517,83"/>
+<area shape="rect" id="node6" href="$classTEveCaloLego.html" title="Visualization of calorimeter data as eta/phi histogram. " alt="" coords="409,107,523,133"/>
+<area shape="rect" id="node8" href="$classTEveBoxSet.html" title="Collection of 3D primitives (fixed&#45;size boxes, boxes of different sizes, or arbitrary sexto&#45;epipeds..." alt="" coords="416,157,516,184"/>
+<area shape="rect" id="node9" href="$classTEveQuadSet.html" title="Supports various internal formats that result in rendering of a set of planar (lines, rectangles, hexagons with shared normal) objects. " alt="" coords="411,208,521,235"/>
+<area shape="rect" id="node13" href="$classTEveBox.html" title="3D box with arbitrary vertices (cuboid). " alt="" coords="427,259,505,285"/>
+<area shape="rect" id="node14" href="$classTEveBoxProjected.html" title="Projection of TEveBox. " alt="" coords="396,309,536,336"/>
+<area shape="rect" id="node15" href="$classTEveGeoShape.html" title="Wrapper for TGeoShape with absolute positioning and color attributes allowing display of extracted TG..." alt="" coords="406,360,526,387"/>
+<area shape="rect" id="node16" href="$classTEveGeoShapeProjected.html" title="A 3D projected TEveGeoShape. " alt="" coords="375,411,557,437"/>
+<area shape="rect" id="node17" href="$classTEveJetCone.html" title="Draws a jet cone with leading particle is specified in (eta,phi) and cone radius is given..." alt="" coords="414,461,518,488"/>
+<area shape="rect" id="node18" href="$classTEveJetConeProjected.html" title="Projection of TEveJetCone. " alt="" coords="383,512,549,539"/>
+<area shape="rect" id="node19" href="$classTEvePolygonSetProjected.html" title="A set of projected polygons. " alt="" coords="372,563,560,589"/>
+<area shape="rect" id="node21" href="$classTEveScalableStraightLineSet.html" title="Straight&#45;line&#45;set with extra scaling, useful for projectables that need to be scaled in accordance wi..." alt="" coords="362,613,570,640"/>
+<area shape="rect" id="node22" href="$classTEveStraightLineSetProjected.html" title="Projected replica of a TEveStraightLineSet. " alt="" coords="359,664,573,691"/>
+<area shape="rect" id="node26" href="$classTEvePointSet.html" title="TEvePointSet is a render&#45;element holding a collection of 3D points with optional per&#45;point TRef and a..." alt="" coords="412,715,520,741"/>
+<area shape="rect" id="node27" href="$classTEveLine.html" title="An arbitrary polyline with fixed line and marker attributes. " alt="" coords="665,689,747,716"/>
+<area shape="rect" id="node31" href="$classTEvePointSetProjected.html" title="Projected copy of a TEvePointSet. " alt="" coords="621,740,791,767"/>
+<area shape="rect" id="node28" href="$classTEveLineProjected.html" title="Projected copy of a TEveLine. " alt="" coords="839,664,981,691"/>
+<area shape="rect" id="node29" href="$classTEveTrack.html" title="Visual representation of a track. " alt="" coords="866,715,954,741"/>
+<area shape="rect" id="node30" href="$classTEveTrackProjected.html" title="Projected copy of a TEveTrack. " alt="" coords="1029,715,1179,741"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="TTimer" name="TTimer">
+<area shape="rect" id="node6" title="Called whenever timer times out. " alt="" coords="467,56,589,83"/>
+<area shape="rect" id="node10" href="$classTGLRedrawTimer.html" title="TGLRedrawTimer" alt="" coords="461,259,595,285"/>
+<area shape="rect" id="node14" href="$classTIdleTOTimer.html" title="TIdleTOTimer" alt="" coords="473,477,583,504"/>
+<area shape="rect" id="node16" href="$classTProcessEventTimer.html" title="TProcessEventTimer" alt="" coords="451,579,605,605"/>
+<area shape="rect" id="node18" href="$classTReaperTimer.html" title="TReaperTimer" alt="" coords="471,680,585,707"/>
+<area shape="rect" id="node21" href="$classTShutdownTimer.html" title="TShutdownTimer" alt="" coords="462,832,594,859"/>
+<area shape="rect" id="node24" href="$classTThreadTimer.html" title="TThreadTimer" alt="" coords="471,984,585,1011"/>
+<area shape="rect" id="node27" href="$classTViewTimer.html" title="TViewTimer" alt="" coords="478,1136,578,1163"/>
+<area shape="rect" id="node2" href="$classTSysEvtHandler.html" title="Abstract base class for handling system events. " alt="" coords="136,604,261,631"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="11,579,83,605"/>
+<area shape="rect" id="node4" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="5,629,88,656"/>
+</map>

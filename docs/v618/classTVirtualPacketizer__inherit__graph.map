@@ -1,0 +1,8 @@
+<map id="TVirtualPacketizer" name="TVirtualPacketizer">
+<area shape="rect" id="node3" href="$classTPacketizer.html" title="This class generates packets to be processed on PROOF worker servers. " alt="" coords="5,155,103,181"/>
+<area shape="rect" id="node4" href="$classTPacketizerAdaptive.html" title="This packetizer is based on TPacketizer but uses different load&#45;balancing algorithms and data structu..." alt="" coords="127,155,282,181"/>
+<area shape="rect" id="node5" href="$classTPacketizerFile.html" title="This packetizer generates packets which contain a single file path to be used in process. " alt="" coords="307,155,425,181"/>
+<area shape="rect" id="node6" href="$classTPacketizerMulti.html" title="This class allows to do multiple runs in the same query; each run can be a, for example, different dataset or the same dataset with entry list. " alt="" coords="449,155,579,181"/>
+<area shape="rect" id="node7" href="$classTPacketizerUnit.html" title="This packetizer generates packets of generic units, representing the number of times an operation cyc..." alt="" coords="603,155,727,181"/>
+<area shape="rect" id="node2" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="330,5,402,32"/>
+</map>

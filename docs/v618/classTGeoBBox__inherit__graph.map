@@ -1,0 +1,30 @@
+<map id="TGeoBBox" name="TGeoBBox">
+<area shape="rect" id="node5" href="$classTEveGeoPolyShape.html" title="Description of TEveGeoPolyShape. " alt="" coords="543,5,691,32"/>
+<area shape="rect" id="node6" href="$classTGeoArb8.html" title="An arbitrary trapezoid with less than 8 vertices standing on two parallel planes perpendicular to Z a..." alt="" coords="573,56,660,83"/>
+<area shape="rect" id="node9" href="$classTGeoCompositeShape.html" title="Class handling Boolean composition of shapes. " alt="" coords="533,107,700,133"/>
+<area shape="rect" id="node10" href="$classTGeoCone.html" title="Conical tube class. " alt="" coords="572,157,661,184"/>
+<area shape="rect" id="node12" href="$classTGeoHalfSpace.html" title="A half&#45;space defined by: " alt="" coords="555,208,678,235"/>
+<area shape="rect" id="node13" href="$classTGeoPara.html" title="Parallelepiped class. " alt="" coords="575,259,659,285"/>
+<area shape="rect" id="node14" href="$classTGeoParaboloid.html" title="Paraboloid class. " alt="" coords="555,309,679,336"/>
+<area shape="rect" id="node15" href="$classTGeoPcon.html" title="A polycone. " alt="" coords="573,360,660,387"/>
+<area shape="rect" id="node17" href="$classTGeoScaledShape.html" title="A shape scaled by a TGeoScale transformation. " alt="" coords="547,411,686,437"/>
+<area shape="rect" id="node18" href="$classTGeoShapeAssembly.html" title="The shape encapsulating an assembly (union) of volumes. " alt="" coords="537,461,697,488"/>
+<area shape="rect" id="node19" href="$classTGeoSphere.html" title="Spherical shell class. " alt="" coords="566,512,667,539"/>
+<area shape="rect" id="node20" href="$classTGeoTorus.html" title="Torus segment class. " alt="" coords="571,563,662,589"/>
+<area shape="rect" id="node21" href="$classTGeoTrd1.html" title="A trapezoid with only x length varying with z. " alt="" coords="575,613,658,640"/>
+<area shape="rect" id="node22" href="$classTGeoTrd2.html" title="A trapezoid with both x and y lengths varying with z. " alt="" coords="575,664,658,691"/>
+<area shape="rect" id="node23" href="$classTGeoTube.html" title="Cylindrical tube class. " alt="" coords="573,715,660,741"/>
+<area shape="rect" id="node28" href="$classTGeoVGShape.html" title="Bridge class for using a VecGeom solid as TGeoShape. " alt="" coords="559,765,674,792"/>
+<area shape="rect" id="node29" href="$classTGeoXtru.html" title="An extrusion with fixed outline shape in x&#45;y and a sequence of z extents (segments). " alt="" coords="575,816,658,843"/>
+<area shape="rect" id="node2" href="$classTGeoShape.html" title="Base abstract class for all shapes. " alt="" coords="251,411,347,437"/>
+<area shape="rect" id="node3" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="125,411,203,437"/>
+<area shape="rect" id="node4" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="5,411,77,437"/>
+<area shape="rect" id="node7" href="$classTGeoTrap.html" title="TRAP is a general trapezoid, i.e. " alt="" coords="763,56,846,83"/>
+<area shape="rect" id="node8" href="$classTGeoGtra.html" title="Gtra is a twisted trapezoid. " alt="" coords="911,56,995,83"/>
+<area shape="rect" id="node11" href="$classTGeoConeSeg.html" title="A phi segment of a conical tube. " alt="" coords="748,157,861,184"/>
+<area shape="rect" id="node16" href="$classTGeoPgon.html" title="A polygone. " alt="" coords="761,360,849,387"/>
+<area shape="rect" id="node24" href="$classTGeoEltu.html" title="Elliptical tube class. " alt="" coords="764,664,845,691"/>
+<area shape="rect" id="node25" href="$classTGeoHype.html" title="Hyperboloid class defined by 5 parameters. " alt="" coords="759,715,850,741"/>
+<area shape="rect" id="node26" href="$classTGeoTubeSeg.html" title="A phi segment of a tube. " alt="" coords="749,765,860,792"/>
+<area shape="rect" id="node27" href="$classTGeoCtub.html" title="A tube segment cut with 2 planes. " alt="" coords="909,765,996,792"/>
+</map>

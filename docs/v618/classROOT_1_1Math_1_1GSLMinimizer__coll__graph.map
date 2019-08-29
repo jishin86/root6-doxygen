@@ -1,0 +1,10 @@
+<map id="ROOT::Math::GSLMinimizer" name="ROOT::Math::GSLMinimizer">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1BasicMinimizer.html" title="Base Minimizer class, which defines the basic funcionality of various minimizer implementations (apar..." alt="" coords="1171,241,1376,268"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1Minimizer.html" title="Abstract Minimizer class, defining the interface for the various minimizer (like Minuit2, Minuit, GSL, etc..) Plug&#45;in&#39;s exist in ROOT to be able to instantiate the derived classes like ROOT::Math::GSLMinimizer or ROOT::Math::Minuit2Minimizer via the plug&#45;in manager. " alt="" coords="848,36,1019,63"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1MinimizerOptions.html" title="Minimizer options. " alt="" coords="495,36,715,63"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Math_1_1IOptions.html" title="Generic interface for defining configuration options of a numerical algorithm. " alt="" coords="193,5,353,32"/>
+<area shape="rect" id="node6" title="STL class. " alt="" coords="230,65,317,92"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Math_1_1IBaseFunctionMultiDimTempl.html" title="Documentation for the abstract class IBaseFunctionMultiDim. " alt="" coords="835,87,1031,129"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Math_1_1GSLMultiMinimizer.html" title="GSLMultiMinimizer class , for minimizing multi&#45;dimensional function using derivatives. " alt="" coords="1160,351,1387,377"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Math_1_1GSLMultiMinDerivFunctionWrapper.html" title="Wrapper for a multi&#45;dimensional function with derivatives used in GSL multidim minimization algorithm..." alt="" coords="823,402,1044,443"/>
+</map>

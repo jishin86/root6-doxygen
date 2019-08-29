@@ -1,0 +1,31 @@
+<map id="ROOT::Minuit2::FunctionMinimum" name="ROOT::Minuit2::FunctionMinimum">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicFunctionMinimum \&gt;" alt="" coords="16,1193,232,1249"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnReferenceCounter.html" title="ROOT::Minuit2::MnReference\lCounter" alt="" coords="1906,124,2113,165"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumSeed \&gt;" alt="" coords="1821,867,2037,923"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumState \&gt;" alt="" coords="1984,540,2200,596"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumParameters \&gt;" alt="" coords="2356,228,2572,284"/>
+<area shape="rect" id="node16" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicFunctionGradient \&gt;" alt="" coords="2620,228,2836,284"/>
+<area shape="rect" id="node19" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumError \&gt;" alt="" coords="2096,228,2312,284"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1BasicFunctionMinimum.html" title="result of the minimization; both internal and external (MnUserParameterState) representation availabl..." alt="" coords="563,1089,773,1131"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1MinimumSeed.html" title="MinimumSeed contains the starting values for the minimization produced by the SeedGenerator. " alt="" coords="703,993,918,1019"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1BasicMinimumSeed.html" title="ROOT::Minuit2::BasicMinimumSeed" alt="" coords="1967,776,2217,803"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1MinimumState.html" title="MinimumState keeps the information (position, Gradient, 2nd deriv, etc) after one minimization step (..." alt="" coords="1983,659,2201,685"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1BasicMinimumState.html" title="ROOT::Minuit2::BasicMinimum\lState" alt="" coords="2237,436,2456,477"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1MinimumParameters.html" title="ROOT::Minuit2::MinimumParameters" alt="" coords="2335,347,2593,373"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Minuit2_1_1BasicMinimumParameters.html" title="ROOT::Minuit2::BasicMinimum\lParameters" alt="" coords="2380,124,2599,165"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Minuit2_1_1LAVector.html" title="ROOT::Minuit2::LAVector" alt="" coords="2519,5,2697,32"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Minuit2_1_1BasicFunctionGradient.html" title="ROOT::Minuit2::BasicFunction\lGradient" alt="" coords="2623,124,2833,165"/>
+<area shape="rect" id="node15" href="$classROOT_1_1Minuit2_1_1FunctionGradient.html" title="ROOT::Minuit2::FunctionGradient" alt="" coords="2617,347,2849,373"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Minuit2_1_1MinimumError.html" title="MinimumError keeps the inv. " alt="" coords="2097,347,2311,373"/>
+<area shape="rect" id="node20" href="$classROOT_1_1Minuit2_1_1BasicMinimumError.html" title="Internal Class containing the error information on the estimated minimum : Error matrix + dcovar + ad..." alt="" coords="2137,124,2356,165"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Minuit2_1_1LASymMatrix.html" title="Class describing a symmetric matrix of size n. " alt="" coords="2143,5,2351,32"/>
+<area shape="rect" id="node22" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="927,659,1196,685"/>
+<area shape="rect" id="node33" href="$classROOT_1_1Minuit2_1_1MnUserParameters.html" title="API class for the user interaction with the parameters; serves as input to the minimizer as well as o..." alt="" coords="759,776,1004,803"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="1393,547,1634,589"/>
+<area shape="rect" id="node24" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="1658,547,1891,589"/>
+<area shape="rect" id="node25" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="525,547,720,589"/>
+<area shape="rect" id="node26" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="745,547,954,589"/>
+<area shape="rect" id="node31" href="$classROOT_1_1Minuit2_1_1MnUserParameterState.html" title="class which holds the external user and/or internal Minuit representation of the parameters and error..." alt="" coords="486,874,725,915"/>
+<area shape="rect" id="node32" href="$classROOT_1_1Minuit2_1_1MnUserCovariance.html" title="Class containing the covariance matrix data represented as a vector of size n*(n+1)/2 Used to hide in..." alt="" coords="123,717,367,743"/>
+<area shape="rect" id="node34" href="$classROOT_1_1Minuit2_1_1MnGlobalCorrelationCoeff.html" title="class for global correlation coefficient " alt="" coords="374,709,629,751"/>
+</map>

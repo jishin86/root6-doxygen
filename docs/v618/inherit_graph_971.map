@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROOT_1_1RDF_1_1RDataSource.html" title=" RDataSource defines an API that RDataFrame can use to read arbitrary data formats. " alt="" coords="5,181,188,207"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Experimental_1_1RNTupleDS.html" title="ROOT::Experimental\l::RNTupleDS" alt="" coords="241,5,395,47"/>
+<area shape="rect" id="node3" href="$classROOT_1_1RDF_1_1RArrowDS.html" title="RDataFrame data source class to interface with Apache Arrow. " alt="" coords="237,71,399,98"/>
+<area shape="rect" id="node4" href="$classROOT_1_1RDF_1_1RCsvDS.html" title="RDataFrame data source class for reading CSV files. " alt="" coords="243,122,393,149"/>
+<area shape="rect" id="node5" href="$classROOT_1_1RDF_1_1RLazyDS.html" title="A RDataSource implementation which is built on top of result proxies. " alt="" coords="240,173,396,215"/>
+<area shape="rect" id="node6" href="$classROOT_1_1RDF_1_1RRootDS.html" title="ROOT::RDF::RRootDS" alt="" coords="241,239,395,266"/>
+<area shape="rect" id="node7" href="$classROOT_1_1RDF_1_1RSqliteDS.html" title=" RSqliteDS is an RDF data source implementation for SQL result sets from sqlite3 files. " alt="" coords="237,290,399,317"/>
+<area shape="rect" id="node8" href="$classROOT_1_1RDF_1_1RTrivialDS.html" title="ROOT::RDF::RTrivialDS" alt="" coords="236,341,400,367"/>
+</map>

@@ -1,0 +1,40 @@
+<map id="core/base/inc/TFileCollection.h" name="core/base/inc/TFileCollection.h">
+<area shape="rect" id="node2" href="$TFileCollection_8cxx.html" title="core/base/src/TFileCollection.cxx" alt="" coords="644,87,879,114"/>
+<area shape="rect" id="node3" href="$TProcessExecutor_8hxx.html" title="core/multiproc/inc\l/ROOT/TProcessExecutor.hxx" alt="" coords="903,80,1113,121"/>
+<area shape="rect" id="node17" href="$TSessionViewer_8cxx.html" title="gui/sessionviewer/src\l/TSessionViewer.cxx" alt="" coords="1137,80,1300,121"/>
+<area shape="rect" id="node18" href="$TAlienCollection_8cxx.html" title="net/alien/src/TAlienCollection.cxx" alt="" coords="1325,87,1563,114"/>
+<area shape="rect" id="node19" href="$TFileStager_8cxx.html" title="net/net/src/TFileStager.cxx" alt="" coords="1587,87,1781,114"/>
+<area shape="rect" id="node20" href="$TXNetFileStager_8cxx.html" title="net/netx/src/TXNetFileStager.cxx" alt="" coords="1805,87,2038,114"/>
+<area shape="rect" id="node21" href="$TNetXNGFileStager_8cxx.html" title="net/netxng/src/TNetXNGFile\lStager.cxx" alt="" coords="2062,80,2263,121"/>
+<area shape="rect" id="node22" href="$TDataSetManagerAliEn_8h.html" title="proof/proof/inc/TDataSet\lManagerAliEn.h" alt="" coords="2288,80,2469,121"/>
+<area shape="rect" id="node24" href="$TDataSetManager_8cxx.html" title="proof/proof/src/TDataSet\lManager.cxx" alt="" coords="2493,80,2675,121"/>
+<area shape="rect" id="node25" href="$TDataSetManagerFile_8cxx.html" title="proof/proof/src/TDataSet\lManagerFile.cxx" alt="" coords="2699,80,2880,121"/>
+<area shape="rect" id="node26" href="$TProof_8cxx.html" title="proof/proof/src/TProof.cxx" alt="" coords="2904,87,3093,114"/>
+<area shape="rect" id="node27" href="$TProofLite_8cxx.html" title="proof/proof/src/TProofLite.cxx" alt="" coords="3118,87,3333,114"/>
+<area shape="rect" id="node28" href="$TProofMgr_8cxx.html" title="proof/proof/src/TProofMgr.cxx" alt="" coords="3357,87,3571,114"/>
+<area shape="rect" id="node29" href="$TProofOutputFile_8cxx.html" title="proof/proof/src/TProofOutput\lFile.cxx" alt="" coords="3595,80,3802,121"/>
+<area shape="rect" id="node30" href="$TProofServ_8cxx.html" title="proof/proof/src/TProofServ.cxx" alt="" coords="3827,87,4045,114"/>
+<area shape="rect" id="node31" href="$TSelVerifyDataSet_8cxx.html" title="proof/proof/src/TSelVerify\lDataSet.cxx" alt="" coords="4069,80,4256,121"/>
+<area shape="rect" id="node32" href="$TProofBench_8cxx.html" title="proof/proofbench/src\l/TProofBench.cxx" alt="" coords="4281,80,4437,121"/>
+<area shape="rect" id="node33" href="$TProofBenchDataSet_8cxx.html" title="proof/proofbench/src\l/TProofBenchDataSet.cxx" alt="" coords="4461,80,4648,121"/>
+<area shape="rect" id="node34" href="$TProofBenchRunCPU_8cxx.html" title="proof/proofbench/src\l/TProofBenchRunCPU.cxx" alt="" coords="4672,80,4859,121"/>
+<area shape="rect" id="node35" href="$TProofBenchRunDataRead_8cxx.html" title="proof/proofbench/src\l/TProofBenchRunDataRead.cxx" alt="" coords="4883,80,5106,121"/>
+<area shape="rect" id="node36" href="$TPacketizerFile_8cxx.html" title="proof/proofplayer/src\l/TPacketizerFile.cxx" alt="" coords="5130,80,5289,121"/>
+<area shape="rect" id="node37" href="$TProofPlayer_8cxx.html" title="proof/proofplayer/src\l/TProofPlayer.cxx" alt="" coords="5313,80,5471,121"/>
+<area shape="rect" id="node38" href="$TTreeProcessorMP_8hxx.html" title="tree/treeplayer/inc\l/ROOT/TTreeProcessorMP.hxx" alt="" coords="5496,80,5707,121"/>
+<area shape="rect" id="node4" href="$TProcPool_8h.html" title="core/multiproc/inc\l/TProcPool.h" alt="" coords="851,169,989,211"/>
+<area shape="rect" id="node16" href="$TProcessExecutor_8cxx.html" title="core/multiproc/src\l/TProcessExecutor.cxx" alt="" coords="1014,169,1181,211"/>
+<area shape="rect" id="node5" href="$Envelope_8h.html" title="tmva/tmva/inc/TMVA\l/Envelope.h" alt="" coords="841,259,999,300"/>
+<area shape="rect" id="node6" href="$Classification_8h.html" title="tmva/tmva/inc/TMVA\l/Classification.h" alt="" coords="275,348,432,389"/>
+<area shape="rect" id="node9" href="$CrossValidation_8h.html" title="tmva/tmva/inc/TMVA\l/CrossValidation.h" alt="" coords="513,348,671,389"/>
+<area shape="rect" id="node11" href="$HyperParameterOptimisation_8h.html" title="tmva/tmva/inc/TMVA\l/HyperParameterOptimisation.h" alt="" coords="695,348,923,389"/>
+<area shape="rect" id="node13" href="$VariableImportance_8h.html" title="tmva/tmva/inc/TMVA\l/VariableImportance.h" alt="" coords="948,348,1113,389"/>
+<area shape="rect" id="node14" href="$VariableImportance_8cxx.html" title="tmva/tmva/src/VariableImportance.cxx" alt="" coords="1003,445,1277,471"/>
+<area shape="rect" id="node15" href="$Envelope_8cxx.html" title="tmva/tmva/src/Envelope.cxx" alt="" coords="1188,355,1396,382"/>
+<area shape="rect" id="node7" href="$Classification_8cxx.html" title="tmva/tmva/src/Classification.cxx" alt="" coords="5,445,240,471"/>
+<area shape="rect" id="node8" href="$classification_8C.html" title=" &lt;a href=&quot;http://nbviewer.jupyter.org/url/root.cern.ch/doc/master/notebooks/classification.C.nbconvert.ipynb&quot; target=&quot;_blank&quot;&gt;&lt;img src= notebook.gif alt=&quot;View in nbviewer&quot; style=&quot;height:1em&quot; &gt;&lt;/a&gt; &lt;a href=&quot;https://cern.ch/swanserver/cgi&#45;bin/go?projurl=https://root.cern.ch/doc/master/notebooks/classification.C.nbconvert.ipynb&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png&quot; &#160;alt=&quot;Open in SWAN&quot; style=&quot;height:1em&quot; &gt;&lt;/a&gt; &#160;" alt="" coords="264,437,443,479"/>
+<area shape="rect" id="node10" href="$CrossValidation_8cxx.html" title="tmva/tmva/src/CrossValidation.cxx" alt="" coords="467,445,717,471"/>
+<area shape="rect" id="node12" href="$HyperParameterOptimisation_8cxx.html" title="tmva/tmva/src/HyperParameter\lOptimisation.cxx" alt="" coords="741,437,968,479"/>
+<area shape="rect" id="node23" href="$TDataSetManagerAliEn_8cxx.html" title="proof/proof/src/TDataSet\lManagerAliEn.cxx" alt="" coords="2288,169,2469,211"/>
+<area shape="rect" id="node39" href="$TTreeProcessorMP_8cxx.html" title="tree/treeplayer/src\l/TTreeProcessorMP.cxx" alt="" coords="5517,169,5685,211"/>
+</map>

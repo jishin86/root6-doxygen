@@ -1,0 +1,80 @@
+<map id="RooAbsPdf" name="RooAbsPdf">
+<area shape="rect" id="node7" href="$classMyPdfV1.html" title="MyPdfV1" alt="" coords="763,5,841,32"/>
+<area shape="rect" id="node8" href="$classMyPdfV2.html" title="MyPdfV2" alt="" coords="763,56,841,83"/>
+<area shape="rect" id="node9" href="$classMyPdfV3.html" title="MyPdfV3" alt="" coords="763,107,841,133"/>
+<area shape="rect" id="node10" href="$classNuMuToNuE__Oscillation.html" title="NuMuToNuE_Oscillation" alt="" coords="715,157,889,184"/>
+<area shape="rect" id="node11" href="$classRoo2DKeysPdf.html" title="Two&#45;dimensional kernel estimation PDF. " alt="" coords="744,208,860,235"/>
+<area shape="rect" id="node12" href="$classRooAbsAnaConvPdf.html" title="RooAbsAnaConvPdf is the base class for PDFs that represent a physics model that can be analytically c..." alt="" coords="727,259,877,285"/>
+<area shape="rect" id="node19" href="$classRooAbsCachedPdf.html" title="RooAbsCachedPdf is the abstract base class for p.d.f.s that need or want to cache their evaluate() ou..." alt="" coords="733,309,871,336"/>
+<area shape="rect" id="node24" href="$classRooAddPdf.html" title="RooAddPdf is an efficient implementation of a sum of PDFs of the form. " alt="" coords="756,360,848,387"/>
+<area shape="rect" id="node25" href="$classRooArgusBG.html" title="RooArgusBG is a RooAbsPdf implementation describing the ARGUS background shape. " alt="" coords="751,411,853,437"/>
+<area shape="rect" id="node26" href="$classRooBernstein.html" title="Bernstein basis polynomials are positive&#45;definite in the range [0,1]. " alt="" coords="748,461,856,488"/>
+<area shape="rect" id="node27" href="$classRooBifurGauss.html" title="Bifurcated Gaussian p.d.f with different widths on left and right side of maximum value..." alt="" coords="743,512,861,539"/>
+<area shape="rect" id="node28" href="$classRooBreitWigner.html" title="Class RooBreitWigner is a RooAbsPdf implementation that models a non&#45;relativistic Breit&#45;Wigner shape..." alt="" coords="741,563,863,589"/>
+<area shape="rect" id="node29" href="$classRooBukinPdf.html" title="RooBukinPdf implements the NovosibirskA function. " alt="" coords="750,613,854,640"/>
+<area shape="rect" id="node30" href="$classRooCBShape.html" title="P.d.f implementing the Crystal Ball line shape. " alt="" coords="750,664,854,691"/>
+<area shape="rect" id="node31" href="$classRooCFAuto000Pdf.html" title="RooCFAuto000Pdf" alt="" coords="734,715,870,741"/>
+<area shape="rect" id="node32" href="$classRooCFunction1PdfBinding.html" title="RooCFunction1PdfBinding\l\&lt; VO, VI \&gt;" alt="" coords="709,766,895,807"/>
+<area shape="rect" id="node33" href="$classRooCFunction2PdfBinding.html" title="RooCFunction2PdfBinding\l\&lt; VO, VI1, VI2 \&gt;" alt="" coords="709,831,895,873"/>
+<area shape="rect" id="node34" href="$classRooCFunction3PdfBinding.html" title="RooCFunction3PdfBinding\l\&lt; VO, VI1, VI2, VI3 \&gt;" alt="" coords="709,897,895,938"/>
+<area shape="rect" id="node35" href="$classRooCFunction4PdfBinding.html" title="RooCFunction4PdfBinding\l\&lt; VO, VI1, VI2, VI3, VI4 \&gt;" alt="" coords="709,962,895,1003"/>
+<area shape="rect" id="node36" href="$classRooChebychev.html" title="Chebychev polynomial p.d.f. " alt="" coords="743,1028,861,1055"/>
+<area shape="rect" id="node37" href="$classRooChiSquarePdf.html" title="The PDF of the Chi Square distribution for n degrees of freedom. " alt="" coords="735,1079,869,1105"/>
+<area shape="rect" id="node38" href="$classRooDstD0BG.html" title="Special p.d.f shape that can be used to model the background of D*&#45;D0 mass difference distributions..." alt="" coords="749,1129,855,1156"/>
+<area shape="rect" id="node39" href="$classRooEfficiency.html" title="RooEfficiency is a PDF helper class to fit efficiencies parameterized by a supplied function F..." alt="" coords="747,1180,857,1207"/>
+<area shape="rect" id="node40" href="$classRooEffProd.html" title="The class RooEffProd implements the product of a PDF with an efficiency function. ..." alt="" coords="756,1231,848,1257"/>
+<area shape="rect" id="node41" href="$classRooExponential.html" title="Exponential p.d.f. " alt="" coords="741,1281,863,1308"/>
+<area shape="rect" id="node42" href="$classRooExtendedTerm.html" title="RooExtendedTerm is a p.d.f with no observables that only introduces an extended ML term for a given n..." alt="" coords="733,1332,871,1359"/>
+<area shape="rect" id="node43" href="$classRooExtendPdf.html" title="RooExtendPdf is a wrapper around an existing PDF that adds a parameteric extended likelihood term to ..." alt="" coords="746,1383,858,1409"/>
+<area shape="rect" id="node44" href="$classRooFunctor1DPdfBinding.html" title="RooFunctor1DPdfBinding" alt="" coords="711,1433,893,1460"/>
+<area shape="rect" id="node45" href="$classRooFunctorPdfBinding.html" title="RooFunctorPdfBinding" alt="" coords="721,1484,883,1511"/>
+<area shape="rect" id="node46" href="$classRooGamma.html" title="Implementation of the Gamma PDF for RooFit/RooStats. " alt="" coords="753,1535,851,1561"/>
+<area shape="rect" id="node47" href="$classRooGaussian.html" title="Plain Gaussian p.d.f. " alt="" coords="749,1585,855,1612"/>
+<area shape="rect" id="node48" href="$classRooGenericPdf.html" title="RooGenericPdf is a concrete implementation of a probability density function, which takes a RooArgLis..." alt="" coords="743,1636,861,1663"/>
+<area shape="rect" id="node49" href="$classRooGenPdfPdf.html" title="RooGenPdfPdf" alt="" coords="745,1687,859,1713"/>
+<area shape="rect" id="node50" href="$classRooHistConstraint.html" title="RooHistConstraint" alt="" coords="733,1737,871,1764"/>
+<area shape="rect" id="node51" href="$classRooHistPdf.html" title="RooHistPdf implements a probablity density function sampled from a multidimensional histogram..." alt="" coords="755,1788,849,1815"/>
+<area shape="rect" id="node52" href="$classRooJeffreysPrior.html" title="RooJeffreysPrior. " alt="" coords="739,1839,865,1865"/>
+<area shape="rect" id="node53" href="$classRooJohnson.html" title="Johnson&#39;s &#160;distribution. " alt="" coords="753,1889,851,1916"/>
+<area shape="rect" id="node54" href="$classRooKeysPdf.html" title="Class RooKeysPdf implements a one&#45;dimensional kernel estimation p.d.f which model the distribution of..." alt="" coords="753,1940,851,1967"/>
+<area shape="rect" id="node55" href="$classRooLandau.html" title="Landau distribution p.d.f. " alt="" coords="755,1991,849,2017"/>
+<area shape="rect" id="node56" href="$classRooLognormal.html" title="RooFit Lognormal PDF. " alt="" coords="745,2041,859,2068"/>
+<area shape="rect" id="node57" href="$classRooMomentMorph.html" title="RooMomentMorph" alt="" coords="733,2092,871,2119"/>
+<area shape="rect" id="node58" href="$classRooMomentMorphND.html" title="RooMomentMorphND" alt="" coords="723,2143,881,2169"/>
+<area shape="rect" id="node59" href="$classRooMultiVarGaussian.html" title="Multivariate Gaussian p.d.f. " alt="" coords="723,2193,881,2220"/>
+<area shape="rect" id="node60" href="$classRooNDKeysPdf.html" title="Generic N&#45;dimensional implementation of a kernel estimation p.d.f. " alt="" coords="743,2244,861,2271"/>
+<area shape="rect" id="node61" href="$classRooNonCentralChiSquare.html" title="The PDF of the Non&#45;Central Chi Square distribution for n degrees of freedom. " alt="" coords="709,2295,895,2321"/>
+<area shape="rect" id="node62" href="$classRooNovosibirsk.html" title="RooNovosibirsk implements the Novosibirsk function. " alt="" coords="741,2345,863,2372"/>
+<area shape="rect" id="node63" href="$classRooNumConvPdf.html" title="Numeric 1&#45;dimensional convolution operator PDF. " alt="" coords="737,2396,867,2423"/>
+<area shape="rect" id="node64" href="$classRooParametricStepFunction.html" title="The Parametric Step Function PDF is a binned distribution whose parameters are the heights of each bi..." alt="" coords="703,2447,901,2473"/>
+<area shape="rect" id="node65" href="$classRooPoisson.html" title="Poisson pdf. " alt="" coords="754,2497,850,2524"/>
+<area shape="rect" id="node66" href="$classRooPolynomial.html" title="RooPolynomial implements a polynomial p.d.f of the form &#160;By default, the coefficient &#160;is chosen to be..." alt="" coords="743,2548,861,2575"/>
+<area shape="rect" id="node67" href="$classRooProdPdf.html" title="RooProdPdf is an efficient implementation of a product of PDFs of the form . " alt="" coords="754,2599,850,2625"/>
+<area shape="rect" id="node68" href="$classRooProjectedPdf.html" title="Class RooProjectedPdf is a RooAbsPdf implementation that represent a projection of a given input p..." alt="" coords="738,2649,866,2676"/>
+<area shape="rect" id="node69" href="$classRooRealSumPdf.html" title="The class RooRealSumPdf implements a PDF constructed from a sum of functions: . " alt="" coords="740,2700,864,2727"/>
+<area shape="rect" id="node70" href="$classRooResolutionModel.html" title="RooResolutionModel" alt="" coords="725,2751,879,2777"/>
+<area shape="rect" id="node75" href="$classRooSimultaneous.html" title="RooSimultaneous facilitates simultaneous fitting of multiple PDFs to subsets of a given dataset..." alt="" coords="735,2801,869,2828"/>
+<area shape="rect" id="node77" href="$classRooTFnPdfBinding.html" title="RooTFnPdfBinding" alt="" coords="733,2852,871,2879"/>
+<area shape="rect" id="node78" href="$classRooUniform.html" title="Flat p.d.f. " alt="" coords="753,2903,851,2929"/>
+<area shape="rect" id="node79" href="$classRooVoigtian.html" title="RooVoigtian is an efficient implementation of the convolution of a Breit&#45;Wigner with a Gaussian..." alt="" coords="753,2953,851,2980"/>
+<area shape="rect" id="node2" href="$classRooAbsReal.html" title="RooAbsReal is the common abstract base class for objects that represent a real value and implements f..." alt="" coords="417,1509,516,1536"/>
+<area shape="rect" id="node3" href="$classRooAbsArg.html" title="RooAbsArg is the common abstract base class for objects that represent a value (of arbitrary type) an..." alt="" coords="277,1509,369,1536"/>
+<area shape="rect" id="node4" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="139,1484,216,1511"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="5,1484,77,1511"/>
+<area shape="rect" id="node6" href="$classRooPrintable.html" title="RooPlotable is a &#39;mix&#45;in&#39; base class that define the standard RooFit plotting and printing methods..." alt="" coords="125,1535,229,1561"/>
+<area shape="rect" id="node13" href="$classRooBCPEffDecay.html" title="PDF describing decay time distribution of B meson including effects of standard model CP violation..." alt="" coords="980,31,1111,57"/>
+<area shape="rect" id="node14" href="$classRooBCPGenDecay.html" title="Implement standard CP physics model with S and C (no mention of lambda) Suitably stolen and modified ..." alt="" coords="976,81,1115,108"/>
+<area shape="rect" id="node15" href="$classRooBDecay.html" title="Most general description of B decay time distribution with effects of CP violation, mixing and life time differences. " alt="" coords="997,132,1093,159"/>
+<area shape="rect" id="node16" href="$classRooBMixDecay.html" title="Class RooBMixDecay is a RooAbsAnaConvPdf implementation that describes the decay of B mesons with the..." alt="" coords="986,183,1105,209"/>
+<area shape="rect" id="node17" href="$classRooDecay.html" title="Single or double sided decay function that can be analytically convolved with any RooResolutionModel ..." alt="" coords="1002,233,1089,260"/>
+<area shape="rect" id="node18" href="$classRooNonCPEigenDecay.html" title="Time&#45;dependent RooAbsAnaConvPdf for CP violating decays to Non&#45;CP eigenstates (eg, ). " alt="" coords="962,284,1129,311"/>
+<area shape="rect" id="node20" href="$classRooAbsSelfCachedPdf.html" title="RooAbsSelfCachedPdf is an abstract base class for probability density functions whose output is cache..." alt="" coords="963,335,1127,361"/>
+<area shape="rect" id="node21" href="$classRooCachedPdf.html" title="RooCachedPdf is an implementation of RooAbsCachedPdf that can cache any external RooAbsPdf input func..." alt="" coords="988,385,1103,412"/>
+<area shape="rect" id="node22" href="$classRooFFTConvPdf.html" title="PDF for the numerical (FFT) convolution of two PDFs. " alt="" coords="985,436,1106,463"/>
+<area shape="rect" id="node23" href="$classRooIntegralMorph.html" title="Class RooIntegralMorph is an implementation of the histogram interpolation technique described by Ale..." alt="" coords="977,487,1113,513"/>
+<area shape="rect" id="node71" href="$classRooAddModel.html" title="RooAddModel" alt="" coords="990,2649,1101,2676"/>
+<area shape="rect" id="node72" href="$classRooGaussModel.html" title="Class RooGaussModel implements a RooResolutionModel that models a Gaussian distribution. " alt="" coords="983,2700,1108,2727"/>
+<area shape="rect" id="node73" href="$classRooGExpModel.html" title="Class RooGExpModel is a RooResolutionModel implementation that models a resolution function that is t..." alt="" coords="986,2751,1105,2777"/>
+<area shape="rect" id="node74" href="$classRooTruthModel.html" title="RooTruthModel is an implementation of RooResolution model that provides a delta&#45;function resolution m..." alt="" coords="987,2801,1104,2828"/>
+<area shape="rect" id="node76" href="$classRooStats_1_1HistFactory_1_1HistFactorySimultaneous.html" title="RooSimultaneous facilitates simultaneous fitting of multiple PDFs to subsets of a given dataset..." alt="" coords="949,2853,1141,2894"/>
+</map>

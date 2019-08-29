@@ -1,0 +1,18 @@
+<map id="ROOT::Math::IBaseParam" name="ROOT::Math::IBaseParam">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1IParametricFunctionMultiDimTempl.html" title="ROOT::Math::IParametricFunction\lMultiDimTempl\&lt; double \&gt;" alt="" coords="236,71,471,112"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Math_1_1IParametricFunctionMultiDimTempl.html" title="IParamFunction interface (abstract class) describing multi&#45;dimensional parameteric functions It is a ..." alt="" coords="236,195,471,236"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Math_1_1IParametricGradFunctionMultiDimTempl.html" title="Interface (abstract class) for parametric gradient multi&#45;dimensional functions providing in addition ..." alt="" coords="529,136,741,177"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Math_1_1IParametricFunctionOneDim.html" title="Specialized IParamFunction interface (abstract class) for one&#45;dimensional parametric functions It is ..." alt="" coords="236,325,471,367"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1MultiDimParamFunctionAdapter.html" title="MultiDimParamFunctionAdapter class to wrap a one&#45;dimensional parametric function in a multi dimension..." alt="" coords="532,5,739,47"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1WrappedParamFunctionGen.html" title="WrappedParamGenFunction class to wrap any multi&#45;dimensional function implementing the operator()(cons..." alt="" coords="533,71,737,112"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Math_1_1WrappedParamFunction.html" title="WrappedParamFunction class to wrap any multi&#45;dimensional function pbject implementing the operator()(..." alt="" coords="533,201,737,243"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Math_1_1MultiDimParamGradFunctionAdapter.html" title="MultiDimParamGradFunctionAdapter class to wrap a one&#45;dimensional parametric gradient function in a mu..." alt="" coords="800,104,1032,145"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Math_1_1WrappedMultiTF1Templ.html" title="Class to Wrap a ROOT Function class (like TF1) in a IParamMultiFunction interface of multi&#45;dimensions..." alt="" coords="819,169,1013,211"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Math_1_1IParametricGradFunctionOneDim.html" title="Interface (abstract class) for parametric one&#45;dimensional gradient functions providing in addition to..." alt="" coords="530,267,741,308"/>
+<area shape="rect" id="node15" href="$classROOT_1_1Math_1_1VavilovAccurateCdf.html" title="Class describing the Vavilov cdf. " alt="" coords="519,333,752,359"/>
+<area shape="rect" id="node16" href="$classROOT_1_1Math_1_1VavilovAccuratePdf.html" title="Class describing the Vavilov pdf. " alt="" coords="519,383,751,410"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Math_1_1VavilovAccurateQuantile.html" title="Class describing the Vavilov quantile function. " alt="" coords="530,435,741,476"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Math_1_1ParamFunction.html" title="ROOT::Math::ParamFunction\l\&lt; IParamGradFunction \&gt;" alt="" coords="815,251,1017,292"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Math_1_1WrappedTF1.html" title="Class to Wrap a ROOT Function class (like TF1) in a IParamFunction interface of one dimensions to be ..." alt="" coords="823,317,1009,343"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Math_1_1Polynomial.html" title="Parametric Function class describing polynomials of order n. " alt="" coords="1080,258,1259,285"/>
+</map>

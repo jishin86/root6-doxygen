@@ -1,0 +1,22 @@
+<map id="TDirectory" name="TDirectory">
+<area shape="rect" id="node4" href="$classTDirectoryFile.html" title=" A ROOT file is structured in Directories (like a file system). " alt="" coords="389,183,501,209"/>
+<area shape="rect" id="node21" href="$classTROOT.html" title="ROOT top level object description. " alt="" coords="412,233,479,260"/>
+<area shape="rect" id="node2" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="125,208,203,235"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="5,208,77,235"/>
+<area shape="rect" id="node5" href="$classRooWorkspace_1_1WSDir.html" title="RooWorkspace::WSDir" alt="" coords="549,157,715,184"/>
+<area shape="rect" id="node6" href="$classTFile.html" title="A ROOT file is a suite of consecutive data records (TKey instances) with a well defined format..." alt="" coords="606,208,658,235"/>
+<area shape="rect" id="node7" href="$classTDavixFile.html" title="TDavixFile" alt="" coords="769,5,860,32"/>
+<area shape="rect" id="node8" href="$classTDCacheFile.html" title=" A TDCacheFile is like a normal TFile except that it may read and write its data via a dCache server ..." alt="" coords="763,56,866,83"/>
+<area shape="rect" id="node9" href="$classTGFALFile.html" title=" Read and write data via the underlying Grid access mechanism. " alt="" coords="773,107,857,133"/>
+<area shape="rect" id="node10" href="$classTMemFile.html" title=" A TMemFile is like a normal TFile except that it reads and writes only from memory. " alt="" coords="773,157,857,184"/>
+<area shape="rect" id="node13" href="$classTNetFile.html" title="TNetFile" alt="" coords="777,208,852,235"/>
+<area shape="rect" id="node16" href="$classTNetXNGFile.html" title="TNetXNGFile" alt="" coords="763,259,867,285"/>
+<area shape="rect" id="node17" href="$classTSQLFile.html" title=" Access an SQL db via the TFile interface. " alt="" coords="776,309,853,336"/>
+<area shape="rect" id="node18" href="$classTWebFile.html" title="TWebFile" alt="" coords="775,360,855,387"/>
+<area shape="rect" id="node20" href="$classTXMLFile.html" title="TXMLFile" alt="" coords="775,411,854,437"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Experimental_1_1TBufferMergerFile.html" title="ROOT::Experimental\l::TBufferMergerFile" alt="" coords="915,91,1068,133"/>
+<area shape="rect" id="node12" href="$classTParallelMergingFile.html" title="TParallelMergingFile" alt="" coords="915,157,1067,184"/>
+<area shape="rect" id="node14" href="$classTXNetFile.html" title="TXNetFile" alt="" coords="949,208,1033,235"/>
+<area shape="rect" id="node15" href="$classTAlienFile.html" title="TAlienFile" alt="" coords="1116,208,1200,235"/>
+<area shape="rect" id="node19" href="$classTS3WebFile.html" title="TS3WebFile" alt="" coords="943,360,1039,387"/>
+</map>

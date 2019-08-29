@@ -1,0 +1,28 @@
+<map id="TGLTransManip" name="TGLTransManip">
+<area shape="rect" id="node2" href="$classTGLManip.html" title="Abstract base class for viewer manipulators, which allow direct in viewer manipulation of a (TGlPhysi..." alt="" coords="1648,56,1735,83"/>
+<area shape="rect" id="node3" href="$classTVirtualGLManip.html" title="TVirtualGLManip" alt="" coords="1263,5,1393,32"/>
+<area shape="rect" id="node4" href="$classTPoint.html" title="TPoint" alt="" coords="1297,56,1359,83"/>
+<area shape="rect" id="node5" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="1257,236,1399,263"/>
+<area shape="rect" id="node7" href="$classTGLPShapeRef.html" title="Base class for references to TGLPysicalShape that need to be notified when the shape is destroyed..." alt="" coords="1633,165,1749,192"/>
+<area shape="rect" id="node8" href="$classTGLLogicalShape.html" title="Abstract logical shape &#45; a GL &#39;drawable&#39; &#45; base for all shapes &#45; faceset sphere etc. " alt="" coords="2531,609,2664,636"/>
+<area shape="rect" id="node12" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="1655,388,1727,415"/>
+<area shape="rect" id="node6" href="$classTGLMatrix.html" title="16 component (4x4) transform matrix &#45; column MAJOR as per GL. " alt="" coords="972,236,1060,263"/>
+<area shape="rect" id="node9" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="2347,609,2433,636"/>
+<area shape="rect" id="node10" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="1992,463,2111,489"/>
+<area shape="rect" id="node11" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="1639,337,1744,364"/>
+<area shape="rect" id="node13" href="$classTString.html" title="Basic string class. " alt="" coords="461,461,529,488"/>
+<area shape="rect" id="node26" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,533,828,560"/>
+<area shape="rect" id="node14" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,461,349,488"/>
+<area shape="rect" id="node15" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,411,144,437"/>
+<area shape="rect" id="node16" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,461,143,488"/>
+<area shape="rect" id="node17" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,512,145,539"/>
+<area shape="rect" id="node18" href="$classTGLBoundingBox.html" title="Concrete class describing an orientated (free) or axis aligned box of 8 vertices. ..." alt="" coords="949,388,1083,415"/>
+<area shape="rect" id="node19" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="447,357,543,384"/>
+<area shape="rect" id="node20" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="733,388,828,415"/>
+<area shape="rect" id="node22" href="$classTGLContextIdentity.html" title="Identifier of a shared GL&#45;context. " alt="" coords="1977,576,2125,603"/>
+<area shape="rect" id="node23" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1626,591,1757,617"/>
+<area shape="rect" id="node24" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1285,540,1371,567"/>
+<area shape="rect" id="node25" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="957,537,1075,564"/>
+<area shape="rect" id="node27" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,593,329,620"/>
+<area shape="rect" id="node28" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,576,548,603"/>
+</map>

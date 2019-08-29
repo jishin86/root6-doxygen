@@ -1,0 +1,43 @@
+<map id="TFileCacheRead" name="TFileCacheRead">
+<area shape="rect" id="node18" href="$classTFile.html" title="A ROOT file is a suite of consecutive data records (TKey instances) with a well defined format..." alt="" coords="2664,997,2716,1024"/>
+<area shape="rect" id="node2" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,548,329,575"/>
+<area shape="rect" id="node3" href="$classTFilePrefetch.html" title=" The prefetching mechanism uses two classes (TFilePrefetch and TFPBlock) to prefetch in advance a blo..." alt="" coords="2871,309,2978,336"/>
+<area shape="rect" id="node5" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1093,485,1171,512"/>
+<area shape="rect" id="node11" href="$classTThreadImp.html" title="TThreadImp" alt="" coords="608,169,708,196"/>
+<area shape="rect" id="node14" href="$classTMutexImp.html" title="TMutexImp" alt="" coords="456,392,551,419"/>
+<area shape="rect" id="node15" href="$classTCondition.html" title="TCondition" alt="" coords="1087,256,1177,283"/>
+<area shape="rect" id="node16" href="$classTConditionImp.html" title="TConditionImp" alt="" coords="600,271,716,297"/>
+<area shape="rect" id="node17" href="$classTSemaphore.html" title="TSemaphore" alt="" coords="905,119,1009,145"/>
+<area shape="rect" id="node20" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1684,1504,1775,1531"/>
+<area shape="rect" id="node25" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="769,804,863,831"/>
+<area shape="rect" id="node26" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="450,596,557,623"/>
+<area shape="rect" id="node32" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="2000,1133,2087,1160"/>
+<area shape="rect" id="node40" href="$classTUrl.html" title="This class represents a WWW compatible URL. " alt="" coords="2399,884,2449,911"/>
+<area shape="rect" id="node42" href="$classTFileCacheWrite.html" title=" &#160;A cache when writing files over the network " alt="" coords="2861,1043,2988,1069"/>
+<area shape="rect" id="node43" href="$classTArchiveFile.html" title="Class describing an archive file containing multiple sub&#45;files, like a ZIP or TAR archive..." alt="" coords="2875,1580,2975,1607"/>
+<area shape="rect" id="node44" href="$classTArchiveMember.html" title="TArchiveMember" alt="" coords="751,1576,881,1603"/>
+<area shape="rect" id="node45" href="$classTStopwatch.html" title="Stopwatch class. " alt="" coords="1255,9,1353,36"/>
+<area shape="rect" id="node4" href="$classTThread.html" title="TThread" alt="" coords="1417,283,1492,309"/>
+<area shape="rect" id="node31" href="$classTFileOpenHandle.html" title=" Class holding info about the file being opened " alt="" coords="2859,587,2991,613"/>
+<area shape="rect" id="node6" href="$classTString.html" title="Basic string class. " alt="" coords="469,1151,537,1177"/>
+<area shape="rect" id="node7" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,1624,349,1651"/>
+<area shape="rect" id="node8" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,1573,144,1600"/>
+<area shape="rect" id="node9" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,1624,143,1651"/>
+<area shape="rect" id="node10" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,1675,145,1701"/>
+<area shape="rect" id="node12" href="$classTMutex.html" title="TMutex" alt="" coords="781,333,851,360"/>
+<area shape="rect" id="node13" href="$classTVirtualMutex.html" title="This class implements a mutex interface. " alt="" coords="447,321,560,348"/>
+<area shape="rect" id="node19" href="$classTDirectoryFile.html" title=" A ROOT file is structured in Directories (like a file system). " alt="" coords="2869,1291,2981,1317"/>
+<area shape="rect" id="node21" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1377,1615,1532,1641"/>
+<area shape="rect" id="node22" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1423,1511,1487,1537"/>
+<area shape="rect" id="node23" href="$classTList.html" title="A doubly linked list. " alt="" coords="1428,1145,1481,1172"/>
+<area shape="rect" id="node39" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1681,853,1778,880"/>
+<area shape="rect" id="node41" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2000,864,2087,891"/>
+<area shape="rect" id="node24" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1073,1081,1191,1108"/>
+<area shape="rect" id="node38" href="$classTMap.html" title="TMap implements an associative array of (key,value) pairs using a THashTable for efficient retrieval ..." alt="" coords="2015,763,2072,789"/>
+<area shape="rect" id="node28" href="$classTDatime.html" title="This class stores the date and time with a precision of one second in an unsigned 32 bit word (950130..." alt="" coords="464,1524,543,1551"/>
+<area shape="rect" id="node29" href="$classROOT_1_1TRWSpinLock.html" title="ROOT::TRWSpinLock" alt="" coords="2347,712,2501,739"/>
+<area shape="rect" id="node30" href="$classROOT_1_1TSpinMutex.html" title="A spin mutex class which respects the STL interface for mutexes. " alt="" coords="1972,712,2115,739"/>
+<area shape="rect" id="node33" href="$classTArrayC.html" title="Array of chars or bytes (8 bits per element). " alt="" coords="2387,965,2461,992"/>
+<area shape="rect" id="node34" href="$classTArray.html" title="Abstract array base class. " alt="" coords="2011,965,2075,992"/>
+<area shape="rect" id="node35" href="$classROOT_1_1Internal_1_1RConcurrentHashColl.html" title="This class is a TS set of unsigned set. " alt="" coords="2323,1017,2525,1058"/>
+</map>

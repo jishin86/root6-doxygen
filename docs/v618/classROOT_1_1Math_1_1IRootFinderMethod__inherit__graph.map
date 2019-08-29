@@ -1,0 +1,11 @@
+<map id="ROOT::Math::IRootFinderMethod" name="ROOT::Math::IRootFinderMethod">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1BrentRootFinder.html" title="Class for finding the root of a one dimensional function using the Brent algorithm. " alt="" coords="280,61,489,87"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1GSLRootFinder.html" title="Base class for GSL Root&#45;Finding algorithms for one dimensional functions which do not use function de..." alt="" coords="285,111,484,138"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Math_1_1GSLRootFinderDeriv.html" title="Base class for GSL Root&#45;Finding algorithms for one dimensional functions which use function derivativ..." alt="" coords="285,233,484,275"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1Roots_1_1Bisection.html" title=" &#160;Roots::Bisection Bisection algorithm, simplest algorithm for bracketing the roots of a function..." alt="" coords="537,5,688,47"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Math_1_1Roots_1_1Brent.html" title="Brent&#45;Dekker algorithm which combines an interpolation strategy with the bisection algorithm See the ..." alt="" coords="537,71,688,112"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Math_1_1Roots_1_1FalsePos.html" title="False Position algorithm based on linear interpolation. " alt="" coords="537,136,688,177"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Math_1_1Roots_1_1Newton.html" title="a Newton algorithm, which computes the derivative at each iteration See the GSL manual for more infor..." alt="" coords="537,201,688,243"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Math_1_1Roots_1_1Secant.html" title="Secant algorithm, simplified version of Newton method, which does not require the derivative at every..." alt="" coords="537,267,688,308"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Math_1_1Roots_1_1Steffenson.html" title="Steffenson method, providing the fastes convergence. " alt="" coords="537,332,688,373"/>
+</map>

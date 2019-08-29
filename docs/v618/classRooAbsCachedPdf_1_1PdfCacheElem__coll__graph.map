@@ -1,0 +1,87 @@
+<map id="RooAbsCachedPdf::PdfCacheElem" name="RooAbsCachedPdf::PdfCacheElem">
+<area shape="rect" id="node2" href="$classRooAbsCacheElement.html" title="RooAbsCacheElement is the abstract base class for objects to be stored in RooAbsCache cache manager o..." alt="" coords="2943,3399,3107,3425"/>
+<area shape="rect" id="node3" href="$classRooAbsArg.html" title="RooAbsArg is the common abstract base class for objects that represent a value (of arbitrary type) an..." alt="" coords="2321,3216,2413,3243"/>
+<area shape="rect" id="node82" href="$classRooAbsReal.html" title="RooAbsReal is the common abstract base class for objects that represent a real value and implements f..." alt="" coords="4398,3225,4497,3252"/>
+<area shape="rect" id="node87" href="$classRooAbsCategory.html" title="RooAbsCategory is the common abstract base class for objects that represent a discrete value with a f..." alt="" coords="2733,2775,2862,2801"/>
+<area shape="rect" id="node96" href="$classRooListProxy.html" title="RooListProxy is the concrete proxy for RooArgList objects. " alt="" coords="2744,3691,2851,3717"/>
+<area shape="rect" id="node110" href="$classRooAbsCache.html" title="RooAbsCache is the abstract base class for data members of RooAbsArgs that cache other (composite) Ro..." alt="" coords="2742,3217,2853,3244"/>
+<area shape="rect" id="node122" href="$classRooSetProxy.html" title="RooSetProxy is the concrete proxy for RooArgSet objects. " alt="" coords="2745,3565,2849,3592"/>
+<area shape="rect" id="node4" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="811,2675,888,2701"/>
+<area shape="rect" id="node19" href="$classRooAbsCollection.html" title="RooAbsCollection is an abstract container object that can hold multiple RooAbsArg objects..." alt="" coords="1156,3324,1291,3351"/>
+<area shape="rect" id="node29" href="$classRooWorkspace.html" title="The RooWorkspace is a persistable container for RooFit projects. " alt="" coords="1907,2307,2025,2333"/>
+<area shape="rect" id="node40" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1921,2075,2011,2101"/>
+<area shape="rect" id="node48" href="$classTThread.html" title="TThread" alt="" coords="1540,127,1615,153"/>
+<area shape="rect" id="node59" href="$classTFileOpenHandle.html" title=" Class holding info about the file being opened " alt="" coords="3552,1605,3684,1632"/>
+<area shape="rect" id="node102" href="$classRooAbsData.html" title="RooAbsData is the common abstract base class for binned and unbinned datasets. " alt="" coords="2316,3775,2417,3801"/>
+<area shape="rect" id="node104" href="$classRooAbsDataStore.html" title="RooAbsDataStore is the abstract base class for data collection that use a TTree as internal storage m..." alt="" coords="1899,3755,2033,3781"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,1025,329,1052"/>
+<area shape="rect" id="node14" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1534,1025,1621,1052"/>
+<area shape="rect" id="node16" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="802,767,897,793"/>
+<area shape="rect" id="node17" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="445,741,551,768"/>
+<area shape="rect" id="node21" href="$classRooExpensiveObjectCache.html" title="RooExpensiveObjectCache is a singleton class that serves as repository for objects that are expensive..." alt="" coords="1480,2384,1675,2411"/>
+<area shape="rect" id="node31" href="$classRooLinkedList.html" title="RooLinkedList is an collection class for internal use, storing a collection of RooAbsArg pointers in ..." alt="" coords="1521,1475,1633,1501"/>
+<area shape="rect" id="node32" href="$classRooHashTable.html" title="RooHashTable implements a hash table for TObjects. " alt="" coords="1909,1465,2023,1492"/>
+<area shape="rect" id="node36" href="$classRooLinkedListElem.html" title="RooLinkedListElem is an link element for the RooLinkedList class. " alt="" coords="579,1436,724,1463"/>
+<area shape="rect" id="node46" href="$classTFileCacheRead.html" title=" A cache when reading files over the network. " alt="" coords="3958,483,4082,509"/>
+<area shape="rect" id="node47" href="$classTFilePrefetch.html" title=" The prefetching mechanism uses two classes (TFilePrefetch and TFPBlock) to prefetch in advance a blo..." alt="" coords="3565,251,3671,277"/>
+<area shape="rect" id="node49" href="$classTThreadImp.html" title="TThreadImp" alt="" coords="987,43,1087,69"/>
+<area shape="rect" id="node52" href="$classTMutexImp.html" title="TMutexImp" alt="" coords="451,195,545,221"/>
+<area shape="rect" id="node53" href="$classTCondition.html" title="TCondition" alt="" coords="1178,189,1269,216"/>
+<area shape="rect" id="node54" href="$classTConditionImp.html" title="TConditionImp" alt="" coords="593,93,709,120"/>
+<area shape="rect" id="node55" href="$classTSemaphore.html" title="TSemaphore" alt="" coords="1347,313,1451,340"/>
+<area shape="rect" id="node56" href="$classTStopwatch.html" title="Stopwatch class. " alt="" coords="2117,301,2215,328"/>
+<area shape="rect" id="node67" href="$classTUrl.html" title="This class represents a WWW compatible URL. " alt="" coords="2773,893,2822,920"/>
+<area shape="rect" id="node69" href="$classTFileCacheWrite.html" title=" &#160;A cache when writing files over the network " alt="" coords="3555,869,3681,896"/>
+<area shape="rect" id="node70" href="$classTArchiveFile.html" title="Class describing an archive file containing multiple sub&#45;files, like a ZIP or TAR archive..." alt="" coords="3568,1171,3668,1197"/>
+<area shape="rect" id="node71" href="$classTArchiveMember.html" title="TArchiveMember" alt="" coords="784,1167,915,1193"/>
+<area shape="rect" id="node74" href="$classRooWorkspace_1_1CodeRepo.html" title="RooWorkspace::CodeRepo" alt="" coords="2271,2364,2462,2391"/>
+<area shape="rect" id="node84" href="$classRooNumIntConfig.html" title="RooNumIntConfig holds the configuration parameters of the various numeric integrators used by RooReal..." alt="" coords="3953,1917,4087,1944"/>
+<area shape="rect" id="node89" href="$classRooCatType.html" title="RooCatType is an auxilary class for RooAbsCategory and defines a a single category state..." alt="" coords="1174,2255,1273,2281"/>
+<area shape="rect" id="node91" href="$classRooSharedPropertiesList.html" title="Class RooSharedPropertiesList maintains the properties of RooRealVars and RooCategories that are clon..." alt="" coords="2277,1643,2457,1669"/>
+<area shape="rect" id="node95" href="$classRooSharedProperties.html" title="Class RooSharedProperties is the base class for shared properties that can be stored in RooSharedProp..." alt="" coords="1887,1848,2045,1875"/>
+<area shape="rect" id="node115" href="$classRooNumGenConfig.html" title="RooNumGenConfig holds the configuration parameters of the various numeric integrators used by RooReal..." alt="" coords="3948,1715,4092,1741"/>
+<area shape="rect" id="node6" href="$classTString.html" title="Basic string class. " alt="" coords="464,2255,532,2281"/>
+<area shape="rect" id="node45" href="$classTFile.html" title="A ROOT file is a suite of consecutive data records (TKey instances) with a well defined format..." alt="" coords="3227,915,3279,941"/>
+<area shape="rect" id="node114" href="$classRooAbsPdf.html" title="RooAbsPdf, the base class of all PDFs" alt="" coords="4669,3039,4759,3065"/>
+<area shape="rect" id="node7" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,3096,349,3123"/>
+<area shape="rect" id="node8" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,3045,144,3072"/>
+<area shape="rect" id="node9" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,3096,143,3123"/>
+<area shape="rect" id="node10" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,3147,145,3173"/>
+<area shape="rect" id="node11" href="$classRooPrintable.html" title="RooPlotable is a &#39;mix&#45;in&#39; base class that define the standard RooFit plotting and printing methods..." alt="" coords="797,3895,901,3921"/>
+<area shape="rect" id="node13" href="$classRooRefArray.html" title="RooRefArray" alt="" coords="1915,1212,2017,1239"/>
+<area shape="rect" id="node15" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1164,773,1283,800"/>
+<area shape="rect" id="node43" href="$classTList.html" title="A doubly linked list. " alt="" coords="1551,733,1604,760"/>
+<area shape="rect" id="node65" href="$classTMap.html" title="TMap implements an associative array of (key,value) pairs using a THashTable for efficient retrieval ..." alt="" coords="2338,661,2395,688"/>
+<area shape="rect" id="node66" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1917,629,2015,656"/>
+<area shape="rect" id="node18" href="$classRooArgSet.html" title="RooArgSet is a container object that can hold multiple RooAbsArg objects. " alt="" coords="1533,3324,1622,3351"/>
+<area shape="rect" id="node98" href="$classRooAbsProxy.html" title="RooAbsProxy is the abstact interface for proxy classes. " alt="" coords="2313,3692,2420,3719"/>
+<area shape="rect" id="node101" href="$classRooDataHist.html" title="The RooDataHist is a container class to hold N&#45;dimensional binned data. " alt="" coords="3567,3827,3669,3853"/>
+<area shape="rect" id="node113" href="$classRooHistPdf.html" title="RooHistPdf implements a probablity density function sampled from a multidimensional histogram..." alt="" coords="4904,3528,4997,3555"/>
+<area shape="rect" id="node116" href="$classRooObjCacheManager.html" title="Class RooObjCacheManager is an implementation of class RooCacheManager&lt;RooAbsCacheElement&gt; and specia..." alt="" coords="3536,3049,3700,3076"/>
+<area shape="rect" id="node97" href="$classRooArgList.html" title="RooArgList is a container object that can hold multiple RooAbsArg objects. " alt="" coords="1724,4017,1815,4044"/>
+<area shape="rect" id="node25" href="$classRooSTLRefCountList.html" title="RooSTLRefCountList\l\&lt; RooAbsArg \&gt;" alt="" coords="1148,3417,1299,3458"/>
+<area shape="rect" id="node38" href="$classRooWorkspace_1_1WSDir.html" title="RooWorkspace::WSDir" alt="" coords="2715,2209,2880,2236"/>
+<area shape="rect" id="node93" href="$classRooRefCountList.html" title="A RooRefCountList is a RooLinkedList that keeps a reference counter with each added node..." alt="" coords="1902,1567,2030,1593"/>
+<area shape="rect" id="node94" href="$classRooCategorySharedProperties.html" title="RooCategorySharedProperties is the container for all properties that are shared between instance of R..." alt="" coords="2259,1848,2475,1875"/>
+<area shape="rect" id="node39" href="$classTDirectoryFile.html" title=" A ROOT file is structured in Directories (like a file system). " alt="" coords="2311,1185,2423,1212"/>
+<area shape="rect" id="node105" href="$classRooDirItem.html" title="RooDirItem is a utility base class for RooFit objects that are to be attached to ROOT directories..." alt="" coords="2528,2087,2623,2113"/>
+<area shape="rect" id="node41" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1500,2092,1655,2119"/>
+<area shape="rect" id="node42" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1545,2143,1609,2169"/>
+<area shape="rect" id="node68" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2323,712,2410,739"/>
+<area shape="rect" id="node50" href="$classTMutex.html" title="TMutex" alt="" coords="814,171,885,197"/>
+<area shape="rect" id="node51" href="$classTVirtualMutex.html" title="This class implements a mutex interface. " alt="" coords="441,144,555,171"/>
+<area shape="rect" id="node57" href="$classROOT_1_1TRWSpinLock.html" title="ROOT::TRWSpinLock" alt="" coords="2721,455,2874,481"/>
+<area shape="rect" id="node58" href="$classROOT_1_1TSpinMutex.html" title="A spin mutex class which respects the STL interface for mutexes. " alt="" coords="2295,443,2438,469"/>
+<area shape="rect" id="node60" href="$classTArrayC.html" title="Array of chars or bytes (8 bits per element). " alt="" coords="2761,519,2834,545"/>
+<area shape="rect" id="node61" href="$classTArray.html" title="Abstract array base class. " alt="" coords="2335,493,2399,520"/>
+<area shape="rect" id="node62" href="$classROOT_1_1Internal_1_1RConcurrentHashColl.html" title="This class is a TS set of unsigned set. " alt="" coords="2696,595,2899,637"/>
+<area shape="rect" id="node72" href="$classTDatime.html" title="This class stores the date and time with a precision of one second in an unsigned 32 bit word (950130..." alt="" coords="459,1085,537,1112"/>
+<area shape="rect" id="node78" title="STL class. " alt="" coords="1534,2669,1621,2696"/>
+<area shape="rect" id="node81" href="$classRooChangeTracker.html" title="RooChangeTracker is a meta object that tracks value changes in a given set of RooAbsArgs by registeri..." alt="" coords="4643,4008,4785,4035"/>
+<area shape="rect" id="node85" href="$classRooCategory.html" title="RooCategory represents a fundamental (non&#45;derived) discrete value object. " alt="" coords="3565,1905,3671,1932"/>
+<area shape="rect" id="node86" href="$classRooAbsCategoryLValue.html" title="RooAbsCategoryLValue is the common abstract base class for objects that represent a discrete value th..." alt="" coords="3168,2775,3339,2801"/>
+<area shape="rect" id="node88" href="$classTIterator.html" title="Iterator abstract base class. " alt="" coords="2327,3876,2406,3903"/>
+<area shape="rect" id="node90" href="$classRooAbsLValue.html" title="Abstract base class for objects that are lvalues, i.e. " alt="" coords="2741,2825,2853,2852"/>
+<area shape="rect" id="node117" href="$classRooCacheManager.html" title="RooCacheManager\&lt; RooAbsCache\lElement \&gt;" alt="" coords="3131,3165,3376,3206"/>
+<area shape="rect" id="node119" href="$classRooAICRegistry.html" title="RooAICRegistry is a utility class for operator p.d.f classes that keeps track of analytical integrati..." alt="" coords="4653,3477,4775,3504"/>
+</map>

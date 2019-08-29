@@ -1,0 +1,65 @@
+<map id="TPad" name="TPad">
+<area shape="rect" id="node21" href="$classTCanvas.html" title="The Canvas class. " alt="" coords="4011,2292,4089,2319"/>
+<area shape="rect" id="node2" href="$classTVirtualPad.html" title="TVirtualPad is an abstract base class for the Pad and Canvas classes. " alt="" coords="2161,1889,2257,1916"/>
+<area shape="rect" id="node23" href="$classTContextMenu.html" title="This class provides an interface to context sensitive popup menus. " alt="" coords="3642,377,3757,404"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="311,1215,383,1241"/>
+<area shape="rect" id="node10" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="881,941,976,968"/>
+<area shape="rect" id="node11" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="589,817,696,844"/>
+<area shape="rect" id="node19" href="$classTVirtualViewer3D.html" title="Abstract 3D shapes viewer. " alt="" coords="721,2179,857,2205"/>
+<area shape="rect" id="node20" href="$classTView.html" title="See TView3D. " alt="" coords="1449,2404,1511,2431"/>
+<area shape="rect" id="node24" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1441,1348,1519,1375"/>
+<area shape="rect" id="node27" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2139,592,2279,619"/>
+<area shape="rect" id="node29" href="$classTBrowser.html" title="Using a TBrowser one can browse all ROOT objects. " alt="" coords="4009,423,4091,449"/>
+<area shape="rect" id="node32" href="$classTTimer.html" title="Handles synchronous and a&#45;synchronous timer events. " alt="" coords="2572,1988,2640,2015"/>
+<area shape="rect" id="node33" href="$classTSysEvtHandler.html" title="Abstract base class for handling system events. " alt="" coords="2146,1796,2271,1823"/>
+<area shape="rect" id="node36" href="$classTClassMenuItem.html" title="Describes one element of the context menu associated to a class The menu item may describe..." alt="" coords="3250,251,3379,277"/>
+<area shape="rect" id="node41" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="608,1171,677,1197"/>
+<area shape="rect" id="node49" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="2980,560,3053,587"/>
+<area shape="rect" id="node51" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1604,1352,1691,1379"/>
+<area shape="rect" id="node52" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="3588,1715,3811,1741"/>
+<area shape="rect" id="node56" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1781,1239,1871,1265"/>
+<area shape="rect" id="node60" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2150,1236,2267,1263"/>
+<area shape="rect" id="node70" href="$classTBox.html" title="Create a Box. " alt="" coords="1453,2292,1507,2319"/>
+<area shape="rect" id="node4" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="1140,2356,1215,2383"/>
+<area shape="rect" id="node5" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="1144,2153,1211,2180"/>
+<area shape="rect" id="node6" href="$classTAttPad.html" title="Manages default Pad attributes. " alt="" coords="1791,1897,1861,1924"/>
+<area shape="rect" id="node7" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="1785,1745,1867,1772"/>
+<area shape="rect" id="node8" href="$classTList.html" title="A doubly linked list. " alt="" coords="1453,836,1507,863"/>
+<area shape="rect" id="node25" href="$classTFunction.html" title="Global functions class (global functions are obtained from CINT). " alt="" coords="2975,377,3059,404"/>
+<area shape="rect" id="node28" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1777,639,1875,665"/>
+<area shape="rect" id="node37" href="$classTClass.html" title="TClass" alt="" coords="2985,1048,3049,1075"/>
+<area shape="rect" id="node38" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1753,791,1899,817"/>
+<area shape="rect" id="node48" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2973,693,3060,720"/>
+<area shape="rect" id="node59" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1737,847,1915,873"/>
+<area shape="rect" id="node9" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1118,992,1237,1019"/>
+<area shape="rect" id="node12" href="$classTString.html" title="Basic string class. " alt="" coords="609,1513,677,1540"/>
+<area shape="rect" id="node13" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="291,2188,403,2215"/>
+<area shape="rect" id="node14" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,2137,144,2164"/>
+<area shape="rect" id="node15" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,2188,143,2215"/>
+<area shape="rect" id="node16" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,2239,145,2265"/>
+<area shape="rect" id="node18" href="$classTAttBBox2D.html" title="Abstract base class for elements drawn in the editor. " alt="" coords="1127,2407,1227,2433"/>
+<area shape="rect" id="node22" href="$classTCanvasImp.html" title="ABC describing GUI independent main window (with menubar, scrollbars and a drawing area)..." alt="" coords="4260,2292,4363,2319"/>
+<area shape="rect" id="node35" href="$classTContextMenuImp.html" title="This class provides an interface to GUI independent context sensitive popup menus. " alt="" coords="3980,75,4120,101"/>
+<area shape="rect" id="node26" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2557,744,2655,771"/>
+<area shape="rect" id="node47" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3220,676,3409,703"/>
+<area shape="rect" id="node30" href="$classTBrowserImp.html" title="ABC describing GUI independent browser implementation protocol. " alt="" coords="4257,400,4365,427"/>
+<area shape="rect" id="node31" title="Called whenever timer times out. " alt="" coords="4251,513,4372,540"/>
+<area shape="rect" id="node34" href="$classTTime.html" title="Basic time type with millisecond precision. " alt="" coords="2177,1991,2240,2017"/>
+<area shape="rect" id="node53" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="3272,1579,3357,1605"/>
+<area shape="rect" id="node64" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3235,873,3394,900"/>
+<area shape="rect" id="node39" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2505,1099,2707,1125"/>
+<area shape="rect" id="node65" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="3637,1499,3761,1525"/>
+<area shape="rect" id="node43" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2541,1149,2671,1176"/>
+<area shape="rect" id="node44" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2535,1364,2677,1391"/>
+<area shape="rect" id="node50" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="2541,541,2671,568"/>
+<area shape="rect" id="node62" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="3612,1564,3787,1591"/>
+<area shape="rect" id="node54" title="STL class. " alt="" coords="2973,1613,3060,1640"/>
+<area shape="rect" id="node57" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1403,1247,1557,1273"/>
+<area shape="rect" id="node58" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1448,1143,1512,1169"/>
+<area shape="rect" id="node61" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1755,1188,1897,1215"/>
+<area shape="rect" id="node63" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2541,1200,2671,1227"/>
+<area shape="rect" id="node66" href="$classTVirtualPadPainter.html" title="To make it possible to use GL for 2D graphic in a TPad/TCanvas. " alt="" coords="3629,2633,3770,2660"/>
+<area shape="rect" id="node67" href="$classTAttCanvas.html" title="Manages canvas attributes. " alt="" coords="3651,2201,3747,2228"/>
+<area shape="rect" id="node68" href="$classTFrame.html" title="Define a Frame. " alt="" coords="2173,2303,2244,2329"/>
+<area shape="rect" id="node69" href="$classTWbox.html" title="A TBox with a bordersize and a bordermode. " alt="" coords="1793,2303,1859,2329"/>
+</map>

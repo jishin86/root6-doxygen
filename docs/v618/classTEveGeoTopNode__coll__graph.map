@@ -1,0 +1,83 @@
+<map id="TEveGeoTopNode" name="TEveGeoTopNode">
+<area shape="rect" id="node2" href="$classTEveGeoNode.html" title="Wrapper for TGeoNode that allows it to be shown in GUI and controlled as a TEveElement. " alt="" coords="3116,387,3231,414"/>
+<area shape="rect" id="node3" href="$classTEveElement.html" title="Base class for TEveUtil visualization elements, providing hierarchy management, rendering control and..." alt="" coords="2671,219,2779,246"/>
+<area shape="rect" id="node5" href="$classTEveElementList.html" title="A list of TEveElements. " alt="" coords="3451,219,3581,246"/>
+<area shape="rect" id="node4" href="$classTEveCompound.html" title="Description of TEveCompound. " alt="" coords="3793,152,3917,179"/>
+<area shape="rect" id="node6" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1215,2388,1292,2415"/>
+<area shape="rect" id="node16" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2676,3439,2773,3466"/>
+<area shape="rect" id="node42" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1906,3612,1997,3639"/>
+<area shape="rect" id="node57" href="$classTProcessID.html" title="A TProcessID identifies a ROOT job in a unique way in time and space. " alt="" coords="1904,672,1999,699"/>
+<area shape="rect" id="node62" href="$classTGeoNode.html" title="A node represent a volume positioned inside another.They store links to both volumes and to the TGeoM..." alt="" coords="2281,764,2371,791"/>
+<area shape="rect" id="node64" href="$classTGeoVolume.html" title="TGeoVolume, TGeoVolumeMulti, TGeoVolumeAssembly are the volume classes. " alt="" coords="3121,2103,3226,2130"/>
+<area shape="rect" id="node68" href="$classTGeoShape.html" title="Base abstract class for all shapes. " alt="" coords="2079,1982,2175,2008"/>
+<area shape="rect" id="node69" href="$classTGeoMatrix.html" title="Geometrical transformation package. " alt="" coords="1523,1056,1620,1083"/>
+<area shape="rect" id="node74" href="$classTGeoManager.html" title="The manager class for any TGeo geometry. " alt="" coords="2669,1654,2781,1680"/>
+<area shape="rect" id="node81" href="$classTGeoParallelWorld.html" title="Base class for a flat parallel geometry. " alt="" coords="3445,1847,3587,1874"/>
+<area shape="rect" id="node82" href="$classTGeoPhysicalNode.html" title="Physical nodes are the actual &#39;touchable&#39; objects in the geometry, representing a path of positioned ..." alt="" coords="2653,2432,2797,2459"/>
+<area shape="rect" id="node94" href="$classTGeoMedium.html" title="Media are used to store properties related to tracking and which are useful only when using geometry ..." alt="" coords="2671,2382,2779,2408"/>
+<area shape="rect" id="node95" href="$classTGeoMaterial.html" title="Base class describing materials. " alt="" coords="2271,2382,2381,2408"/>
+<area shape="rect" id="node96" href="$classTGeoElement.html" title="Base class for chemical elements. " alt="" coords="1896,2338,2007,2364"/>
+<area shape="rect" id="node7" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="311,1700,383,1727"/>
+<area shape="rect" id="node17" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2256,3410,2396,3436"/>
+<area shape="rect" id="node19" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="924,3098,1019,3124"/>
+<area shape="rect" id="node20" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="607,3123,714,3150"/>
+<area shape="rect" id="node27" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="626,3882,695,3908"/>
+<area shape="rect" id="node35" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="1535,2895,1608,2922"/>
+<area shape="rect" id="node37" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1528,1496,1615,1523"/>
+<area shape="rect" id="node38" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="3744,3924,3967,3951"/>
+<area shape="rect" id="node46" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2267,3648,2385,3675"/>
+<area shape="rect" id="node52" href="$classTGPicture.html" title="TGPicture" alt="" coords="929,63,1014,90"/>
+<area shape="rect" id="node55" href="$classTEveTrans.html" title="TEveTrans is a 4x4 transformation matrix for homogeneous coordinates stored internally in a column&#45;ma..." alt="" coords="1043,280,1131,307"/>
+<area shape="rect" id="node56" href="$classTRef.html" title="Persistent Reference link to a TObject A TRef is a lightweight object pointing to any TObject..." alt="" coords="2301,216,2351,243"/>
+<area shape="rect" id="node70" href="$classTGeoVoxelFinder.html" title="Finder class handling voxels. " alt="" coords="3451,1670,3581,1696"/>
+<area shape="rect" id="node71" href="$classTGeoPatternFinder.html" title="Base finder class for patterns. " alt="" coords="3445,2591,3587,2618"/>
+<area shape="rect" id="node73" href="$classTGeoExtension.html" title="ABC for user objects attached to TGeoVolume or TGeoNode. " alt="" coords="1891,2186,2011,2212"/>
+<area shape="rect" id="node76" href="$classTVirtualGeoPainter.html" title="Abstract class for geometry painters. " alt="" coords="756,1218,900,1244"/>
+<area shape="rect" id="node77" href="$classTVirtualGeoTrack.html" title="Base class for user&#45;defined tracks attached to a geometry. " alt="" coords="2259,1516,2393,1543"/>
+<area shape="rect" id="node84" href="$classTGeoElementTable.html" title="Table of elements. " alt="" coords="1879,1348,2023,1375"/>
+<area shape="rect" id="node86" href="$classTGeoNavigator.html" title="Class providing navigation API for TGeo geometries. " alt="" coords="3456,1087,3576,1114"/>
+<area shape="rect" id="node87" href="$classTGeoNodeCache.html" title="Special pool of reusable nodes. " alt="" coords="3108,923,3239,950"/>
+<area shape="rect" id="node91" href="$classTGeoPolygon.html" title="An arbitrary polygon defined by vertices. " alt="" coords="1897,875,2005,902"/>
+<area shape="rect" id="node93" href="$classTGeoCacheState.html" title="Class storing the state of the cache at a given moment. " alt="" coords="2659,652,2790,679"/>
+<area shape="rect" id="node8" href="$classTString.html" title="Basic string class. " alt="" coords="627,2631,695,2658"/>
+<area shape="rect" id="node15" href="$classTClass.html" title="TClass" alt="" coords="3141,3315,3205,3342"/>
+<area shape="rect" id="node9" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="291,2631,403,2658"/>
+<area shape="rect" id="node10" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,2580,144,2607"/>
+<area shape="rect" id="node11" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,2631,143,2658"/>
+<area shape="rect" id="node12" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,2682,145,2708"/>
+<area shape="rect" id="node13" href="$classTEveProjectable.html" title="Abstract base&#45;class for non&#45;linear projectable objects. " alt="" coords="3110,168,3237,195"/>
+<area shape="rect" id="node33" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3421,3096,3611,3123"/>
+<area shape="rect" id="node39" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="3473,3940,3559,3967"/>
+<area shape="rect" id="node50" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3437,2831,3595,2858"/>
+<area shape="rect" id="node18" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1903,3339,2000,3366"/>
+<area shape="rect" id="node34" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2283,2882,2369,2908"/>
+<area shape="rect" id="node22" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1194,3027,1313,3054"/>
+<area shape="rect" id="node21" href="$classTList.html" title="A doubly linked list. " alt="" coords="1545,3152,1598,3179"/>
+<area shape="rect" id="node24" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1878,3238,2025,3264"/>
+<area shape="rect" id="node45" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1863,3136,2040,3163"/>
+<area shape="rect" id="node25" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2624,3704,2825,3731"/>
+<area shape="rect" id="node51" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="3793,4116,3917,4143"/>
+<area shape="rect" id="node29" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2659,3490,2790,3516"/>
+<area shape="rect" id="node30" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2653,3287,2796,3314"/>
+<area shape="rect" id="node36" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="1188,3078,1319,3104"/>
+<area shape="rect" id="node48" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="3768,2051,3943,2078"/>
+<area shape="rect" id="node40" title="STL class. " alt="" coords="3130,3968,3217,3995"/>
+<area shape="rect" id="node43" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1494,3672,1649,3699"/>
+<area shape="rect" id="node44" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1539,3568,1603,3595"/>
+<area shape="rect" id="node47" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1880,3720,2023,3747"/>
+<area shape="rect" id="node49" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2659,3388,2790,3415"/>
+<area shape="rect" id="node53" href="$classTRefCnt.html" title="Definitions for TRefCnt, base class for reference counted objects. " alt="" coords="624,38,697,64"/>
+<area shape="rect" id="node54" href="$structPictureAttributes__t.html" title="PictureAttributes_t" alt="" coords="589,88,732,115"/>
+<area shape="rect" id="node58" href="$classROOT_1_1Internal_1_1TAtomicPointer.html" title="ROOT::Internal::TAtomicPointer\l\&lt; TObjArray *\&gt;" alt="" coords="1460,665,1683,706"/>
+<area shape="rect" id="node88" href="$structTGeoStateInfo.html" title="Statefull info for the current geometry level. " alt="" coords="2667,923,2782,950"/>
+<area shape="rect" id="node63" href="$classTGeoAtt.html" title="Visualization and tracking attributes for volumes and nodes. " alt="" coords="1914,1730,1989,1756"/>
+<area shape="rect" id="node65" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="1914,2135,1989,2162"/>
+<area shape="rect" id="node66" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="1918,2236,1985,2263"/>
+<area shape="rect" id="node67" href="$classTAtt3D.html" title="Use this attribute class when an object should have 3D capabilities. " alt="" coords="2691,2230,2758,2256"/>
+<area shape="rect" id="node83" href="$classTGeoHMatrix.html" title="Matrix class used for computing global transformations Should NOT be used for node definition..." alt="" coords="2273,1111,2379,1138"/>
+<area shape="rect" id="node89" href="$classTGeoCombiTrans.html" title="Class describing rotation + translation. " alt="" coords="2260,1010,2392,1036"/>
+<area shape="rect" id="node90" href="$classTGeoRotation.html" title="Class describing rotations. " alt="" coords="1896,976,2007,1003"/>
+<area shape="rect" id="node92" href="$classTGeoTranslation.html" title="Class describing translations. " alt="" coords="2064,900,2191,927"/>
+<area shape="rect" id="node75" title="STL class. " alt="" coords="2259,1699,2393,1726"/>
+<area shape="rect" id="node78" href="$classTAttMarker.html" title="Marker Attributes class. " alt="" coords="1905,1679,1998,1706"/>
+</map>

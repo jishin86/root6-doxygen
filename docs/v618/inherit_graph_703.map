@@ -1,0 +1,45 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROOT_1_1Math_1_1IBaseFunctionMultiDimTempl.html" title="Documentation for the abstract class IBaseFunctionMultiDim. " alt="" coords="7,257,203,298"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1IParametricFunctionMultiDimTempl.html" title="ROOT::Math::IParametricFunction\lMultiDimTempl\&lt; double \&gt;" alt="" coords="262,541,497,582"/>
+<area shape="rect" id="node5" href="$classRooMinimizerFcn.html" title="RooMinimizerFcn" alt="" coords="313,239,445,265"/>
+<area shape="rect" id="node6" href="$classRooMultiGenFunction.html" title="Lightweight interface adaptor that exports a RooAbsReal as a ROOT::Math::IMultiGenFunction. " alt="" coords="300,289,459,316"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Fit_1_1FcnAdapter.html" title="ROOT::Fit::FcnAdapter" alt="" coords="298,340,461,367"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Math_1_1Functor.html" title="Documentation for class Functor class. " alt="" coords="303,5,456,32"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Math_1_1IGradientFunctionMultiDimTempl.html" title="Interface (abstract class) for multi&#45;dimensional functions providing a gradient calculation. " alt="" coords="269,391,489,433"/>
+<area shape="rect" id="node15" href="$classROOT_1_1Math_1_1IParametricFunctionMultiDimTempl.html" title="IParamFunction interface (abstract class) describing multi&#45;dimensional parameteric functions It is a ..." alt="" coords="262,641,497,682"/>
+<area shape="rect" id="node20" href="$classROOT_1_1Math_1_1WrappedMemMultiFunction.html" title="ROOT::Math::WrappedMemMulti\lFunction\&lt; FuncObj, MemFuncPtr \&gt;" alt="" coords="257,57,501,98"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Math_1_1WrappedMultiFunction.html" title="Template class to wrap any C++ callable object implementing operator() (const double * x) in a multi&#45;..." alt="" coords="282,122,477,163"/>
+<area shape="rect" id="node22" href="$classTPyMultiGenFunction.html" title="TPyMultiGenFunction" alt="" coords="300,188,459,215"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1MultiDimParamFunctionAdapter.html" title="MultiDimParamFunctionAdapter class to wrap a one&#45;dimensional parametric function in a multi dimension..." alt="" coords="568,509,775,550"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1WrappedParamFunctionGen.html" title="WrappedParamGenFunction class to wrap any multi&#45;dimensional function implementing the operator()(cons..." alt="" coords="569,574,773,615"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Math_1_1GradFunctor.html" title="GradFunctor class for Multidimensional gradient functions. " alt="" coords="579,224,763,251"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Math_1_1LSResidualFunc.html" title="LSResidualFunc class description. " alt="" coords="569,275,774,301"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Math_1_1MinimTransformFunction.html" title="MinimTransformFunction class to perform a transformations on the variables to deal with fixed or limi..." alt="" coords="566,326,777,367"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Math_1_1MultiNumGradFunction.html" title="MultiNumGradFunction class to wrap a normal function in a gradient function using numerical gradient ..." alt="" coords="571,391,771,433"/>
+<area shape="rect" id="node14" href="$classTPyMultiGradFunction.html" title="TPyMultiGradFunction" alt="" coords="590,457,753,484"/>
+<area shape="rect" id="node16" href="$classROOT_1_1Math_1_1IParametricGradFunctionMultiDimTempl.html" title="Interface (abstract class) for parametric gradient multi&#45;dimensional functions providing in addition ..." alt="" coords="565,705,777,746"/>
+<area shape="rect" id="node19" href="$classROOT_1_1Math_1_1WrappedParamFunction.html" title="WrappedParamFunction class to wrap any multi&#45;dimensional function pbject implementing the operator()(..." alt="" coords="569,639,773,681"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Math_1_1MultiDimParamGradFunctionAdapter.html" title="MultiDimParamGradFunctionAdapter class to wrap a one&#45;dimensional parametric gradient function in a mu..." alt="" coords="843,699,1049,741"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Math_1_1WrappedMultiTF1Templ.html" title="Class to Wrap a ROOT Function class (like TF1) in a IParamMultiFunction interface of multi&#45;dimensions..." alt="" coords="849,765,1043,806"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Math_1_1IBaseFunctionOneDim.html" title="Interface (abstract class) for generic functions objects of one&#45;dimension Provides a method to evalua..." alt="" coords="7,1063,203,1105"/>
+<area shape="rect" id="node24" href="$classRooGenFunction.html" title="Lightweight interface adaptor that exports a RooAbsReal as a ROOT::Math::IGenFunction. " alt="" coords="316,1129,443,1156"/>
+<area shape="rect" id="node25" href="$classROOT_1_1Math_1_1Functor1D.html" title="Functor1D class for one&#45;dimensional functions. " alt="" coords="294,1180,465,1207"/>
+<area shape="rect" id="node26" href="$classROOT_1_1Math_1_1IGradientFunctionOneDim.html" title="Interface (abstract class) for one&#45;dimensional functions providing a gradient calculation. " alt="" coords="836,1115,1056,1157"/>
+<area shape="rect" id="node28" href="$classROOT_1_1Math_1_1IntegrandTransform.html" title="Auxiliary inner class for mapping infinite and semi&#45;infinite integrals. " alt="" coords="263,1281,496,1308"/>
+<area shape="rect" id="node29" href="$classROOT_1_1Math_1_1IParametricFunctionOneDim.html" title="Specialized IParamFunction interface (abstract class) for one&#45;dimensional parametric functions It is ..." alt="" coords="262,802,497,843"/>
+<area shape="rect" id="node37" href="$classROOT_1_1Math_1_1OneDimMultiFunctionAdapter.html" title="OneDimMultiFunctionAdapter class to wrap a multidimensional function in one dimensional one..." alt="" coords="257,867,502,909"/>
+<area shape="rect" id="node38" href="$classROOT_1_1Math_1_1OneDimParamFunctionAdapter.html" title="OneDimParamFunctionAdapter class to wrap a multi&#45;dim parameteric function in one dimensional one..." alt="" coords="252,933,507,974"/>
+<area shape="rect" id="node39" href="$classROOT_1_1Math_1_1WrappedFunction.html" title="Template class to wrap any C++ callable object which takes one argument i.e. " alt="" coords="271,998,488,1039"/>
+<area shape="rect" id="node40" href="$classROOT_1_1Math_1_1WrappedMemFunction.html" title="Template class to wrap any member function of a class taking a double and returning a double in a 1D ..." alt="" coords="255,1063,504,1105"/>
+<area shape="rect" id="node27" href="$classROOT_1_1Math_1_1GradFunctor1D.html" title="GradFunctor1D class for one&#45;dimensional gradient functions. " alt="" coords="1104,1123,1307,1149"/>
+<area shape="rect" id="node30" href="$classROOT_1_1Math_1_1IParametricGradFunctionOneDim.html" title="Interface (abstract class) for parametric one&#45;dimensional gradient functions providing in addition to..." alt="" coords="566,835,777,877"/>
+<area shape="rect" id="node34" href="$classROOT_1_1Math_1_1VavilovAccurateCdf.html" title="Class describing the Vavilov cdf. " alt="" coords="555,901,788,928"/>
+<area shape="rect" id="node35" href="$classROOT_1_1Math_1_1VavilovAccuratePdf.html" title="Class describing the Vavilov pdf. " alt="" coords="555,952,787,979"/>
+<area shape="rect" id="node36" href="$classROOT_1_1Math_1_1VavilovAccurateQuantile.html" title="Class describing the Vavilov quantile function. " alt="" coords="566,770,777,811"/>
+<area shape="rect" id="node31" href="$classROOT_1_1Math_1_1ParamFunction.html" title="ROOT::Math::ParamFunction\l\&lt; IParamGradFunction \&gt;" alt="" coords="845,842,1047,883"/>
+<area shape="rect" id="node33" href="$classROOT_1_1Math_1_1WrappedTF1.html" title="Class to Wrap a ROOT Function class (like TF1) in a IParamFunction interface of one dimensions to be ..." alt="" coords="853,933,1039,960"/>
+<area shape="rect" id="node32" href="$classROOT_1_1Math_1_1Polynomial.html" title="Parametric Function class describing polynomials of order n. " alt="" coords="1116,923,1295,949"/>
+<area shape="rect" id="node41" href="$classROOT_1_1Math_1_1IBaseParam.html" title="Documentation for the abstract class IBaseParam. " alt="" coords="13,679,196,705"/>
+<area shape="rect" id="node42" href="$classROOT_1_1Math_1_1IGradientMultiDimTempl.html" title="Gradient interface (abstract class) defining the signature for calculating the gradient of a multi&#45;di..." alt="" coords="5,391,204,433"/>
+<area shape="rect" id="node43" href="$classROOT_1_1Math_1_1IGradientOneDim.html" title="Specialized Gradient interface(abstract class) for one dimensional functions It provides a method to ..." alt="" coords="562,1003,781,1029"/>
+</map>

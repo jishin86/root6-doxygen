@@ -1,0 +1,24 @@
+<map id="ROOT::Minuit2::MinimumSeed" name="ROOT::Minuit2::MinimumSeed">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumSeed \&gt;" alt="" coords="2809,24,3025,80"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnReferenceCounter.html" title="ROOT::Minuit2::MnReference\lCounter" alt="" coords="375,82,582,123"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumState \&gt;" alt="" coords="1733,57,1949,113"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumParameters \&gt;" alt="" coords="697,109,913,165"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicFunctionGradient \&gt;" alt="" coords="697,189,913,245"/>
+<area shape="rect" id="node16" href="$classROOT_1_1Minuit2_1_1MnRefCountedPointer.html" title="ROOT::Minuit2::MnRefCounted\lPointer\&lt; ROOT::Minuit2::\lBasicMinimumError \&gt;" alt="" coords="697,269,913,325"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1BasicMinimumSeed.html" title="ROOT::Minuit2::BasicMinimumSeed" alt="" coords="2483,72,2733,99"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1MinimumState.html" title="MinimumState keeps the information (position, Gradient, 2nd deriv, etc) after one minimization step (..." alt="" coords="2147,72,2365,99"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1BasicMinimumState.html" title="ROOT::Minuit2::BasicMinimum\lState" alt="" coords="1392,175,1611,217"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1MinimumParameters.html" title="ROOT::Minuit2::MinimumParameters" alt="" coords="1003,135,1260,161"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1BasicMinimumParameters.html" title="ROOT::Minuit2::BasicMinimum\lParameters" alt="" coords="369,147,588,189"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1LAVector.html" title="ROOT::Minuit2::LAVector" alt="" coords="20,192,199,219"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Minuit2_1_1BasicFunctionGradient.html" title="ROOT::Minuit2::BasicFunction\lGradient" alt="" coords="373,222,584,263"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1FunctionGradient.html" title="ROOT::Minuit2::FunctionGradient" alt="" coords="1015,200,1247,227"/>
+<area shape="rect" id="node15" href="$classROOT_1_1Minuit2_1_1MinimumError.html" title="MinimumError keeps the inv. " alt="" coords="1024,257,1239,284"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Minuit2_1_1BasicMinimumError.html" title="Internal Class containing the error information on the estimated minimum : Error matrix + dcovar + ad..." alt="" coords="369,313,588,354"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Minuit2_1_1LASymMatrix.html" title="Class describing a symmetric matrix of size n. " alt="" coords="5,320,213,347"/>
+<area shape="rect" id="node19" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="2121,308,2391,335"/>
+<area shape="rect" id="node20" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="1720,138,1961,179"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="1724,203,1957,245"/>
+<area shape="rect" id="node22" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="1743,269,1938,310"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="1736,334,1945,375"/>
+</map>

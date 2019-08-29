@@ -1,0 +1,33 @@
+<map id="TGLSceneInfo" name="TGLSceneInfo">
+<area shape="rect" id="node39" href="$classTGLRnrCtx.html" title="The TGLRnrCtx class aggregates data for a given redering context as needed by various parts of the RO..." alt="" coords="2641,282,2731,308"/>
+<area shape="rect" id="node2" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="1518,432,1590,459"/>
+<area shape="rect" id="node8" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="1908,938,2027,964"/>
+<area shape="rect" id="node33" href="$classTGLViewerBase.html" title="Base class for GL viewers. " alt="" coords="2971,520,3093,547"/>
+<area shape="rect" id="node3" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="2961,866,3103,892"/>
+<area shape="rect" id="node5" href="$classTGLPShapeRef.html" title="Base class for references to TGLPysicalShape that need to be notified when the shape is destroyed..." alt="" coords="3224,866,3340,892"/>
+<area shape="rect" id="node6" href="$classTGLLogicalShape.html" title="Abstract logical shape &#45; a GL &#39;drawable&#39; &#45; base for all shapes &#45; faceset sphere etc. " alt="" coords="2619,951,2753,978"/>
+<area shape="rect" id="node4" href="$classTGLMatrix.html" title="16 component (4x4) transform matrix &#45; column MAJOR as per GL. " alt="" coords="1510,330,1598,356"/>
+<area shape="rect" id="node35" href="$classTGLCamera.html" title="Abstract base camera class &#45; concrete classes for orthographic and perspective cameras derive from it..." alt="" coords="1918,120,2017,147"/>
+<area shape="rect" id="node7" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="2291,1018,2377,1044"/>
+<area shape="rect" id="node9" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="1501,1055,1607,1082"/>
+<area shape="rect" id="node10" href="$classTString.html" title="Basic string class. " alt="" coords="461,996,529,1023"/>
+<area shape="rect" id="node23" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,667,828,694"/>
+<area shape="rect" id="node11" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,996,349,1023"/>
+<area shape="rect" id="node12" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,946,144,972"/>
+<area shape="rect" id="node13" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,996,143,1023"/>
+<area shape="rect" id="node14" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,1047,145,1074"/>
+<area shape="rect" id="node15" href="$classTGLBoundingBox.html" title="Concrete class describing an orientated (free) or axis aligned box of 8 vertices. ..." alt="" coords="1487,819,1621,846"/>
+<area shape="rect" id="node16" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="889,816,985,843"/>
+<area shape="rect" id="node17" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="1143,718,1238,744"/>
+<area shape="rect" id="node19" href="$classTGLContextIdentity.html" title="Identifier of a shared GL&#45;context. " alt="" coords="1893,672,2041,699"/>
+<area shape="rect" id="node20" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1489,686,1619,712"/>
+<area shape="rect" id="node21" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1147,667,1234,694"/>
+<area shape="rect" id="node22" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="877,667,996,694"/>
+<area shape="rect" id="node24" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,646,329,672"/>
+<area shape="rect" id="node25" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,616,548,643"/>
+<area shape="rect" id="node36" href="$classTGLRect.html" title="Viewport (pixel base) 2D rectangle class. " alt="" coords="1517,23,1591,50"/>
+<area shape="rect" id="node37" href="$classTGLPlane.html" title="3D plane class &#45; of format Ax + By + Cz + D = 0 " alt="" coords="1513,244,1595,271"/>
+<area shape="rect" id="node40" title="STL class. " alt="" coords="2280,156,2388,183"/>
+<area shape="rect" id="node41" href="$classTGLStopwatch.html" title="Stopwatch object for timing GL work. " alt="" coords="2277,207,2391,234"/>
+<area shape="rect" id="node42" href="$classTGLSelectBuffer.html" title="Encapsulates OpenGL select buffer. " alt="" coords="2271,258,2397,284"/>
+</map>

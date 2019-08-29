@@ -1,0 +1,29 @@
+<map id="RooStats::HypoTestCalculatorGeneric" name="RooStats::HypoTestCalculatorGeneric">
+<area shape="rect" id="node2" href="$classRooStats_1_1HypoTestCalculator.html" title="HypoTestCalculator is an interface class for a tools which produce RooStats HypoTestResults. " alt="" coords="2371,367,2584,393"/>
+<area shape="rect" id="node3" href="$classRooAbsData.html" title="RooAbsData is the common abstract base class for binned and unbinned datasets. " alt="" coords="2043,647,2144,673"/>
+<area shape="rect" id="node4" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="815,536,892,563"/>
+<area shape="rect" id="node14" href="$classRooAbsCollection.html" title="RooAbsCollection is an abstract container object that can hold multiple RooAbsArg objects..." alt="" coords="1128,708,1263,735"/>
+<area shape="rect" id="node16" href="$classRooAbsDataStore.html" title="RooAbsDataStore is the abstract base class for data collection that use a TTree as internal storage m..." alt="" coords="1678,751,1813,777"/>
+<area shape="rect" id="node18" href="$classRooStats_1_1ModelConfig.html" title="ModelConfig is a simple class that holds configuration information specifying how a model should be u..." alt="" coords="2394,417,2561,444"/>
+<area shape="rect" id="node23" href="$classTProcessID.html" title="A TProcessID identifies a ROOT job in a unique way in time and space. " alt="" coords="1698,353,1793,380"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="267,327,339,353"/>
+<area shape="rect" id="node22" href="$classTRef.html" title="Persistent Reference link to a TObject A TRef is a lightweight object pointing to any TObject..." alt="" coords="2068,292,2119,319"/>
+<area shape="rect" id="node24" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1380,269,1467,296"/>
+<area shape="rect" id="node26" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="806,359,901,385"/>
+<area shape="rect" id="node27" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="460,320,567,347"/>
+<area shape="rect" id="node28" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="477,421,550,448"/>
+<area shape="rect" id="node6" href="$classTString.html" title="Basic string class. " alt="" coords="479,740,547,767"/>
+<area shape="rect" id="node7" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="247,775,359,801"/>
+<area shape="rect" id="node8" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,724,144,751"/>
+<area shape="rect" id="node9" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,775,143,801"/>
+<area shape="rect" id="node10" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,825,145,852"/>
+<area shape="rect" id="node11" href="$classRooPrintable.html" title="RooPlotable is a &#39;mix&#45;in&#39; base class that define the standard RooFit plotting and printing methods..." alt="" coords="801,808,905,835"/>
+<area shape="rect" id="node13" href="$classRooArgSet.html" title="RooArgSet is a container object that can hold multiple RooAbsArg objects. " alt="" coords="1379,708,1468,735"/>
+<area shape="rect" id="node17" href="$classRooStats_1_1TestStatSampler.html" title="TestStatSampler is an interface class for a tools which produce RooStats SamplingDistributions. " alt="" coords="2381,595,2574,621"/>
+<area shape="rect" id="node19" href="$classRooWorkspaceHandle.html" title="An interface to set and retrieve a workspace. " alt="" coords="2012,241,2175,268"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="2050,108,2137,135"/>
+<area shape="rect" id="node25" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1136,309,1255,336"/>
+<area shape="rect" id="node29" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="237,724,368,751"/>
+<area shape="rect" id="node30" href="$classROOT_1_1Internal_1_1TAtomicPointer.html" title="ROOT::Internal::TAtomicPointer\l\&lt; TObjArray *\&gt;" alt="" coords="1312,434,1535,475"/>
+<area shape="rect" id="node31" href="$classRooStats_1_1TestStatistic.html" title="TestStatistic is an interface class to provide a facility for construction test statistics distributi..." alt="" coords="2394,645,2561,672"/>
+</map>

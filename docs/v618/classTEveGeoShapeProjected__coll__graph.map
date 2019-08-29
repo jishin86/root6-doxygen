@@ -1,0 +1,59 @@
+<map id="TEveGeoShapeProjected" name="TEveGeoShapeProjected">
+<area shape="rect" id="node2" href="$classTEveShape.html" title="Abstract base&#45;class for 2D/3D shapes. " alt="" coords="3783,1741,3877,1768"/>
+<area shape="rect" id="node3" href="$classTEveElementList.html" title="A list of TEveElements. " alt="" coords="3425,1549,3556,1576"/>
+<area shape="rect" id="node5" href="$classTEveCompound.html" title="Description of TEveCompound. " alt="" coords="3768,1499,3892,1525"/>
+<area shape="rect" id="node64" href="$classTEveProjectionManager.html" title="Manager class for steering of projections and managing projected objects. " alt="" coords="3743,1860,3917,1887"/>
+<area shape="rect" id="node4" href="$classTEveElement.html" title="Base class for TEveUtil visualization elements, providing hierarchy management, rendering control and..." alt="" coords="4073,1475,4181,1501"/>
+<area shape="rect" id="node6" href="$classTString.html" title="Basic string class. " alt="" coords="627,461,695,488"/>
+<area shape="rect" id="node11" href="$classTGPicture.html" title="TGPicture" alt="" coords="922,100,1007,127"/>
+<area shape="rect" id="node18" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1493,1203,1570,1229"/>
+<area shape="rect" id="node21" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="917,1025,1012,1052"/>
+<area shape="rect" id="node30" href="$classTClass.html" title="TClass" alt="" coords="3106,787,3170,813"/>
+<area shape="rect" id="node47" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="3719,1305,3941,1332"/>
+<area shape="rect" id="node51" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1866,437,1957,464"/>
+<area shape="rect" id="node55" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2214,431,2331,457"/>
+<area shape="rect" id="node66" href="$classTEveProjection.html" title="Base&#45;class for non&#45;linear projections. " alt="" coords="3431,1948,3550,1975"/>
+<area shape="rect" id="node7" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="291,461,403,488"/>
+<area shape="rect" id="node8" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,411,144,437"/>
+<area shape="rect" id="node9" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,461,143,488"/>
+<area shape="rect" id="node10" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,512,145,539"/>
+<area shape="rect" id="node12" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="311,960,383,987"/>
+<area shape="rect" id="node15" href="$classTEveTrans.html" title="TEveTrans is a 4x4 transformation matrix for homogeneous coordinates stored internally in a column&#45;ma..." alt="" coords="781,1673,869,1700"/>
+<area shape="rect" id="node16" href="$classTRef.html" title="Persistent Reference link to a TObject A TRef is a lightweight object pointing to any TObject..." alt="" coords="2247,1709,2298,1736"/>
+<area shape="rect" id="node19" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1488,1532,1575,1559"/>
+<area shape="rect" id="node22" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="607,975,714,1001"/>
+<area shape="rect" id="node23" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="1495,1332,1568,1359"/>
+<area shape="rect" id="node32" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2203,951,2343,977"/>
+<area shape="rect" id="node39" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="626,344,695,371"/>
+<area shape="rect" id="node68" href="$classTBuffer3D.html" title="Generic 3D primitive description class. " alt="" coords="617,5,704,32"/>
+<area shape="rect" id="node13" href="$classTRefCnt.html" title="Definitions for TRefCnt, base class for reference counted objects. " alt="" coords="624,56,697,83"/>
+<area shape="rect" id="node14" href="$structPictureAttributes__t.html" title="PictureAttributes_t" alt="" coords="589,107,732,133"/>
+<area shape="rect" id="node17" href="$classTProcessID.html" title="A TProcessID identifies a ROOT job in a unique way in time and space. " alt="" coords="1864,1597,1959,1624"/>
+<area shape="rect" id="node31" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2623,939,2720,965"/>
+<area shape="rect" id="node20" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1154,1127,1273,1153"/>
+<area shape="rect" id="node34" href="$classTList.html" title="A doubly linked list. " alt="" coords="1505,736,1558,763"/>
+<area shape="rect" id="node33" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1863,999,1960,1025"/>
+<area shape="rect" id="node45" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3396,1008,3585,1035"/>
+<area shape="rect" id="node59" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3411,1227,3570,1253"/>
+<area shape="rect" id="node24" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="1148,1281,1279,1308"/>
+<area shape="rect" id="node25" href="$classROOT_1_1Internal_1_1TAtomicPointer.html" title="ROOT::Internal::TAtomicPointer\l\&lt; TObjArray *\&gt;" alt="" coords="1420,1610,1643,1651"/>
+<area shape="rect" id="node28" href="$classTEveProjectable.html" title="Abstract base&#45;class for non&#45;linear projectable objects. " alt="" coords="3075,1651,3201,1677"/>
+<area shape="rect" id="node63" href="$classTEveProjected.html" title="Abstract base class for classes that hold results of a non&#45;linear projection transformation. " alt="" coords="4069,1809,4184,1836"/>
+<area shape="rect" id="node48" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="3448,735,3533,761"/>
+<area shape="rect" id="node46" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="3095,1183,3181,1209"/>
+<area shape="rect" id="node36" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1838,748,1985,775"/>
+<area shape="rect" id="node54" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1823,596,2000,623"/>
+<area shape="rect" id="node37" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2571,483,2772,509"/>
+<area shape="rect" id="node60" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="3768,663,3892,689"/>
+<area shape="rect" id="node41" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2606,533,2737,560"/>
+<area shape="rect" id="node42" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2600,685,2743,712"/>
+<area shape="rect" id="node57" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="3743,765,3917,792"/>
+<area shape="rect" id="node49" title="STL class. " alt="" coords="3095,479,3181,505"/>
+<area shape="rect" id="node52" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1454,515,1609,541"/>
+<area shape="rect" id="node53" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1499,565,1563,592"/>
+<area shape="rect" id="node56" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1840,488,1983,515"/>
+<area shape="rect" id="node58" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2606,787,2737,813"/>
+<area shape="rect" id="node61" href="$classTAtt3D.html" title="Use this attribute class when an object should have 3D capabilities. " alt="" coords="3457,1733,3524,1760"/>
+<area shape="rect" id="node62" href="$classTAttBBox.html" title="Helper for management of bounding&#45;box information. " alt="" coords="3449,1835,3532,1861"/>
+<area shape="rect" id="node65" href="$classTEveVectorT.html" title="TEveVectorT\&lt; Float_t \&gt;" alt="" coords="3049,1872,3227,1899"/>
+</map>

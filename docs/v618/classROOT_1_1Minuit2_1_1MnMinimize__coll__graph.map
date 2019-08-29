@@ -1,0 +1,29 @@
+<map id="ROOT::Minuit2::MnMinimize" name="ROOT::Minuit2::MnMinimize">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MnApplication.html" title="application interface class for minimizers (migrad, simplex, Minimize, Scan) User normally instantiat..." alt="" coords="1717,266,1932,293"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnStrategy.html" title="API class for defining three levels of strategies: low (0), medium (1), high (&gt;=2); acts on: Migrad (..." alt="" coords="1377,279,1573,306"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1FCNBase.html" title="Interface (abstract class) defining the function to be minimized, which has to be implemented by the ..." alt="" coords="1385,229,1565,255"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1GenericFunction.html" title="Class from which all the other classes, representing functions, inherit. " alt="" coords="988,229,1215,255"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1MnUserParameterState.html" title="class which holds the external user and/or internal Minuit representation of the parameters and error..." alt="" coords="1356,412,1595,453"/>
+<area shape="rect" id="node25" href="$classROOT_1_1Minuit2_1_1MnTraceObject.html" title="ROOT::Minuit2::MnTraceObject" alt="" coords="1716,523,1933,550"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1MnUserCovariance.html" title="Class containing the covariance matrix data represented as a vector of size n*(n+1)/2 Used to hide in..." alt="" coords="705,394,949,421"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="407,237,676,263"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Minuit2_1_1MnGlobalCorrelationCoeff.html" title="class for global correlation coefficient " alt="" coords="700,495,955,536"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1MnUserParameters.html" title="API class for the user interaction with the parameters; serves as input to the minimizer as well as o..." alt="" coords="979,293,1224,319"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="5,71,247,112"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="9,136,243,177"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="29,201,223,243"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="21,267,231,308"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Minuit2_1_1CombinedMinimizer.html" title="Combined minimizer: combination of Migrad and Simplex. " alt="" coords="3575,325,3827,351"/>
+<area shape="rect" id="node19" href="$classROOT_1_1Minuit2_1_1ModularFunctionMinimizer.html" title="Base common class providing the API for all the minimizer Various Minimize methods are provided varyi..." alt="" coords="2397,309,2625,351"/>
+<area shape="rect" id="node26" href="$classROOT_1_1Minuit2_1_1SimplexMinimizer.html" title="Class implementing the required methods for a minimization using Simplex. " alt="" coords="2785,509,3024,535"/>
+<area shape="rect" id="node29" href="$classROOT_1_1Minuit2_1_1VariableMetricMinimizer.html" title="Instantiates the SeedGenerator and MinimumBuilder for Variable Metric Minimization method..." alt="" coords="2797,427,3012,468"/>
+<area shape="rect" id="node20" href="$classROOT_1_1Minuit2_1_1FunctionMinimizer.html" title="base class for function minimizers; user may give FCN or FCN with Gradient, Parameter starting values..." alt="" coords="2031,317,2271,343"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Minuit2_1_1MnSeedGenerator.html" title="concrete implementation of the MinimumSeedGenerator interface; used within ModularFunctionMinimizer; ..." alt="" coords="2392,375,2631,402"/>
+<area shape="rect" id="node22" href="$classROOT_1_1Minuit2_1_1MinimumSeedGenerator.html" title="base class for seed generators (starting values); the seed generator prepares initial starting values..." alt="" coords="2043,388,2258,429"/>
+<area shape="rect" id="node27" href="$classROOT_1_1Minuit2_1_1SimplexSeedGenerator.html" title="generate Simplex starting point (state) " alt="" coords="2408,427,2615,468"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Minuit2_1_1CombinedMinimumBuilder.html" title="ROOT::Minuit2::CombinedMinimum\lBuilder" alt="" coords="3199,467,3448,508"/>
+<area shape="rect" id="node24" href="$classROOT_1_1Minuit2_1_1MinimumBuilder.html" title="ROOT::Minuit2::MinimumBuilder" alt="" coords="2036,549,2265,575"/>
+<area shape="rect" id="node28" href="$classROOT_1_1Minuit2_1_1SimplexBuilder.html" title="Performs a minimization using the simplex method of Nelder and Mead (ref. " alt="" coords="2401,558,2622,585"/>
+<area shape="rect" id="node30" href="$classROOT_1_1Minuit2_1_1VariableMetricBuilder.html" title="Build (find) function minimum using the Variable Metric method (MIGRAD) Two possible error updators c..." alt="" coords="2404,492,2619,533"/>
+<area shape="rect" id="node31" href="$classROOT_1_1Minuit2_1_1VariableMetricEDMEstimator.html" title="ROOT::Minuit2::VariableMetric\lEDMEstimator" alt="" coords="2043,473,2258,515"/>
+</map>

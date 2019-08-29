@@ -1,0 +1,29 @@
+<map id="TGLManipSet" name="TGLManipSet">
+<area shape="rect" id="node2" href="$classTGLOverlayElement.html" title="An overlay element. " alt="" coords="1615,5,1767,32"/>
+<area shape="rect" id="node3" href="$classTGLPShapeRef.html" title="Base class for references to TGLPysicalShape that need to be notified when the shape is destroyed..." alt="" coords="958,192,1074,219"/>
+<area shape="rect" id="node4" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="1257,271,1399,297"/>
+<area shape="rect" id="node6" href="$classTGLLogicalShape.html" title="Abstract logical shape &#45; a GL &#39;drawable&#39; &#45; base for all shapes &#45; faceset sphere etc. " alt="" coords="2531,619,2664,645"/>
+<area shape="rect" id="node10" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="1655,397,1727,424"/>
+<area shape="rect" id="node34" href="$classTGLManip.html" title="Abstract base class for viewer manipulators, which allow direct in viewer manipulation of a (TGlPhysi..." alt="" coords="1648,131,1735,157"/>
+<area shape="rect" id="node5" href="$classTGLMatrix.html" title="16 component (4x4) transform matrix &#45; column MAJOR as per GL. " alt="" coords="972,283,1060,309"/>
+<area shape="rect" id="node7" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="2347,619,2433,645"/>
+<area shape="rect" id="node8" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="1992,472,2111,499"/>
+<area shape="rect" id="node9" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="1639,347,1744,373"/>
+<area shape="rect" id="node11" href="$classTString.html" title="Basic string class. " alt="" coords="461,471,529,497"/>
+<area shape="rect" id="node24" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,543,828,569"/>
+<area shape="rect" id="node12" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,471,349,497"/>
+<area shape="rect" id="node13" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,420,144,447"/>
+<area shape="rect" id="node14" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,471,143,497"/>
+<area shape="rect" id="node15" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,521,145,548"/>
+<area shape="rect" id="node16" href="$classTGLBoundingBox.html" title="Concrete class describing an orientated (free) or axis aligned box of 8 vertices. ..." alt="" coords="949,397,1083,424"/>
+<area shape="rect" id="node17" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="447,353,543,380"/>
+<area shape="rect" id="node18" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="733,397,828,424"/>
+<area shape="rect" id="node20" href="$classTGLContextIdentity.html" title="Identifier of a shared GL&#45;context. " alt="" coords="1977,585,2125,612"/>
+<area shape="rect" id="node21" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1626,600,1757,627"/>
+<area shape="rect" id="node22" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1285,549,1371,576"/>
+<area shape="rect" id="node23" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="957,545,1075,572"/>
+<area shape="rect" id="node25" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,603,329,629"/>
+<area shape="rect" id="node26" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,585,548,612"/>
+<area shape="rect" id="node35" href="$classTVirtualGLManip.html" title="TVirtualGLManip" alt="" coords="1263,107,1393,133"/>
+<area shape="rect" id="node36" href="$classTPoint.html" title="TPoint" alt="" coords="1297,157,1359,184"/>
+</map>

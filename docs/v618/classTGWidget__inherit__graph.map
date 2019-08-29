@@ -1,0 +1,60 @@
+<map id="TGWidget" name="TGWidget">
+<area shape="rect" id="node2" href="$classTEveGTriVecValuator.html" title="Composite GUI element for setting three numerical values (label, three number&#45;entries). " alt="" coords="140,56,296,83"/>
+<area shape="rect" id="node3" href="$classTEveGValuatorBase.html" title="Base class for composite GUI elements for setting of numeric values. " alt="" coords="143,107,293,133"/>
+<area shape="rect" id="node6" href="$classTGButton.html" title="TGButton" alt="" coords="177,208,259,235"/>
+<area shape="rect" id="node23" href="$classTGColorPalette.html" title="TGColorPalette" alt="" coords="159,309,277,336"/>
+<area shape="rect" id="node24" href="$classTGColorPick.html" title="TGColorPick" alt="" coords="167,360,269,387"/>
+<area shape="rect" id="node25" href="$classTGComboBox.html" title="TGComboBox" alt="" coords="163,411,273,437"/>
+<area shape="rect" id="node30" href="$classTGDockableFrame.html" title="TGDockableFrame" alt="" coords="147,461,289,488"/>
+<area shape="rect" id="node31" href="$classTGDoubleSlider.html" title="TGDoubleSlider" alt="" coords="157,512,279,539"/>
+<area shape="rect" id="node36" href="$classTGeoPconSection.html" title="Utility frame used by TGeoPcon editor. " alt="" coords="151,563,285,589"/>
+<area shape="rect" id="node37" href="$classTGListBox.html" title="TGListBox" alt="" coords="174,613,262,640"/>
+<area shape="rect" id="node38" href="$classTGMdiWinResizer.html" title="TGMdiWinResizer" alt="" coords="151,664,285,691"/>
+<area shape="rect" id="node42" href="$classTGNumberEntry.html" title="TGNumberEntry" alt="" coords="155,715,281,741"/>
+<area shape="rect" id="node43" href="$classTGScrollBar.html" title="TGScrollBar" alt="" coords="169,765,267,792"/>
+<area shape="rect" id="node46" href="$classTGShutterItem.html" title="TGShutterItem" alt="" coords="159,816,277,843"/>
+<area shape="rect" id="node47" href="$classTGSlider.html" title="TGSlider" alt="" coords="179,867,257,893"/>
+<area shape="rect" id="node50" href="$classTGSpeedo.html" title="TGSpeedo" alt="" coords="174,917,262,944"/>
+<area shape="rect" id="node51" href="$classTGTab.html" title="TGTab" alt="" coords="187,968,249,995"/>
+<area shape="rect" id="node52" href="$classTGTable.html" title="TGTable" alt="" coords="181,1019,255,1045"/>
+<area shape="rect" id="node55" href="$classTGTextEntry.html" title="TGTextEntry" alt="" coords="167,1069,269,1096"/>
+<area shape="rect" id="node57" href="$classTGView.html" title="TGView" alt="" coords="182,1120,254,1147"/>
+<area shape="rect" id="node4" href="$classTEveGDoubleValuator.html" title="Composite GUI element for selection of range (label, two number&#45;entries and double&#45;slider). " alt="" coords="363,5,527,32"/>
+<area shape="rect" id="node5" href="$classTEveGValuator.html" title="Composite GUI element for single value selection (supports label, number&#45;entry and slider)..." alt="" coords="386,56,505,83"/>
+<area shape="rect" id="node7" href="$classTGDockButton.html" title="TGDockButton" alt="" coords="387,107,503,133"/>
+<area shape="rect" id="node9" href="$classTGPictureButton.html" title="TGPictureButton" alt="" coords="381,157,509,184"/>
+<area shape="rect" id="node13" href="$classTGTextButton.html" title="TGTextButton" alt="" coords="390,208,501,235"/>
+<area shape="rect" id="node22" href="$classTGuiBldHintsButton.html" title="TGuiBldHintsButton" alt="" coords="370,259,521,285"/>
+<area shape="rect" id="node8" href="$classTGDockHideButton.html" title="TGDockHideButton" alt="" coords="616,5,763,32"/>
+<area shape="rect" id="node10" href="$classTGImageMap.html" title="TGImageMap" alt="" coords="635,56,743,83"/>
+<area shape="rect" id="node14" href="$classTEveGedNameTextButton.html" title="Specialization of TGTextButton for EVE name frame. " alt="" coords="595,208,784,235"/>
+<area shape="rect" id="node15" href="$classTGCheckButton.html" title="TGCheckButton" alt="" coords="628,259,751,285"/>
+<area shape="rect" id="node20" href="$classTGRadioButton.html" title="TGRadioButton" alt="" coords="629,309,749,336"/>
+<area shape="rect" id="node21" href="$classTGSplitButton.html" title="TGSplitButton" alt="" coords="633,360,745,387"/>
+<area shape="rect" id="node16" href="$classTGColorSelect.html" title="TGColorSelect" alt="" coords="832,233,947,260"/>
+<area shape="rect" id="node17" href="$classTGedSelect.html" title="TGedSelect" alt="" coords="841,284,937,311"/>
+<area shape="rect" id="node18" href="$classTGedMarkerSelect.html" title="TGedMarkerSelect" alt="" coords="995,259,1137,285"/>
+<area shape="rect" id="node19" href="$classTGedPatternSelect.html" title="TGedPatternSelect" alt="" coords="995,309,1137,336"/>
+<area shape="rect" id="node26" href="$classTGFontTypeComboBox.html" title="TGFontTypeComboBox" alt="" coords="361,309,530,336"/>
+<area shape="rect" id="node27" href="$classTGFSComboBox.html" title="TGFSComboBox" alt="" coords="382,360,509,387"/>
+<area shape="rect" id="node28" href="$classTGLineStyleComboBox.html" title="TGLineStyleComboBox" alt="" coords="360,411,531,437"/>
+<area shape="rect" id="node29" href="$classTGLineWidthComboBox.html" title="TGLineWidthComboBox" alt="" coords="357,461,533,488"/>
+<area shape="rect" id="node32" href="$classTGDoubleHSlider.html" title="TGDoubleHSlider" alt="" coords="379,512,512,539"/>
+<area shape="rect" id="node34" href="$classTGDoubleVSlider.html" title="TGDoubleVSlider" alt="" coords="379,563,511,589"/>
+<area shape="rect" id="node33" href="$classTGTripleHSlider.html" title="TGTripleHSlider" alt="" coords="628,512,751,539"/>
+<area shape="rect" id="node35" href="$classTGTripleVSlider.html" title="TGTripleVSlider" alt="" coords="629,563,750,589"/>
+<area shape="rect" id="node39" href="$classTGMdiCornerWinResizer.html" title="TGMdiCornerWinResizer" alt="" coords="356,613,535,640"/>
+<area shape="rect" id="node40" href="$classTGMdiHorizontalWinResizer.html" title="TGMdiHorizontalWinResizer" alt="" coords="344,664,547,691"/>
+<area shape="rect" id="node41" href="$classTGMdiVerticalWinResizer.html" title="TGMdiVerticalWinResizer" alt="" coords="353,715,537,741"/>
+<area shape="rect" id="node44" href="$classTGHScrollBar.html" title="TGHScrollBar" alt="" coords="391,765,499,792"/>
+<area shape="rect" id="node45" href="$classTGVScrollBar.html" title="TGVScrollBar" alt="" coords="392,816,499,843"/>
+<area shape="rect" id="node48" href="$classTGHSlider.html" title="TGHSlider" alt="" coords="402,867,489,893"/>
+<area shape="rect" id="node49" href="$classTGVSlider.html" title="TGVSlider" alt="" coords="402,917,489,944"/>
+<area shape="rect" id="node53" href="$classTGSimpleTable.html" title="TGSimpleTable" alt="" coords="386,968,505,995"/>
+<area shape="rect" id="node54" href="$classTGTreeTable.html" title="TGTreeTable is a TGTable that owns it&#39;s own interface. " alt="" coords="395,1019,496,1045"/>
+<area shape="rect" id="node56" href="$classTGNumberEntryField.html" title="TGNumberEntryField" alt="" coords="367,1069,523,1096"/>
+<area shape="rect" id="node58" href="$classTGHtml.html" title="TGHtml" alt="" coords="409,1120,481,1147"/>
+<area shape="rect" id="node59" href="$classTGTextView.html" title="TGTextView" alt="" coords="396,1171,495,1197"/>
+<area shape="rect" id="node60" href="$classTGTextEdit.html" title="TGTextEdit" alt="" coords="643,1145,735,1172"/>
+<area shape="rect" id="node61" href="$classTGTextViewostream.html" title="TGTextViewostream" alt="" coords="613,1196,766,1223"/>
+</map>

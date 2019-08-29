@@ -1,0 +1,11 @@
+<map id="ROOT::Minuit2::MnTraceObject" name="ROOT::Minuit2::MnTraceObject">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MnUserParameterState.html" title="class which holds the external user and/or internal Minuit representation of the parameters and error..." alt="" coords="1356,97,1595,139"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnUserCovariance.html" title="Class containing the covariance matrix data represented as a vector of size n*(n+1)/2 Used to hide in..." alt="" coords="705,130,949,157"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="407,290,676,317"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Minuit2_1_1MnGlobalCorrelationCoeff.html" title="class for global correlation coefficient " alt="" coords="700,5,955,47"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1MnUserParameters.html" title="API class for the user interaction with the parameters; serves as input to the minimizer as well as o..." alt="" coords="979,218,1224,245"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="5,175,247,216"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="9,240,243,281"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="29,305,223,347"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="21,371,231,412"/>
+</map>

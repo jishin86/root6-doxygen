@@ -1,0 +1,16 @@
+<map id="ROOT::Minuit2::FumiliBuilder" name="ROOT::Minuit2::FumiliBuilder">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MinimumBuilder.html" title="ROOT::Minuit2::MinimumBuilder" alt="" coords="2031,105,2260,131"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnTraceObject.html" title="ROOT::Minuit2::MnTraceObject" alt="" coords="1716,105,1933,131"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1MnUserParameterState.html" title="class which holds the external user and/or internal Minuit representation of the parameters and error..." alt="" coords="1356,97,1595,139"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1MnUserCovariance.html" title="Class containing the covariance matrix data represented as a vector of size n*(n+1)/2 Used to hide in..." alt="" coords="705,130,949,157"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="407,290,676,317"/>
+<area shape="rect" id="node15" href="$classROOT_1_1Minuit2_1_1MnGlobalCorrelationCoeff.html" title="class for global correlation coefficient " alt="" coords="700,5,955,47"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1MnUserParameters.html" title="API class for the user interaction with the parameters; serves as input to the minimizer as well as o..." alt="" coords="979,218,1224,245"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="5,175,247,216"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="9,240,243,281"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="29,305,223,347"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="21,371,231,412"/>
+<area shape="rect" id="node16" href="$classROOT_1_1Minuit2_1_1FumiliErrorUpdator.html" title="In the case of the Fumili algorithm the Error matrix (or the Hessian matrix containing the (approxima..." alt="" coords="2049,156,2241,197"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Minuit2_1_1MinimumErrorUpdator.html" title="ROOT::Minuit2::MinimumError\lUpdator" alt="" coords="1717,156,1932,197"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Minuit2_1_1VariableMetricEDMEstimator.html" title="ROOT::Minuit2::VariableMetric\lEDMEstimator" alt="" coords="2038,221,2253,263"/>
+</map>

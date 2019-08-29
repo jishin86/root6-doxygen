@@ -1,0 +1,13 @@
+<map id="ROOT::Minuit2::FCNBase" name="ROOT::Minuit2::FCNBase">
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1FCNAdapter.html" title="template wrapped class for adapting to FCNBase signature " alt="" coords="527,5,725,47"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1FCNGradientBase.html" title="Extension of the FCNBase for providing the analytical Gradient of the function. " alt="" coords="508,71,744,98"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1FumiliFCNBase.html" title="Extension of the FCNBase for the Fumili method. " alt="" coords="517,122,735,149"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1ParametricFunction.html" title="Function which has parameters. " alt="" coords="530,173,722,215"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1GenericFunction.html" title="Class from which all the other classes, representing functions, inherit. " alt="" coords="5,97,232,123"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1FCNGradAdapter.html" title="template wrapped class for adapting to FCNBase signature a IGradFunction " alt="" coords="796,27,1027,68"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1FumiliChi2FCN.html" title="Extension of the FCNBase for the Fumili method. " alt="" coords="803,93,1019,119"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1FumiliFCNAdapter.html" title="template wrapped class for adapting to FumiliFCNBase signature " alt="" coords="792,144,1031,185"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1FumiliMaximumLikelihoodFCN.html" title="Extension of the FCNBase for the Fumili method. " alt="" coords="798,209,1025,251"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1FumiliStandardChi2FCN.html" title="Class implementing the standard chi square function, which is the sum of the squares of the figures&#45;o..." alt="" coords="1079,85,1297,127"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1FumiliStandardMaximumLikelihoodFCN.html" title="Class implementing the Elements member function for the standard maximum likelihood method..." alt="" coords="1079,209,1297,251"/>
+</map>

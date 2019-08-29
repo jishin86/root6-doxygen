@@ -1,0 +1,12 @@
+<map id="ROOT::Minuit2::FumiliGradientCalculator" name="ROOT::Minuit2::FumiliGradientCalculator">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1GradientCalculator.html" title="interface class for gradient calculators " alt="" coords="695,47,939,73"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1FumiliFCNBase.html" title="Extension of the FCNBase for the Fumili method. " alt="" coords="708,97,927,124"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1FCNBase.html" title="Interface (abstract class) defining the function to be minimized, which has to be implemented by the ..." alt="" coords="312,5,492,32"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1GenericFunction.html" title="Class from which all the other classes, representing functions, inherit. " alt="" coords="5,5,232,32"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="683,191,952,217"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1LASymMatrix.html" title="Class describing a symmetric matrix of size n. " alt="" coords="713,241,921,268"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="281,115,523,157"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="285,181,519,222"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="305,246,499,287"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="297,311,507,353"/>
+</map>

@@ -1,0 +1,70 @@
+<map id="TAtt3D" name="TAtt3D">
+<area shape="rect" id="node2" href="$classTEveArrow.html" title="Class used for display of a thick arrow. " alt="" coords="151,56,243,83"/>
+<area shape="rect" id="node3" href="$classTEveCaloViz.html" title="Base class for calorimeter data visualization. " alt="" coords="145,107,248,133"/>
+<area shape="rect" id="node7" href="$classTEveDigitSet.html" title="Base&#45;class for storage of digit collections; provides transformation matrix (TEveTrans), signal to color mapping (TEveRGBAPalette) and visual grouping (TEveFrameBox). " alt="" coords="143,208,250,235"/>
+<area shape="rect" id="node10" href="$classTEveProjectionAxes.html" title="Axes for non&#45;linear projections. " alt="" coords="121,411,272,437"/>
+<area shape="rect" id="node11" href="$classTEveShape.html" title="Abstract base&#45;class for 2D/3D shapes. " alt="" coords="149,461,244,488"/>
+<area shape="rect" id="node19" href="$classTEveStraightLineSet.html" title="Set of straight lines with optional markers along the lines. " alt="" coords="120,625,273,652"/>
+<area shape="rect" id="node22" href="$classTEveText.html" title="TEveElement class used for displaying FreeType GL fonts. " alt="" coords="156,676,237,703"/>
+<area shape="rect" id="node23" href="$classTEveTriangleSet.html" title="Made from a list of vertices and a list of triangles (triplets of vertex indices). " alt="" coords="133,727,260,753"/>
+<area shape="rect" id="node24" href="$classTGeoOverlap.html" title="Base class describing geometry overlaps. " alt="" coords="143,777,250,804"/>
+<area shape="rect" id="node25" href="$classTGeoVolume.html" title="TGeoVolume, TGeoVolumeMulti, TGeoVolumeAssembly are the volume classes. " alt="" coords="144,828,249,855"/>
+<area shape="rect" id="node28" href="$classTH3.html" title="The 3&#45;D histogram classes derived from the 1&#45;D histogram classes. " alt="" coords="173,879,221,905"/>
+<area shape="rect" id="node36" href="$classTMarker3DBox.html" title="A special 3&#45;D marker designed for event display. " alt="" coords="137,929,256,956"/>
+<area shape="rect" id="node37" href="$classTNode.html" title="TNode description. " alt="" coords="165,1005,229,1032"/>
+<area shape="rect" id="node39" href="$classTParticle.html" title="Description of the dynamic properties of a particle. " alt="" coords="157,1107,236,1133"/>
+<area shape="rect" id="node42" href="$classTPolyLine3D.html" title="A 3&#45;dimensional polyline. " alt="" coords="145,1157,248,1184"/>
+<area shape="rect" id="node44" href="$classTPolyMarker3D.html" title="A 3D polymarker. " alt="" coords="136,1208,257,1235"/>
+<area shape="rect" id="node52" href="$classTPrimary.html" title="Old version of a dynamic particle class created by event generators. " alt="" coords="156,1259,237,1285"/>
+<area shape="rect" id="node53" href="$classTShape.html" title="This is the base class for all geometry shapes. " alt="" coords="161,1537,232,1564"/>
+<area shape="rect" id="node4" href="$classTEveCalo2D.html" title="Visualization of a calorimeter event data in 2D. " alt="" coords="378,5,479,32"/>
+<area shape="rect" id="node5" href="$classTEveCalo3D.html" title="Visualization of a calorimeter event data in 3D. " alt="" coords="378,56,479,83"/>
+<area shape="rect" id="node6" href="$classTEveCaloLego.html" title="Visualization of calorimeter data as eta/phi histogram. " alt="" coords="371,107,486,133"/>
+<area shape="rect" id="node8" href="$classTEveBoxSet.html" title="Collection of 3D primitives (fixed&#45;size boxes, boxes of different sizes, or arbitrary sexto&#45;epipeds..." alt="" coords="379,157,479,184"/>
+<area shape="rect" id="node9" href="$classTEveQuadSet.html" title="Supports various internal formats that result in rendering of a set of planar (lines, rectangles, hexagons with shared normal) objects. " alt="" coords="374,208,483,235"/>
+<area shape="rect" id="node12" href="$classTEveBox.html" title="3D box with arbitrary vertices (cuboid). " alt="" coords="389,259,468,285"/>
+<area shape="rect" id="node13" href="$classTEveBoxProjected.html" title="Projection of TEveBox. " alt="" coords="359,309,499,336"/>
+<area shape="rect" id="node14" href="$classTEveGeoShape.html" title="Wrapper for TGeoShape with absolute positioning and color attributes allowing display of extracted TG..." alt="" coords="369,360,489,387"/>
+<area shape="rect" id="node15" href="$classTEveGeoShapeProjected.html" title="A 3D projected TEveGeoShape. " alt="" coords="338,411,519,437"/>
+<area shape="rect" id="node16" href="$classTEveJetCone.html" title="Draws a jet cone with leading particle is specified in (eta,phi) and cone radius is given..." alt="" coords="377,461,481,488"/>
+<area shape="rect" id="node17" href="$classTEveJetConeProjected.html" title="Projection of TEveJetCone. " alt="" coords="346,512,511,539"/>
+<area shape="rect" id="node18" href="$classTEvePolygonSetProjected.html" title="A set of projected polygons. " alt="" coords="335,563,523,589"/>
+<area shape="rect" id="node20" href="$classTEveScalableStraightLineSet.html" title="Straight&#45;line&#45;set with extra scaling, useful for projectables that need to be scaled in accordance wi..." alt="" coords="325,613,533,640"/>
+<area shape="rect" id="node21" href="$classTEveStraightLineSetProjected.html" title="Projected replica of a TEveStraightLineSet. " alt="" coords="321,664,536,691"/>
+<area shape="rect" id="node26" href="$classTGeoVolumeAssembly.html" title="Volume assemblies. " alt="" coords="344,715,513,741"/>
+<area shape="rect" id="node27" href="$classTGeoVolumeMulti.html" title="Volume families. " alt="" coords="360,765,497,792"/>
+<area shape="rect" id="node29" href="$classTH3C.html" title="3&#45;D histogram with a byte per channel (see TH1 documentation) " alt="" coords="400,816,457,843"/>
+<area shape="rect" id="node31" href="$classTH3D.html" title="3&#45;D histogram with a double per channel (see TH1 documentation)} " alt="" coords="399,867,458,893"/>
+<area shape="rect" id="node33" href="$classTH3F.html" title="3&#45;D histogram with a float per channel (see TH1 documentation)} " alt="" coords="401,917,456,944"/>
+<area shape="rect" id="node34" href="$classTH3I.html" title="3&#45;D histogram with an int per channel (see TH1 documentation)} " alt="" coords="403,968,455,995"/>
+<area shape="rect" id="node35" href="$classTH3S.html" title="3&#45;D histogram with a short per channel (see TH1 documentation) " alt="" coords="401,1019,457,1045"/>
+<area shape="rect" id="node30" href="$classTGLTH3Composition.html" title="TGLTH3Composition" alt="" coords="584,816,737,843"/>
+<area shape="rect" id="node32" href="$classTProfile3D.html" title="Profile3D histograms are used to display the mean value of T and its RMS for each cell in X..." alt="" coords="616,867,705,893"/>
+<area shape="rect" id="node38" href="$classTNodeDiv.html" title="Description of parameters to divide a 3&#45;D geometry object. " alt="" coords="385,1069,472,1096"/>
+<area shape="rect" id="node40" href="$classTEveMCTrack.html" title="TEveMCTrack" alt="" coords="375,1120,483,1147"/>
+<area shape="rect" id="node43" href="$classTHelix.html" title="THelix has two different constructors. " alt="" coords="397,1221,461,1248"/>
+<area shape="rect" id="node45" href="$classTPointSet3D.html" title="TPolyMarker3D using TPointSet3DGL for direct OpenGL rendering. " alt="" coords="377,1272,480,1299"/>
+<area shape="rect" id="node46" href="$classTEvePointSet.html" title="TEvePointSet is a render&#45;element holding a collection of 3D points with optional per&#45;point TRef and a..." alt="" coords="607,1208,715,1235"/>
+<area shape="rect" id="node47" href="$classTEveLine.html" title="An arbitrary polyline with fixed line and marker attributes. " alt="" coords="829,1183,911,1209"/>
+<area shape="rect" id="node51" href="$classTEvePointSetProjected.html" title="Projected copy of a TEvePointSet. " alt="" coords="785,1233,955,1260"/>
+<area shape="rect" id="node48" href="$classTEveLineProjected.html" title="Projected copy of a TEveLine. " alt="" coords="1003,1157,1145,1184"/>
+<area shape="rect" id="node49" href="$classTEveTrack.html" title="Visual representation of a track. " alt="" coords="1030,1208,1118,1235"/>
+<area shape="rect" id="node50" href="$classTEveTrackProjected.html" title="Projected copy of a TEveTrack. " alt="" coords="1193,1208,1343,1235"/>
+<area shape="rect" id="node54" href="$classTBRIK.html" title="A box with faces perpendicular to the axes. " alt="" coords="398,1385,459,1412"/>
+<area shape="rect" id="node60" href="$classTPCON.html" title="A polycone. " alt="" coords="395,1512,462,1539"/>
+<area shape="rect" id="node62" href="$classTSPHE.html" title="A Sphere. " alt="" coords="397,1563,461,1589"/>
+<area shape="rect" id="node63" href="$classTTUBE.html" title="A tube. " alt="" coords="396,1613,461,1640"/>
+<area shape="rect" id="node70" href="$classTXTRU.html" title="A poly&#45;extrusion. " alt="" coords="395,1664,462,1691"/>
+<area shape="rect" id="node55" href="$classTGTRA.html" title="A general twisted trapezoid. " alt="" coords="628,1259,693,1285"/>
+<area shape="rect" id="node56" href="$classTPARA.html" title="A parallelepiped. " alt="" coords="629,1309,692,1336"/>
+<area shape="rect" id="node57" href="$classTTRAP.html" title="A general trapezoid. " alt="" coords="629,1360,692,1387"/>
+<area shape="rect" id="node58" href="$classTTRD1.html" title="A trapezoid with the x dimension varying along z. " alt="" coords="628,1411,693,1437"/>
+<area shape="rect" id="node59" href="$classTTRD2.html" title="A trapezoid with both x and y dimensions varying along z. " alt="" coords="628,1461,693,1488"/>
+<area shape="rect" id="node61" href="$classTPGON.html" title="A polygon. " alt="" coords="627,1512,695,1539"/>
+<area shape="rect" id="node64" href="$classTCONE.html" title="A conical tube. " alt="" coords="627,1563,694,1589"/>
+<area shape="rect" id="node65" href="$classTELTU.html" title="A cylinder with an elliptical section. " alt="" coords="630,1613,691,1640"/>
+<area shape="rect" id="node66" href="$classTHYPE.html" title="An hyperboloid (not implemented) " alt="" coords="629,1664,693,1691"/>
+<area shape="rect" id="node67" href="$classTTUBS.html" title="A segment of a tube. " alt="" coords="628,1715,693,1741"/>
+<area shape="rect" id="node68" href="$classTCONS.html" title="A segment of a conical tube. " alt="" coords="837,1689,903,1716"/>
+<area shape="rect" id="node69" href="$classTCTUB.html" title="A cut tube with 11 parameters. " alt="" coords="837,1740,903,1767"/>
+</map>

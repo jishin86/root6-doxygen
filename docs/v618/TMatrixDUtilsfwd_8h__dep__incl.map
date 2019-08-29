@@ -1,0 +1,201 @@
+<map id="math/matrix/inc/TMatrixDUtilsfwd.h" name="math/matrix/inc/TMatrixDUtilsfwd.h">
+<area shape="rect" id="node2" href="$TMatrixDUtils_8h.html" title="math/matrix/inc/TMatrixDUtils.h" alt="" coords="4530,80,4761,107"/>
+<area shape="rect" id="node3" href="$TMatrixD_8h.html" title="math/matrix/inc/TMatrixD.h" alt="" coords="3983,155,4185,181"/>
+<area shape="rect" id="node26" href="$TDecompBase_8h.html" title="math/matrix/inc/TDecompBase.h" alt="" coords="2417,333,2653,360"/>
+<area shape="rect" id="node142" href="$TMatrixDSym_8h.html" title="math/matrix/inc/TMatrixDSym.h" alt="" coords="14017,155,14247,181"/>
+<area shape="rect" id="node200" href="$TMatrixDSparse_8h.html" title="math/matrix/inc/TMatrixDSparse.h" alt="" coords="5033,155,5279,181"/>
+<area shape="rect" id="node4" href="$TFITS_8cxx.html" title="graf2d/fitsio/src/TFITS.cxx" alt="" coords="3444,333,3633,360"/>
+<area shape="rect" id="node5" href="$TMultiDimFit_8h.html" title="hist/hist/inc/TMultiDimFit.h" alt="" coords="8329,333,8524,360"/>
+<area shape="rect" id="node7" href="$TPrincipal_8h.html" title="hist/hist/inc/TPrincipal.h" alt="" coords="8127,333,8305,360"/>
+<area shape="rect" id="node8" href="$TPrincipal_8cxx.html" title="hist/hist/src/TPrincipal.cxx" alt="" coords="7361,437,7553,464"/>
+<area shape="rect" id="node12" href="$DataLoader_8cxx.html" title="tmva/tmva/src/DataLoader.cxx" alt="" coords="6310,534,6533,561"/>
+<area shape="rect" id="node13" href="$VariablePCATransform_8cxx.html" title="tmva/tmva/src/VariablePCATransform.cxx" alt="" coords="8075,534,8365,561"/>
+<area shape="rect" id="node18" href="$TSVDUnfold_8h.html" title="hist/hist/inc/TSVDUnfold.h" alt="" coords="4021,333,4211,360"/>
+<area shape="rect" id="node20" href="$TF1Helper_8cxx.html" title="hist/hist/src/TF1Helper.cxx" alt="" coords="3226,333,3419,360"/>
+<area shape="rect" id="node21" href="$TUnfold_8h.html" title="hist/unfold/inc/TUnfold.h" alt="" coords="5887,237,6068,263"/>
+<area shape="rect" id="node24" href="$TUnfold_8cxx.html" title="hist/unfold/src/TUnfold.cxx" alt="" coords="5167,437,5363,464"/>
+<area shape="rect" id="node39" href="$TQpProbDens_8cxx.html" title="math/quadp/src/TQpProbDens.cxx" alt="" coords="1223,951,1465,978"/>
+<area shape="rect" id="node45" href="$TQpProbSparse_8cxx.html" title="math/quadp/src/TQpProbSparse.cxx" alt="" coords="2255,951,2508,978"/>
+<area shape="rect" id="node50" href="$TVectorD_8h.html" title="math/matrix/inc/TVectorD.h" alt="" coords="8518,237,8719,263"/>
+<area shape="rect" id="node62" href="$TMatrixDEigen_8h.html" title="math/matrix/inc/TMatrixDEigen.h" alt="" coords="3657,333,3895,360"/>
+<area shape="rect" id="node64" href="$fitEllipseTGraphDLSF_8cxx.html" title="tutorials/fit/fitEllipse\lTGraphDLSF.cxx" alt="" coords="4546,430,4699,471"/>
+<area shape="rect" id="node65" href="$TMatrixDSymEigen_8h.html" title="math/matrix/inc/TMatrixDSym\lEigen.h" alt="" coords="7783,326,8001,367"/>
+<area shape="rect" id="node67" href="$ROCCalc_8cxx.html" title="tmva/tmva/src/ROCCalc.cxx" alt="" coords="7133,437,7337,464"/>
+<area shape="rect" id="node68" href="$Tools_8cxx.html" title="tmva/tmva/src/Tools.cxx" alt="" coords="7628,437,7809,464"/>
+<area shape="rect" id="node70" href="$TLinearFitter_8h.html" title="math/minuit/inc/TLinearFitter.h" alt="" coords="4287,333,4508,360"/>
+<area shape="rect" id="node73" href="$TQpVar_8h.html" title="math/quadp/inc/TQpVar.h" alt="" coords="1851,333,2037,360"/>
+<area shape="rect" id="node74" href="$TQpSolverBase_8h.html" title="math/quadp/inc/TQpSolver\lBase.h" alt="" coords="360,855,555,896"/>
+<area shape="rect" id="node78" href="$TQpDataBase_8h.html" title="math/quadp/inc/TQpDataBase.h" alt="" coords="514,437,742,464"/>
+<area shape="rect" id="node79" href="$TQpDataDens_8h.html" title="math/quadp/inc/TQpDataDens.h" alt="" coords="1469,534,1699,561"/>
+<area shape="rect" id="node80" href="$TQpResidual_8h.html" title="math/quadp/inc/TQpResidual.h" alt="" coords="1702,616,1922,643"/>
+<area shape="rect" id="node81" href="$TQpProbBase_8h.html" title="math/quadp/inc/TQpProbBase.h" alt="" coords="1029,691,1256,717"/>
+<area shape="rect" id="node82" href="$TQpLinSolverBase_8h.html" title="math/quadp/inc/TQpLinSolver\lBase.h" alt="" coords="1917,765,2131,807"/>
+<area shape="rect" id="node83" href="$TQpLinSolverBase_8cxx.html" title="math/quadp/src/TQpLinSolver\lBase.cxx" alt="" coords="1972,855,2185,896"/>
+<area shape="rect" id="node87" href="$TQpResidual_8cxx.html" title="math/quadp/src/TQpResidual.cxx" alt="" coords="1752,691,1987,717"/>
+<area shape="rect" id="node91" href="$TQpVar_8cxx.html" title="math/quadp/src/TQpVar.cxx" alt="" coords="925,437,1125,464"/>
+<area shape="rect" id="node93" href="$MethodPyAdaBoost_8cxx.html" title="tmva/pymva/src/MethodPyAda\lBoost.cxx" alt="" coords="4684,326,4905,367"/>
+<area shape="rect" id="node94" href="$MethodPyGTB_8cxx.html" title="tmva/pymva/src/MethodPyGTB.cxx" alt="" coords="4980,333,5231,360"/>
+<area shape="rect" id="node95" href="$MethodPyRandomForest_8cxx.html" title="tmva/pymva/src/MethodPyRandom\lForest.cxx" alt="" coords="5255,326,5505,367"/>
+<area shape="rect" id="node96" href="$MethodC50_8cxx.html" title="tmva/rmva/src/MethodC50.cxx" alt="" coords="5529,333,5751,360"/>
+<area shape="rect" id="node97" href="$MethodRSNNS_8cxx.html" title="tmva/rmva/src/MethodRSNNS.cxx" alt="" coords="5775,333,6017,360"/>
+<area shape="rect" id="node98" href="$MethodRSVM_8cxx.html" title="tmva/rmva/src/MethodRSVM.cxx" alt="" coords="6041,333,6274,360"/>
+<area shape="rect" id="node99" href="$MethodRXGB_8cxx.html" title="tmva/rmva/src/MethodRXGB.cxx" alt="" coords="6298,333,6531,360"/>
+<area shape="rect" id="node105" href="$VariableDecorrTransform_8cxx.html" title="tmva/tmva/src/VariableDecorr\lTransform.cxx" alt="" coords="12505,326,12722,367"/>
+<area shape="rect" id="node107" href="$VariableNormalizeTransform_8cxx.html" title="tmva/tmva/src/VariableNormalize\lTransform.cxx" alt="" coords="12746,326,12987,367"/>
+<area shape="rect" id="node112" href="$RooMomentMorph_8h.html" title="roofit/roofit/inc/RooMoment\lMorph.h" alt="" coords="2729,326,2927,367"/>
+<area shape="rect" id="node114" href="$RooMomentMorphFunc_8h.html" title="roofit/roofit/inc/RooMoment\lMorphFunc.h" alt="" coords="2951,326,3150,367"/>
+<area shape="rect" id="node116" href="$RooNDKeysPdf_8h.html" title="roofit/roofit/inc/RooNDKeys\lPdf.h" alt="" coords="14299,430,14495,471"/>
+<area shape="rect" id="node120" href="$RooMultiVarGaussian_8h.html" title="roofit/roofitcore/inc\l/RooMultiVarGaussian.h" alt="" coords="14135,326,14310,367"/>
+<area shape="rect" id="node122" href="$RooCurve_8cxx.html" title=" &#160;" alt="" coords="13722,430,13867,471"/>
+<area shape="rect" id="node123" href="$TVectorF_8h.html" title="math/matrix/inc/TVectorF.h" alt="" coords="12515,237,12711,263"/>
+<area shape="rect" id="node125" href="$TMultiLayerPerceptron_8h.html" title="math/mlp/inc/TMultiLayer\lPerceptron.h" alt="" coords="1353,229,1541,271"/>
+<area shape="rect" id="node129" href="$RMinimizer_8h.html" title="math/rtools/inc/Math\l/RMinimizer.h" alt="" coords="4629,229,4785,271"/>
+<area shape="rect" id="node130" href="$ClassInfo_8cxx.html" title="tmva/tmva/src/ClassInfo.cxx" alt="" coords="4809,237,5017,263"/>
+<area shape="rect" id="node131" href="$MethodLD_8cxx.html" title="tmva/tmva/src/MethodLD.cxx" alt="" coords="96,237,309,263"/>
+<area shape="rect" id="node132" href="$MethodLikelihood_8cxx.html" title="tmva/tmva/src/MethodLikelihood.cxx" alt="" coords="385,237,647,263"/>
+<area shape="rect" id="node133" href="$MethodMLP_8cxx.html" title="tmva/tmva/src/MethodMLP.cxx" alt="" coords="671,237,891,263"/>
+<area shape="rect" id="node134" href="$ResultsMulticlass_8cxx.html" title="tmva/tmva/src/ResultsMulticlass.cxx" alt="" coords="915,237,1175,263"/>
+<area shape="rect" id="node135" href="$RooMomentMorphFuncND_8h.html" title="roofit/roofit/inc/RooMoment\lMorphFuncND.h" alt="" coords="1565,229,1763,271"/>
+<area shape="rect" id="node137" href="$RooMomentMorphND_8h.html" title="roofit/roofit/inc/RooMoment\lMorphND.h" alt="" coords="1787,229,1986,271"/>
+<area shape="rect" id="node139" href="$RooAbsPdf_8cxx.html" title="roofit/roofitcore/src\l/RooAbsPdf.cxx" alt="" coords="14731,430,14877,471"/>
+<area shape="rect" id="node140" href="$RooAbsReal_8cxx.html" title="roofit/roofitcore/src\l/RooAbsReal.cxx" alt="" coords="16873,430,17018,471"/>
+<area shape="rect" id="node141" href="$SPlot_8cxx.html" title="roofit/roostats/src\l/SPlot.cxx" alt="" coords="14571,430,14707,471"/>
+<area shape="rect" id="node6" href="$TMultiDimFit_8cxx.html" title="hist/hist/src/TMultiDimFit.cxx" alt="" coords="11120,534,11331,561"/>
+<area shape="rect" id="node9" href="$DataSetFactory_8h.html" title="tmva/tmva/inc/TMVA\l/DataSetFactory.h" alt="" coords="8551,430,8708,471"/>
+<area shape="rect" id="node11" href="$VariablePCATransform_8h.html" title="tmva/tmva/inc/TMVA\l/VariablePCATransform.h" alt="" coords="8345,430,8527,471"/>
+<area shape="rect" id="node15" href="$Classification_8cxx.html" title="tmva/tmva/src/Classification.cxx" alt="" coords="13463,437,13697,464"/>
+<area shape="rect" id="node16" href="$tmva_2tmva_2src_2Factory_8cxx.html" title="tmva/tmva/src/Factory.cxx" alt="" coords="13245,437,13438,464"/>
+<area shape="rect" id="node17" href="$TTreePlayer_8cxx.html" title="tree/treeplayer/src\l/TTreePlayer.cxx" alt="" coords="8127,430,8270,471"/>
+<area shape="rect" id="node10" href="$DataSetFactory_8cxx.html" title="tmva/tmva/src/DataSetFactory.cxx" alt="" coords="8680,534,8925,561"/>
+<area shape="rect" id="node14" href="$VariableTransform_8cxx.html" title="tmva/tmva/src/VariableTransform.cxx" alt="" coords="8389,534,8656,561"/>
+<area shape="rect" id="node19" href="$TSVDUnfold_8cxx.html" title="hist/hist/src/TSVDUnfold.cxx" alt="" coords="3631,534,3838,561"/>
+<area shape="rect" id="node22" href="$TUnfoldBinning_8h.html" title="hist/unfold/inc/TUnfoldBinning.h" alt="" coords="6555,333,6786,360"/>
+<area shape="rect" id="node23" href="$TUnfoldSys_8h.html" title="hist/unfold/inc/TUnfoldSys.h" alt="" coords="6810,333,7014,360"/>
+<area shape="rect" id="node25" href="$TUnfoldBinningXML_8cxx.html" title="hist/unfold/src/TUnfoldBinning\lXML.cxx" alt="" coords="7388,326,7607,367"/>
+<area shape="rect" id="node27" href="$TDecompBK_8h.html" title="math/matrix/inc/TDecompBK.h" alt="" coords="12998,437,13221,464"/>
+<area shape="rect" id="node29" href="$TDecompChol_8h.html" title="math/matrix/inc/TDecompChol.h" alt="" coords="12638,437,12871,464"/>
+<area shape="rect" id="node34" href="$TDecompLU_8h.html" title="math/matrix/inc/TDecompLU.h" alt="" coords="3205,437,3425,464"/>
+<area shape="rect" id="node40" href="$TDecompQRH_8h.html" title="math/matrix/inc/TDecompQRH.h" alt="" coords="2671,437,2905,464"/>
+<area shape="rect" id="node42" href="$TDecompSparse_8h.html" title="math/matrix/inc/TDecompSparse.h" alt="" coords="3449,437,3697,464"/>
+<area shape="rect" id="node46" href="$TDecompSVD_8h.html" title="math/matrix/inc/TDecompSVD.h" alt="" coords="2417,437,2647,464"/>
+<area shape="rect" id="node49" href="$TDecompBase_8cxx.html" title="math/matrix/src/TDecompBase.cxx" alt="" coords="2929,437,3180,464"/>
+<area shape="rect" id="node28" href="$TDecompBK_8cxx.html" title="math/matrix/src/TDecompBK.cxx" alt="" coords="13028,534,13265,561"/>
+<area shape="rect" id="node30" href="$TDecompChol_8cxx.html" title="math/matrix/src/TDecompChol.cxx" alt="" coords="12543,534,12791,561"/>
+<area shape="rect" id="node31" href="$TLinearFitter_8cxx.html" title="math/minuit/src/TLinearFitter.cxx" alt="" coords="9717,534,9953,561"/>
+<area shape="rect" id="node32" href="$TRobustEstimator_8cxx.html" title="math/physics/src/TRobust\lEstimator.cxx" alt="" coords="12815,527,13003,568"/>
+<area shape="rect" id="node33" href="$RooMultiVarGaussian_8cxx.html" title=" &#160;" alt="" coords="13874,527,14065,568"/>
+<area shape="rect" id="node35" href="$TDecompLU_8cxx.html" title="math/matrix/src/TDecompLU.cxx" alt="" coords="3372,534,3607,561"/>
+<area shape="rect" id="node36" href="$TMatrixT_8cxx.html" title="math/matrix/src/TMatrixT.cxx" alt="" coords="3862,534,4074,561"/>
+<area shape="rect" id="node37" href="$TMatrixTSym_8cxx.html" title="math/matrix/src/TMatrixTSym.cxx" alt="" coords="4099,534,4341,561"/>
+<area shape="rect" id="node38" href="$TQpLinSolverDens_8h.html" title="math/quadp/inc/TQpLinSolver\lDens.h" alt="" coords="1557,855,1771,896"/>
+<area shape="rect" id="node41" href="$TDecompQRH_8cxx.html" title="math/matrix/src/TDecompQRH.cxx" alt="" coords="3049,534,3297,561"/>
+<area shape="rect" id="node43" href="$TDecompSparse_8cxx.html" title="math/matrix/src/TDecompSparse.cxx" alt="" coords="4366,534,4629,561"/>
+<area shape="rect" id="node44" href="$TQpLinSolverSparse_8h.html" title="math/quadp/inc/TQpLinSolver\lSparse.h" alt="" coords="2419,855,2632,896"/>
+<area shape="rect" id="node47" href="$TDecompSVD_8cxx.html" title="math/matrix/src/TDecompSVD.cxx" alt="" coords="2778,534,3025,561"/>
+<area shape="rect" id="node48" href="$LDA_8cxx.html" title="tmva/tmva/src/LDA.cxx" alt="" coords="2579,534,2754,561"/>
+<area shape="rect" id="node51" href="$TASImage_8cxx.html" title="graf2d/asimage/src\l/TASImage.cxx" alt="" coords="8599,326,8745,367"/>
+<area shape="rect" id="node52" href="$TF3_8cxx.html" title="hist/hist/src/TF3.cxx" alt="" coords="8770,333,8921,360"/>
+<area shape="rect" id="node53" href="$TGraph_8cxx.html" title="hist/hist/src/TGraph.cxx" alt="" coords="8945,333,9119,360"/>
+<area shape="rect" id="node54" href="$TGraphAsymmErrors_8cxx.html" title="hist/hist/src/TGraphAsymm\lErrors.cxx" alt="" coords="9143,326,9342,367"/>
+<area shape="rect" id="node55" href="$TGraphErrors_8cxx.html" title="hist/hist/src/TGraphErrors.cxx" alt="" coords="9367,333,9580,360"/>
+<area shape="rect" id="node56" href="$TH1_8cxx.html" title="hist/hist/src/TH1.cxx" alt="" coords="11920,333,12075,360"/>
+<area shape="rect" id="node57" href="$TLimit_8cxx.html" title="hist/hist/src/TLimit.cxx" alt="" coords="9605,333,9774,360"/>
+<area shape="rect" id="node58" href="$TLimitDataSource_8cxx.html" title="hist/hist/src/TLimitData\lSource.cxx" alt="" coords="9799,326,9972,367"/>
+<area shape="rect" id="node59" href="$THistPainter_8cxx.html" title="hist/histpainter/src\l/THistPainter.cxx" alt="" coords="12338,326,12481,367"/>
+<area shape="rect" id="node60" href="$TUnfoldBinning_8cxx.html" title="hist/unfold/src/TUnfoldBinning.cxx" alt="" coords="9996,333,10241,360"/>
+<area shape="rect" id="node61" href="$TUnfoldDensity_8cxx.html" title="hist/unfold/src/TUnfoldDensity.cxx" alt="" coords="10266,333,10510,360"/>
+<area shape="rect" id="node72" href="$TRobustEstimator_8h.html" title="math/physics/inc/TRobust\lEstimator.h" alt="" coords="13669,326,13857,367"/>
+<area shape="rect" id="node92" href="$RMinimizer_8cxx.html" title="math/rtools/src/RMinimizer.cxx" alt="" coords="7141,333,7363,360"/>
+<area shape="rect" id="node100" href="$MethodHMatrix_8h.html" title="tmva/tmva/inc/TMVA\l/MethodHMatrix.h" alt="" coords="10535,326,10692,367"/>
+<area shape="rect" id="node101" href="$MethodRuleFit_8h.html" title="tmva/tmva/inc/TMVA\l/MethodRuleFit.h" alt="" coords="10716,326,10873,367"/>
+<area shape="rect" id="node102" href="$MethodSVM_8h.html" title="tmva/tmva/inc/TMVA\l/MethodSVM.h" alt="" coords="11587,326,11744,367"/>
+<area shape="rect" id="node103" href="$MethodSVM_8cxx.html" title="tmva/tmva/src/MethodSVM.cxx" alt="" coords="11611,437,11835,464"/>
+<area shape="rect" id="node104" href="$PDF_8cxx.html" title="tmva/tmva/src/PDF.cxx" alt="" coords="10897,333,11068,360"/>
+<area shape="rect" id="node106" href="$VariableGaussTransform_8cxx.html" title="tmva/tmva/src/VariableGauss\lTransform.cxx" alt="" coords="12099,326,12314,367"/>
+<area shape="rect" id="node108" href="$VariableTransformBase_8cxx.html" title="tmva/tmva/src/VariableTransform\lBase.cxx" alt="" coords="11093,326,11331,367"/>
+<area shape="rect" id="node109" href="$VarTransformHandler_8cxx.html" title="tmva/tmva/src/VarTransform\lHandler.cxx" alt="" coords="11355,326,11562,367"/>
+<area shape="rect" id="node110" href="$HistoToWorkspaceFactory_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory.cxx" alt="" coords="14901,430,15141,471"/>
+<area shape="rect" id="node111" href="$HistoToWorkspaceFactoryFast_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory\lFast.cxx" alt="" coords="15171,423,15386,479"/>
+<area shape="rect" id="node63" href="$TMatrixDEigen_8cxx.html" title="math/matrix/src/TMatrixDEigen.cxx" alt="" coords="4270,437,4522,464"/>
+<area shape="rect" id="node66" href="$TMatrixDSymEigen_8cxx.html" title="math/matrix/src/TMatrixDSym\lEigen.cxx" alt="" coords="7833,430,8052,471"/>
+<area shape="rect" id="node69" href="$RooNDKeysPdf_8cxx.html" title="roofit/roofit/src/RooNDKeys\lPdf.cxx" alt="" coords="14089,527,14285,568"/>
+<area shape="rect" id="node71" href="$TLinearMinimizer_8cxx.html" title="math/minuit/src/TLinearMinimizer.cxx" alt="" coords="4825,437,5092,464"/>
+<area shape="rect" id="node84" href="$TQpProbDens_8h.html" title="math/quadp/inc/TQpProbDens.h" alt="" coords="1231,773,1457,799"/>
+<area shape="rect" id="node85" href="$TQpProbSparse_8h.html" title="math/quadp/inc/TQpProbSparse.h" alt="" coords="2315,773,2554,799"/>
+<area shape="rect" id="node89" href="$TQpDataSparse_8h.html" title="math/quadp/inc/TQpDataSparse.h" alt="" coords="2315,534,2555,561"/>
+<area shape="rect" id="node75" href="$TGondzioSolver_8h.html" title="math/quadp/inc/TGondzioSolver.h" alt="" coords="337,951,577,978"/>
+<area shape="rect" id="node76" href="$TMehrotraSolver_8h.html" title="math/quadp/inc/TMehrotra\lSolver.h" alt="" coords="602,944,795,985"/>
+<area shape="rect" id="node77" href="$TQpSolverBase_8cxx.html" title="math/quadp/src/TQpSolver\lBase.cxx" alt="" coords="119,944,313,985"/>
+<area shape="rect" id="node90" href="$TQpDataBase_8cxx.html" title="math/quadp/src/TQpDataBase.cxx" alt="" coords="665,534,908,561"/>
+<area shape="rect" id="node88" href="$TQpDataDens_8cxx.html" title="math/quadp/src/TQpDataDens.cxx" alt="" coords="1382,616,1626,643"/>
+<area shape="rect" id="node86" href="$TQpProbBase_8cxx.html" title="math/quadp/src/TQpProbBase.cxx" alt="" coords="965,773,1206,799"/>
+<area shape="rect" id="node113" href="$RooMomentMorph_8cxx.html" title="roofit/roofit/src/RooMoment\lMorph.cxx" alt="" coords="3722,430,3921,471"/>
+<area shape="rect" id="node115" href="$RooMomentMorphFunc_8cxx.html" title="roofit/roofit/src/RooMoment\lMorphFunc.cxx" alt="" coords="3945,430,4143,471"/>
+<area shape="rect" id="node117" href="$MCMCIntervalPlot_8h.html" title="roofit/roostats/inc\l/RooStats/MCMCIntervalPlot.h" alt="" coords="14309,527,14523,568"/>
+<area shape="rect" id="node118" href="$MCMCInterval_8cxx.html" title="roofit/roostats/src\l/MCMCInterval.cxx" alt="" coords="16818,527,16961,568"/>
+<area shape="rect" id="node119" href="$ProposalHelper_8cxx.html" title="roofit/roostats/src\l/ProposalHelper.cxx" alt="" coords="14547,527,14698,568"/>
+<area shape="rect" id="node121" href="$RooFitResult_8cxx.html" title="roofit/roofitcore/src\l/RooFitResult.cxx" alt="" coords="14027,430,14173,471"/>
+<area shape="rect" id="node124" href="$DataSetInfo_8cxx.html" title="tmva/tmva/src/DataSetInfo.cxx" alt="" coords="13165,333,13390,360"/>
+<area shape="rect" id="node126" href="$TMLPAnalyzer_8cxx.html" title="math/mlp/src/TMLPAnalyzer.cxx" alt="" coords="1154,333,1382,360"/>
+<area shape="rect" id="node127" href="$TMultiLayerPerceptron_8cxx.html" title="math/mlp/src/TMultiLayer\lPerceptron.cxx" alt="" coords="717,326,905,367"/>
+<area shape="rect" id="node128" href="$MethodTMlpANN_8cxx.html" title="tmva/tmva/src/MethodTMlp\lANN.cxx" alt="" coords="929,326,1129,367"/>
+<area shape="rect" id="node136" href="$RooMomentMorphFuncND_8cxx.html" title="roofit/roofit/src/RooMoment\lMorphFuncND.cxx" alt="" coords="1406,326,1605,367"/>
+<area shape="rect" id="node138" href="$RooMomentMorphND_8cxx.html" title="roofit/roofit/src/RooMoment\lMorphND.cxx" alt="" coords="1629,326,1827,367"/>
+<area shape="rect" id="node143" href="$TFitResult_8h.html" title="hist/hist/inc/TFitResult.h" alt="" coords="16809,237,16985,263"/>
+<area shape="rect" id="node151" href="$TMinuitMinimizer_8cxx.html" title="math/minuit/src/TMinuitMinimizer.cxx" alt="" coords="20937,237,21204,263"/>
+<area shape="rect" id="node152" href="$RooJeffreysPrior_8cxx.html" title="roofit/roofit/src/RooJeffreys\lPrior.cxx" alt="" coords="15511,430,15705,471"/>
+<area shape="rect" id="node153" href="$RooAbsData_8h.html" title="roofit/roofitcore/inc\l/RooAbsData.h" alt="" coords="20767,229,20913,271"/>
+<area shape="rect" id="node169" href="$RooAbsData_8cxx.html" title=" &#160;" alt="" coords="21294,430,21439,471"/>
+<area shape="rect" id="node193" href="$RooFitResult_8h.html" title="roofit/roofitcore/inc\l/RooFitResult.h" alt="" coords="15586,229,15731,271"/>
+<area shape="rect" id="node197" href="$RooMinimizer_8cxx.html" title=" &#160;" alt="" coords="15899,326,16045,367"/>
+<area shape="rect" id="node198" href="$RooMinuit_8cxx.html" title=" &#160;" alt="" coords="16069,326,16214,367"/>
+<area shape="rect" id="node199" href="$RooMinimizerFcn_8h.html" title="roofit/roofitcore/inc\l/RooMinimizerFcn.h" alt="" coords="13946,229,14094,271"/>
+<area shape="rect" id="node144" href="$TRatioPlot_8cxx.html" title="graf2d/gpad/src/TRatioPlot.cxx" alt="" coords="17139,333,17360,360"/>
+<area shape="rect" id="node145" href="$HFitImpl_8cxx.html" title="hist/hist/src/HFitImpl.cxx" alt="" coords="17385,333,17567,360"/>
+<area shape="rect" id="node146" href="$TBackCompFitter_8cxx.html" title="hist/hist/src/TBackCompFitter.cxx" alt="" coords="17591,333,17830,360"/>
+<area shape="rect" id="node147" href="$TBinomialEfficiencyFitter_8cxx.html" title="hist/hist/src/TBinomialEfficiency\lFitter.cxx" alt="" coords="16238,326,16469,367"/>
+<area shape="rect" id="node148" href="$TFitResult_8cxx.html" title="hist/hist/src/TFitResult.cxx" alt="" coords="16493,333,16683,360"/>
+<area shape="rect" id="node149" href="$TFitResultPtr_8cxx.html" title="hist/hist/src/TFitResult\lPtr.cxx" alt="" coords="16707,326,16871,367"/>
+<area shape="rect" id="node150" href="$TFractionFitter_8cxx.html" title="hist/hist/src/TFractionFitter.cxx" alt="" coords="16896,333,17115,360"/>
+<area shape="rect" id="node154" href="$RooBarlowBeestonLL_8cxx.html" title="roofit/histfactory\l/src/RooBarlowBeestonLL.cxx" alt="" coords="19331,326,19543,367"/>
+<area shape="rect" id="node155" href="$RooDataSet_8h.html" title="roofit/roofitcore/inc\l/RooDataSet.h" alt="" coords="18075,326,18221,367"/>
+<area shape="rect" id="node157" href="$RooAbsOptTestStatistic_8cxx.html" title=" &#160;" alt="" coords="19993,430,20196,471"/>
+<area shape="rect" id="node164" href="$RooSimultaneous_8cxx.html" title=" &#160;" alt="" coords="18609,430,18775,471"/>
+<area shape="rect" id="node165" href="$HybridCalculatorOriginal_8cxx.html" title="roofit/roostats/src\l/HybridCalculatorOriginal.cxx" alt="" coords="19508,430,19721,471"/>
+<area shape="rect" id="node166" href="$HybridResult_8cxx.html" title="roofit/roostats/src\l/HybridResult.cxx" alt="" coords="18800,430,18936,471"/>
+<area shape="rect" id="node167" href="$RooAbsDataStore_8h.html" title="roofit/roofitcore/inc\l/RooAbsDataStore.h" alt="" coords="21607,326,21758,367"/>
+<area shape="rect" id="node168" href="$RooAbsArg_8cxx.html" title="roofit/roofitcore/src\l/RooAbsArg.cxx" alt="" coords="21463,430,21609,471"/>
+<area shape="rect" id="node170" href="$RooDataWeightedAverage_8cxx.html" title=" &#160;" alt="" coords="21633,430,21855,471"/>
+<area shape="rect" id="node171" href="$RooNLLVar_8cxx.html" title=" &#160;" alt="" coords="21879,430,22025,471"/>
+<area shape="rect" id="node172" href="$RooDataHist_8h.html" title="roofit/roofitcore/inc\l/RooDataHist.h" alt="" coords="18649,326,18794,367"/>
+<area shape="rect" id="node173" href="$RooHist_8h.html" title="roofit/roofitcore/inc\l/RooHist.h" alt="" coords="17854,326,17999,367"/>
+<area shape="rect" id="node174" href="$RooSimPdfBuilder_8h.html" title="roofit/roofitcore/inc\l/RooSimPdfBuilder.h" alt="" coords="19567,326,19721,367"/>
+<area shape="rect" id="node175" href="$RooTreeData_8h.html" title="roofit/roofitcore/inc\l/RooTreeData.h" alt="" coords="19745,326,19890,367"/>
+<area shape="rect" id="node176" href="$RooAbsTestStatistic_8cxx.html" title=" &#160;" alt="" coords="19914,326,20094,367"/>
+<area shape="rect" id="node177" href="$RooCmdConfig_8cxx.html" title=" &#160;" alt="" coords="20118,326,20266,367"/>
+<area shape="rect" id="node178" href="$RooDataProjBinding_8cxx.html" title=" &#160;" alt="" coords="20290,326,20473,367"/>
+<area shape="rect" id="node179" href="$RooWorkspace_8cxx.html" title=" &#160;" alt="" coords="20497,326,20645,367"/>
+<area shape="rect" id="node180" href="$CombinedCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/CombinedCalculator.h" alt="" coords="20629,430,20859,471"/>
+<area shape="rect" id="node181" href="$ConfidenceBelt_8h.html" title="roofit/roostats/inc\l/RooStats/ConfidenceBelt.h" alt="" coords="22167,326,22364,367"/>
+<area shape="rect" id="node182" href="$FeldmanCousins_8h.html" title="roofit/roostats/inc\l/RooStats/FeldmanCousins.h" alt="" coords="22309,430,22515,471"/>
+<area shape="rect" id="node183" href="$NeymanConstruction_8h.html" title="roofit/roostats/inc\l/RooStats/NeymanConstruction.h" alt="" coords="22049,430,22285,471"/>
+<area shape="rect" id="node184" href="$MCMCCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/MCMCCalculator.h" alt="" coords="20669,326,20873,367"/>
+<area shape="rect" id="node185" href="$ModelConfig_8h.html" title="roofit/roostats/inc\l/RooStats/ModelConfig.h" alt="" coords="21100,326,21279,367"/>
+<area shape="rect" id="node187" href="$ProfileInspector_8h.html" title="roofit/roostats/inc\l/RooStats/ProfileInspector.h" alt="" coords="20883,430,21082,471"/>
+<area shape="rect" id="node188" href="$HypoTestInverter_8cxx.html" title="roofit/roostats/src\l/HypoTestInverter.cxx" alt="" coords="21107,430,21269,471"/>
+<area shape="rect" id="node189" href="$NumEventsTestStat_8h.html" title="roofit/roostats/inc\l/RooStats/NumEventsTestStat.h" alt="" coords="18397,326,18624,367"/>
+<area shape="rect" id="node190" href="$PointSetInterval_8h.html" title="roofit/roostats/inc\l/RooStats/PointSetInterval.h" alt="" coords="21940,326,22143,367"/>
+<area shape="rect" id="node191" href="$HypoTestInverterOriginal_8cxx.html" title="roofit/roostats/src\l/HypoTestInverterOriginal.cxx" alt="" coords="18870,326,19085,367"/>
+<area shape="rect" id="node192" href="$RatioOfProfiledLikelihoodsTestStat_8cxx.html" title="roofit/roostats/src\l/RatioOfProfiledLikelihoods\lTestStat.cxx" alt="" coords="19109,319,19307,375"/>
+<area shape="rect" id="node156" href="$RooChi2MCSModule_8cxx.html" title="roofit/roofit/src/RooChi2\lMCSModule.cxx" alt="" coords="18410,430,18585,471"/>
+<area shape="rect" id="node158" href="$RooDLLSignificanceMCSModule_8cxx.html" title=" &#160;" alt="" coords="17334,430,17589,471"/>
+<area shape="rect" id="node159" href="$RooGenFitStudy_8cxx.html" title=" &#160;" alt="" coords="17613,430,17766,471"/>
+<area shape="rect" id="node160" href="$RooGlobalFunc_8cxx.html" title="roofit/roofitcore/src\l/RooGlobalFunc.cxx" alt="" coords="18069,430,18217,471"/>
+<area shape="rect" id="node161" href="$RooMCStudy_8cxx.html" title=" &#160;" alt="" coords="18241,430,18386,471"/>
+<area shape="rect" id="node162" href="$RooProofDriverSelector_8cxx.html" title="roofit/roofitcore/src\l/RooProofDriverSelector.cxx" alt="" coords="17791,430,17993,471"/>
+<area shape="rect" id="node163" href="$RooRandomizeParamMCSModule_8cxx.html" title=" &#160;" alt="" coords="17043,430,17309,471"/>
+<area shape="rect" id="node186" href="$Helper_8cxx.html" title="roofit/histfactory\l/src/Helper.cxx" alt="" coords="20344,430,20475,471"/>
+<area shape="rect" id="node194" href="$HistoToWorkspaceFactory_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/HistoToWorkspaceFactory.h" alt="" coords="14841,319,15044,375"/>
+<area shape="rect" id="node195" href="$HistoToWorkspaceFactoryFast_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/HistoToWorkspaceFactoryFast.h" alt="" coords="15170,319,15401,375"/>
+<area shape="rect" id="node196" href="$RooUnitTest_8h.html" title="roofit/roofitcore/inc\l/RooUnitTest.h" alt="" coords="15425,326,15570,367"/>
+</map>

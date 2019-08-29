@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="5,31,147,57"/>
+<area shape="rect" id="node2" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="195,31,267,57"/>
+<area shape="rect" id="node3" href="$classTGLClipBox.html" title="Concrete clip box object. " alt="" coords="320,5,417,32"/>
+<area shape="rect" id="node4" href="$classTGLClipPlane.html" title="Concrete clip plane object. " alt="" coords="315,56,423,83"/>
+</map>

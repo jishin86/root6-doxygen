@@ -1,0 +1,7 @@
+<map id="ROOT::Math::BasicMinimizer" name="ROOT::Math::BasicMinimizer">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1Minimizer.html" title="Abstract Minimizer class, defining the interface for the various minimizer (like Minuit2, Minuit, GSL, etc..) Plug&#45;in&#39;s exist in ROOT to be able to instantiate the derived classes like ROOT::Math::GSLMinimizer or ROOT::Math::Minuit2Minimizer via the plug&#45;in manager. " alt="" coords="841,36,1012,63"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1MinimizerOptions.html" title="Minimizer options. " alt="" coords="495,36,715,63"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1IOptions.html" title="Generic interface for defining configuration options of a numerical algorithm. " alt="" coords="193,5,353,32"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="230,65,317,92"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Math_1_1IBaseFunctionMultiDimTempl.html" title="Documentation for the abstract class IBaseFunctionMultiDim. " alt="" coords="829,87,1025,129"/>
+</map>

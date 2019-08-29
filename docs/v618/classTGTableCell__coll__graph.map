@@ -1,0 +1,75 @@
+<map id="TGTableCell" name="TGTableCell">
+<area shape="rect" id="node76" href="$classTGTableHeader.html" title="TGTableHeader" alt="" coords="4797,1668,4919,1695"/>
+<area shape="rect" id="node2" href="$classTGFrame.html" title="TGFrame" alt="" coords="2901,883,2981,909"/>
+<area shape="rect" id="node36" href="$classTGFrameElement.html" title="TGFrameElement" alt="" coords="3162,969,3297,996"/>
+<area shape="rect" id="node39" href="$classTGCompositeFrame.html" title="TGCompositeFrame" alt="" coords="3797,527,3948,553"/>
+<area shape="rect" id="node42" href="$classTGCanvas.html" title="TGCanvas" alt="" coords="4435,723,4523,749"/>
+<area shape="rect" id="node44" href="$classTGScrollBar.html" title="TGScrollBar" alt="" coords="3503,1137,3601,1164"/>
+<area shape="rect" id="node48" href="$classTGScrollBarElement.html" title="TGScrollBarElement" alt="" coords="3153,1121,3305,1148"/>
+<area shape="rect" id="node49" href="$classTGViewPort.html" title="TGViewPort" alt="" coords="4114,672,4213,699"/>
+<area shape="rect" id="node52" href="$classTGTextEntry.html" title="TGTextEntry" alt="" coords="4428,1792,4529,1819"/>
+<area shape="rect" id="node55" href="$classTGToolTip.html" title="TGToolTip" alt="" coords="4120,1460,4207,1487"/>
+<area shape="rect" id="node62" href="$classTGLabel.html" title="TGLabel" alt="" coords="3192,2105,3267,2132"/>
+<area shape="rect" id="node68" href="$classTGButton.html" title="TGButton" alt="" coords="4675,1219,4757,1245"/>
+<area shape="rect" id="node3" href="$classTGWindow.html" title="TGWindow" alt="" coords="2564,883,2656,909"/>
+<area shape="rect" id="node6" href="$classTGClient.html" title="TGClient" alt="" coords="2014,448,2093,475"/>
+<area shape="rect" id="node41" href="$classTGWidget.html" title="TGWidget" alt="" coords="3186,1331,3273,1357"/>
+<area shape="rect" id="node4" href="$classTGObject.html" title="TGObject" alt="" coords="2293,649,2375,676"/>
+<area shape="rect" id="node18" href="$classTGFontPool.html" title="TGFontPool" alt="" coords="2562,559,2658,585"/>
+<area shape="rect" id="node20" href="$classTGGCPool.html" title="TGGCPool" alt="" coords="2567,280,2653,307"/>
+<area shape="rect" id="node25" href="$classTGResourcePool.html" title="TGResourcePool" alt="" coords="2877,539,3004,565"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,932,329,959"/>
+<area shape="rect" id="node10" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="736,684,831,711"/>
+<area shape="rect" id="node11" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,715,548,741"/>
+<area shape="rect" id="node21" href="$classTGPicturePool.html" title="TGPicturePool" alt="" coords="2277,485,2391,512"/>
+<area shape="rect" id="node22" href="$classTGMimeTypes.html" title="TGMimeTypes" alt="" coords="2277,337,2391,364"/>
+<area shape="rect" id="node23" href="$classTOrdCollection.html" title="Ordered collection. " alt="" coords="1280,280,1399,307"/>
+<area shape="rect" id="node26" href="$classTGGC.html" title="TGGC" alt="" coords="2581,1824,2639,1851"/>
+<area shape="rect" id="node30" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="745,1759,822,1785"/>
+<area shape="rect" id="node32" href="$classTObjString.html" title="Collectable string class. " alt="" coords="738,1871,829,1897"/>
+<area shape="rect" id="node34" href="$classTGPicture.html" title="TGPicture" alt="" coords="2567,1121,2653,1148"/>
+<area shape="rect" id="node37" href="$classTGLayoutHints.html" title="TGLayoutHints" alt="" coords="3493,991,3611,1017"/>
+<area shape="rect" id="node40" href="$classTGLayoutManager.html" title="TGLayoutManager" alt="" coords="572,8,712,35"/>
+<area shape="rect" id="node45" href="$classTTimer.html" title="Handles synchronous and a&#45;synchronous timer events. " alt="" coords="2300,1336,2368,1363"/>
+<area shape="rect" id="node46" href="$classTSysEvtHandler.html" title="Abstract base class for handling system events. " alt="" coords="1991,973,2116,1000"/>
+<area shape="rect" id="node56" href="$classTBox.html" title="Create a Box. " alt="" coords="2026,1644,2081,1671"/>
+<area shape="rect" id="node60" href="$classTVirtualPad.html" title="TVirtualPad is an abstract base class for the Pad and Canvas classes. " alt="" coords="2005,1493,2101,1520"/>
+<area shape="rect" id="node64" href="$classTGTextLayout.html" title="TGTextLayout" alt="" coords="2885,2273,2996,2300"/>
+<area shape="rect" id="node66" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1296,117,1383,144"/>
+<area shape="rect" id="node7" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="1799,843,1882,869"/>
+<area shape="rect" id="node51" href="$classTGTableFrame.html" title="TGTableFrame" alt="" coords="4659,639,4773,665"/>
+<area shape="rect" id="node8" href="$classTList.html" title="A doubly linked list. " alt="" coords="1313,441,1366,468"/>
+<area shape="rect" id="node19" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1539,432,1637,459"/>
+<area shape="rect" id="node24" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="1797,381,1884,408"/>
+<area shape="rect" id="node38" href="$classTGTable.html" title="TGTable" alt="" coords="5252,723,5327,749"/>
+<area shape="rect" id="node9" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1025,323,1143,349"/>
+<area shape="rect" id="node71" href="$classTMap.html" title="TMap implements an associative array of (key,value) pairs using a THashTable for efficient retrieval ..." alt="" coords="1812,669,1869,696"/>
+<area shape="rect" id="node12" href="$classTString.html" title="Basic string class. " alt="" coords="461,1861,529,1888"/>
+<area shape="rect" id="node54" href="$classTGTextBuffer.html" title="TGTextBuffer" alt="" coords="855,2424,961,2451"/>
+<area shape="rect" id="node63" href="$classTGString.html" title="TGString" alt="" coords="2901,2425,2980,2452"/>
+<area shape="rect" id="node13" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,1861,349,1888"/>
+<area shape="rect" id="node14" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,1811,144,1837"/>
+<area shape="rect" id="node15" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,1861,143,1888"/>
+<area shape="rect" id="node16" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,1912,145,1939"/>
+<area shape="rect" id="node70" href="$classTGGroupFrame.html" title="TGGroupFrame" alt="" coords="4104,1936,4223,1963"/>
+<area shape="rect" id="node27" href="$classTRefCnt.html" title="Definitions for TRefCnt, base class for reference counted objects. " alt="" coords="2297,1565,2371,1592"/>
+<area shape="rect" id="node29" href="$classTGFont.html" title="TGFont" alt="" coords="2576,2044,2644,2071"/>
+<area shape="rect" id="node28" href="$structGCValues__t.html" title="GCValues_t" alt="" coords="2286,1817,2382,1844"/>
+<area shape="rect" id="node67" href="$classTGTextButton.html" title="TGTextButton" alt="" coords="4970,2379,5081,2405"/>
+<area shape="rect" id="node31" href="$structFontMetrics__t.html" title="FontMetrics_t" alt="" coords="2279,2051,2389,2077"/>
+<area shape="rect" id="node33" href="$structFontAttributes__t.html" title="FontAttributes_t" alt="" coords="2271,2101,2397,2128"/>
+<area shape="rect" id="node35" href="$structPictureAttributes__t.html" title="PictureAttributes_t" alt="" coords="2263,1085,2405,1112"/>
+<area shape="rect" id="node73" href="$classTGTableHeaderFrame.html" title="TGTableHeaderFrame" alt="" coords="5456,663,5617,689"/>
+<area shape="rect" id="node75" href="$classTGHorizontalFrame.html" title="TGHorizontalFrame" alt="" coords="4247,520,4393,547"/>
+<area shape="rect" id="node43" href="$classTGVScrollBar.html" title="TGVScrollBar" alt="" coords="3973,773,4079,800"/>
+<area shape="rect" id="node50" href="$classTGHScrollBar.html" title="TGHScrollBar" alt="" coords="3972,945,4080,972"/>
+<area shape="rect" id="node47" href="$classTTime.html" title="Basic time type with millisecond precision. " alt="" coords="2022,1336,2085,1363"/>
+<area shape="rect" id="node57" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="1803,1515,1878,1541"/>
+<area shape="rect" id="node58" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="1807,1565,1874,1592"/>
+<area shape="rect" id="node59" href="$classTAttBBox2D.html" title="Abstract base class for elements drawn in the editor. " alt="" coords="1791,1717,1891,1744"/>
+<area shape="rect" id="node61" href="$classTAttPad.html" title="Manages default Pad attributes. " alt="" coords="1805,1464,1876,1491"/>
+<area shape="rect" id="node72" href="$classTGHotString.html" title="TGHotString" alt="" coords="3329,2477,3431,2504"/>
+<area shape="rect" id="node69" href="$classTGButtonGroup.html" title="TGButtonGroup" alt="" coords="4417,1167,4540,1193"/>
+<area shape="rect" id="node74" href="$classTVirtualTableInterface.html" title="TVirtualTableInterface" alt="" coords="4943,2429,5108,2456"/>
+<area shape="rect" id="node77" href="$classTTableRange.html" title="TTableRange" alt="" coords="4973,409,5078,436"/>
+</map>

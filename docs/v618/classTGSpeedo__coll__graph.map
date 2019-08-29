@@ -1,0 +1,42 @@
+<map id="TGSpeedo" name="TGSpeedo">
+<area shape="rect" id="node2" href="$classTGFrame.html" title="TGFrame" alt="" coords="1876,628,1956,655"/>
+<area shape="rect" id="node36" href="$classTGFrameElement.html" title="TGFrameElement" alt="" coords="2090,517,2225,544"/>
+<area shape="rect" id="node3" href="$classTGWindow.html" title="TGWindow" alt="" coords="1635,767,1727,793"/>
+<area shape="rect" id="node6" href="$classTGClient.html" title="TGClient" alt="" coords="2118,1271,2197,1297"/>
+<area shape="rect" id="node38" href="$classTGWidget.html" title="TGWidget" alt="" coords="1873,729,1959,756"/>
+<area shape="rect" id="node4" href="$classTGObject.html" title="TGObject" alt="" coords="1343,1372,1426,1399"/>
+<area shape="rect" id="node18" href="$classTGFontPool.html" title="TGFontPool" alt="" coords="1868,1392,1964,1419"/>
+<area shape="rect" id="node20" href="$classTGGCPool.html" title="TGGCPool" alt="" coords="1873,1516,1959,1543"/>
+<area shape="rect" id="node25" href="$classTGResourcePool.html" title="TGResourcePool" alt="" coords="2649,1315,2776,1341"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,1119,329,1145"/>
+<area shape="rect" id="node10" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="743,1271,837,1297"/>
+<area shape="rect" id="node11" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="446,1220,553,1247"/>
+<area shape="rect" id="node21" href="$classTGPicturePool.html" title="TGPicturePool" alt="" coords="2387,1208,2500,1235"/>
+<area shape="rect" id="node22" href="$classTGMimeTypes.html" title="TGMimeTypes" alt="" coords="2387,1416,2500,1443"/>
+<area shape="rect" id="node23" href="$classTOrdCollection.html" title="Ordered collection. " alt="" coords="1325,1424,1444,1451"/>
+<area shape="rect" id="node26" href="$classTGGC.html" title="TGGC" alt="" coords="1651,304,1710,331"/>
+<area shape="rect" id="node30" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="751,548,829,575"/>
+<area shape="rect" id="node32" href="$classTObjString.html" title="Collectable string class. " alt="" coords="745,227,835,253"/>
+<area shape="rect" id="node34" href="$classTGPicture.html" title="TGPicture" alt="" coords="1638,411,1723,437"/>
+<area shape="rect" id="node37" href="$classTGLayoutHints.html" title="TGLayoutHints" alt="" coords="2384,540,2503,567"/>
+<area shape="rect" id="node41" href="$classTImagePalette.html" title="A class to define a conversion from pixel values to pixel color. " alt="" coords="441,1169,557,1196"/>
+<area shape="rect" id="node7" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="1639,996,1722,1023"/>
+<area shape="rect" id="node8" href="$classTList.html" title="A doubly linked list. " alt="" coords="1358,1183,1411,1209"/>
+<area shape="rect" id="node19" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1632,1293,1729,1320"/>
+<area shape="rect" id="node24" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="1873,1268,1959,1295"/>
+<area shape="rect" id="node9" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1018,1271,1137,1297"/>
+<area shape="rect" id="node12" href="$classTString.html" title="Basic string class. " alt="" coords="465,685,533,712"/>
+<area shape="rect" id="node13" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,447,349,473"/>
+<area shape="rect" id="node14" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,396,144,423"/>
+<area shape="rect" id="node15" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,447,143,473"/>
+<area shape="rect" id="node16" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,497,145,524"/>
+<area shape="rect" id="node27" href="$classTRefCnt.html" title="Definitions for TRefCnt, base class for reference counted objects. " alt="" coords="1348,328,1421,355"/>
+<area shape="rect" id="node29" href="$classTGFont.html" title="TGFont" alt="" coords="1647,107,1715,133"/>
+<area shape="rect" id="node28" href="$structGCValues__t.html" title="GCValues_t" alt="" coords="1337,221,1433,248"/>
+<area shape="rect" id="node39" href="$classTImage.html" title="An abstract interface to image processing library. " alt="" coords="1042,833,1113,860"/>
+<area shape="rect" id="node31" href="$structFontMetrics__t.html" title="FontMetrics_t" alt="" coords="1330,19,1439,45"/>
+<area shape="rect" id="node33" href="$structFontAttributes__t.html" title="FontAttributes_t" alt="" coords="1321,69,1448,96"/>
+<area shape="rect" id="node35" href="$structPictureAttributes__t.html" title="PictureAttributes_t" alt="" coords="1313,429,1456,456"/>
+<area shape="rect" id="node40" href="$classTAttImage.html" title="TImage attributes. " alt="" coords="745,1173,835,1200"/>
+<area shape="rect" id="node42" href="$classTPaletteEditor.html" title="Edit the palette via a GUI. " alt="" coords="1021,1220,1134,1247"/>
+</map>

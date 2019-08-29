@@ -1,0 +1,32 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classGenericRooFIter.html" title="Interface for RooFIter&#45;compatible iterators. " alt="" coords="5,35,131,61"/>
+<area shape="rect" id="node2" href="$classRooFIterForLinkedList.html" title="Implementation of the GenericRooFIter interface for the RooLinkedList. " alt="" coords="210,5,371,32"/>
+<area shape="rect" id="node3" href="$classTIteratorToSTLInterface.html" title="TIterator and GenericRooFIter front end with STL back end. " alt="" coords="204,57,377,98"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Experimental_1_1Internal_1_1RIndexIter.html" title="ROOT::Experimental\l::Internal::RIndexIter\l\&lt; RHistBinRef\&lt; HISTIMPL\l \&gt;, RHistBinPtr\&lt; HISTIMPL \&gt; \&gt;" alt="" coords="179,1001,403,1071"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Experimental_1_1Detail_1_1RFieldBase_1_1RIterator.html" title="Iterates over the sub fields in depth&#45;first search order. " alt="" coords="214,1096,367,1152"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Experimental_1_1Internal_1_1RIndexIter.html" title=" &#160;Iterates over an index; the REFERENCE is defined by the REFERENCE template parameter. " alt="" coords="194,1176,387,1232"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Experimental_1_1RAxisBase_1_1const__iterator.html" title=" &#160;Random const_iterator through bins. " alt="" coords="193,1257,389,1298"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Experimental_1_1RNTupleReader_1_1RIterator.html" title="ROOT::Experimental\l::RNTupleReader::RIterator" alt="" coords="194,1322,387,1363"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Experimental_1_1RNTupleViewRange_1_1RIterator.html" title="ROOT::Experimental\l::RNTupleViewRange::\lRIterator" alt="" coords="209,1388,373,1444"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Experimental_1_1TTreeReaderFast_1_1Iterator__t.html" title="ROOT::Experimental\l::TTreeReaderFast::Iterator_t" alt="" coords="189,833,393,874"/>
+<area shape="rect" id="node13" href="$classROOT_1_1TSeq_1_1iterator.html" title="ROOT::TSeq\&lt; T \&gt;::iterator" alt="" coords="195,899,387,925"/>
+<area shape="rect" id="node14" href="$classTBtreeIter.html" title="Iterator of btree. " alt="" coords="247,477,334,504"/>
+<area shape="rect" id="node15" href="$classTListIter.html" title="Iterator of linked list. " alt="" coords="253,528,328,555"/>
+<area shape="rect" id="node18" href="$classTMapIter.html" title="Iterator of map. " alt="" coords="251,579,330,605"/>
+<area shape="rect" id="node19" href="$classTObjArrayIter.html" title="Iterator of object array. " alt="" coords="236,629,345,656"/>
+<area shape="rect" id="node20" href="$classTOrdCollectionIter.html" title="Iterator of ordered collection. " alt="" coords="221,680,361,707"/>
+<area shape="rect" id="node21" href="$classTRefArrayIter.html" title="Iterator of object array. " alt="" coords="237,731,345,757"/>
+<area shape="rect" id="node22" href="$classTTreeReader_1_1Iterator__t.html" title="Iterate through the entries of a TTree. " alt="" coords="205,949,376,976"/>
+<area shape="rect" id="node23" href="$classTViewPubDataMembersIter.html" title="Iterator of over the view&#39;s content. " alt="" coords="191,781,390,808"/>
+<area shape="rect" id="node24" href="$classTViewPubFunctionsIter.html" title="Iterator of over the view&#39;s content. " alt="" coords="206,427,375,453"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Experimental_1_1Detail_1_1RHistBinIter.html" title=" &#160;Iterates over the bins of a RHist or RHistImpl. " alt="" coords="471,1008,625,1064"/>
+<area shape="rect" id="node16" href="$classTListOfEnumsWithLockIter.html" title="Iterator for TListOfEnumsWithLock. " alt="" coords="451,553,645,580"/>
+<area shape="rect" id="node17" href="$classTListOfFunctionsIter.html" title="Iterator for TListOfFunctions. " alt="" coords="473,503,623,529"/>
+<area shape="rect" id="node25" href="$classTIterator.html" title="Iterator abstract base class. " alt="" coords="29,427,107,453"/>
+<area shape="rect" id="node26" href="$classRooDataHistSliceIter.html" title="RooDataHistSliceIter iterates over all bins in a RooDataHist that occur in a slice defined by the bin..." alt="" coords="213,275,369,301"/>
+<area shape="rect" id="node27" href="$classRooLinkedListIter.html" title="A wrapper around TIterator derivatives. " alt="" coords="223,325,358,352"/>
+<area shape="rect" id="node28" href="$classRooLinkedListIterImpl.html" title="Implementation of the actual iterator on RooLinkedLists. " alt="" coords="209,376,372,403"/>
+<area shape="rect" id="node29" href="$classRooMultiCatIter.html" title="RooMultiCatIter iterators over all state permutations of a list of categories. " alt="" coords="229,123,352,149"/>
+<area shape="rect" id="node30" href="$classTHashTableIter.html" title="Iterator of hash table. " alt="" coords="231,173,350,200"/>
+<area shape="rect" id="node31" href="$classTTreeFriendLeafIter.html" title="Iterator on all the leaves in a TTree and its friend. " alt="" coords="217,224,364,251"/>
+</map>

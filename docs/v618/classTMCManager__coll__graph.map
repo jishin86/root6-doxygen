@@ -1,0 +1,18 @@
+<map id="TMCManager" name="TMCManager">
+<area shape="rect" id="node7" href="$classTVirtualMCApplication.html" title="Interface to a user Monte Carlo application. " alt="" coords="1363,482,1529,508"/>
+<area shape="rect" id="node15" href="$classTMCManagerStack.html" title="Concrete implementation of particles stack used by the TMCManager. " alt="" coords="1052,128,1195,155"/>
+<area shape="rect" id="node5" href="$classTVirtualMCStack.html" title="Interface to a user defined particles stack. " alt="" coords="619,32,749,59"/>
+<area shape="rect" id="node14" href="$classTVirtualMC.html" title="Abstract Monte Carlo interface. " alt="" coords="1660,495,1753,522"/>
+<area shape="rect" id="node6" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="305,656,377,683"/>
+<area shape="rect" id="node8" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1085,598,1162,624"/>
+<area shape="rect" id="node22" href="$classTVirtualMCDecayer.html" title="Abstract base class for particle decays. " alt="" coords="832,707,979,734"/>
+<area shape="rect" id="node21" href="$classTVirtualMagField.html" title="Abstract class for magnetic field. " alt="" coords="1381,590,1511,616"/>
+<area shape="rect" id="node23" href="$classTRandom.html" title=" This is the base class for the ROOT Random number generators. " alt="" coords="1404,640,1488,667"/>
+<area shape="rect" id="node9" href="$classTString.html" title="Basic string class. " alt="" coords="650,606,718,632"/>
+<area shape="rect" id="node10" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="285,606,397,632"/>
+<area shape="rect" id="node11" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,555,144,582"/>
+<area shape="rect" id="node12" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,606,143,632"/>
+<area shape="rect" id="node13" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,656,145,683"/>
+<area shape="rect" id="node16" href="$classTGeoMCBranchArrayContainer.html" title="Storing and re&#45;using geometry states of the TGeoManager in use by storing them as TGeoBranchArrays..." alt="" coords="575,319,793,346"/>
+<area shape="rect" id="node24" href="$classROOT_1_1Math_1_1TRandomEngine.html" title="ROOT::Math::TRandomEngine" alt="" coords="1017,656,1229,683"/>
+</map>

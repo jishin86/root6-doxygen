@@ -1,0 +1,125 @@
+<map id="TMVA::MethodBoost" name="TMVA::MethodBoost">
+<area shape="rect" id="node2" href="$classTMVA_1_1MethodCompositeBase.html" title="Virtual base class for combining several TMVA method. " alt="" coords="3675,2601,3891,2628"/>
+<area shape="rect" id="node3" href="$classTMVA_1_1MethodBase.html" title="Virtual base Class for all MVA method. " alt="" coords="3835,2505,3981,2531"/>
+<area shape="rect" id="node4" href="$classTMVA_1_1IMethod.html" title="Interface for all concrete MVA method implementations. " alt="" coords="4753,2305,4871,2332"/>
+<area shape="rect" id="node5" href="$classTMVA_1_1Configurable.html" title="TMVA::Configurable" alt="" coords="3605,1887,3753,1913"/>
+<area shape="rect" id="node107" href="$classTMVA_1_1PDF.html" title="PDF wrapper for histograms; uses user&#45;defined spline interpolation. " alt="" coords="3033,2305,3124,2332"/>
+<area shape="rect" id="node6" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="4296,770,4373,797"/>
+<area shape="rect" id="node29" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="5097,913,5188,940"/>
+<area shape="rect" id="node34" href="$classTMVA_1_1DataSet.html" title="Class that contains all the data information. " alt="" coords="10286,2305,10405,2332"/>
+<area shape="rect" id="node36" href="$classTRandom.html" title=" This is the base class for the ROOT Random number generators. " alt="" coords="11589,913,11673,940"/>
+<area shape="rect" id="node48" href="$classTTree.html" title="A TTree represents a columnar dataset. " alt="" coords="5097,1692,5154,1719"/>
+<area shape="rect" id="node54" href="$classTEntryList.html" title="A List of entry numbers in a TTree or TChain. " alt="" coords="4851,1049,4938,1076"/>
+<area shape="rect" id="node58" href="$classTEventList.html" title="A TEventList object is a list of selected events (entries) in a TTree. " alt="" coords="4685,1049,4776,1076"/>
+<area shape="rect" id="node63" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="3905,1049,4002,1076"/>
+<area shape="rect" id="node88" href="$classTVirtualIndex.html" title="Abstract interface for Tree Index. " alt="" coords="4523,1887,4632,1913"/>
+<area shape="rect" id="node90" href="$classTBranch.html" title="A TTree is a list of TBranches. " alt="" coords="4851,1887,4925,1913"/>
+<area shape="rect" id="node93" href="$classTKey.html" title=" Book space in a file, create I/O buffers, to fill them, (un)compress them. " alt="" coords="7490,1049,7545,1076"/>
+<area shape="rect" id="node98" href="$classTProcessID.html" title="A TProcessID identifies a ROOT job in a unique way in time and space. " alt="" coords="7915,1049,8010,1076"/>
+<area shape="rect" id="node108" href="$classTSpline.html" title="Base class for spline implementation containing the Draw/Paint methods. " alt="" coords="1493,2172,1563,2199"/>
+<area shape="rect" id="node110" href="$classTH1.html" title="The TH1 histogram class. " alt="" coords="3101,1692,3149,1719"/>
+<area shape="rect" id="node112" href="$classTAxis.html" title="Class to manage histogram axis. " alt="" coords="3071,1288,3129,1315"/>
+<area shape="rect" id="node115" href="$classTGraph.html" title="A Graph is a graphics object made of two arrays X and Y with npoints each. " alt="" coords="1679,2008,1748,2035"/>
+<area shape="rect" id="node116" href="$classTF1.html" title="1&#45;Dim function class " alt="" coords="2523,1887,2568,1913"/>
+<area shape="rect" id="node117" href="$classTFormula.html" title="The Formula class. " alt="" coords="1324,1692,1407,1719"/>
+<area shape="rect" id="node138" href="$classTMultiGraph.html" title="A TMultiGraph is a collection of TGraph (or derived) objects. " alt="" coords="4101,2008,4203,2035"/>
+<area shape="rect" id="node145" href="$classTThread.html" title="TThread" alt="" coords="11144,913,11219,940"/>
+<area shape="rect" id="node156" href="$classTFileOpenHandle.html" title=" Class holding info about the file being opened " alt="" coords="8682,1512,8814,1539"/>
+<area shape="rect" id="node7" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="8713,95,8785,121"/>
+<area shape="rect" id="node13" href="$classTMVA_1_1OptionBase.html" title="Class for TMVA&#45;option handling. " alt="" coords="2785,303,2927,329"/>
+<area shape="rect" id="node16" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="8234,303,8329,329"/>
+<area shape="rect" id="node17" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="8512,184,8619,211"/>
+<area shape="rect" id="node19" href="$classTMVA_1_1MsgLogger.html" title="ostringstream derivative to redirect and format output " alt="" coords="9901,1692,10037,1719"/>
+<area shape="rect" id="node32" href="$classTMVA_1_1DataSetInfo.html" title="Class that contains all the data information. " alt="" coords="9586,2172,9729,2199"/>
+<area shape="rect" id="node46" href="$classTMVA_1_1DataSetManager.html" title="Class that contains all the data information. " alt="" coords="10662,2008,10837,2035"/>
+<area shape="rect" id="node47" href="$classTMVA_1_1DataSetFactory.html" title="Class that contains all the data information. " alt="" coords="10391,1887,10556,1913"/>
+<area shape="rect" id="node52" href="$classTVirtualPerfStats.html" title="Provides the interface for the PROOF internal performance measurement and event tracing. " alt="" coords="5078,981,5210,1008"/>
+<area shape="rect" id="node55" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="7853,913,7939,940"/>
+<area shape="rect" id="node56" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="7420,913,7489,940"/>
+<area shape="rect" id="node61" href="$classTVirtualTreePlayer.html" title="Abstract base class defining the interface for the plugins that implement Draw, Scan, Process, MakeProxy, etc. " alt="" coords="5707,1512,5848,1539"/>
+<area shape="rect" id="node64" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="3962,913,4102,940"/>
+<area shape="rect" id="node75" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="8565,913,8638,940"/>
+<area shape="rect" id="node77" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="6813,1692,7035,1719"/>
+<area shape="rect" id="node80" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="5876,1049,5993,1076"/>
+<area shape="rect" id="node96" href="$classTBits.html" title="Container of bits. " alt="" coords="5442,353,5497,380"/>
+<area shape="rect" id="node97" href="$classTRefTable.html" title="A TRefTable maintains the association between a referenced object and the parent object supporting th..." alt="" coords="7935,1692,8020,1719"/>
+<area shape="rect" id="node102" href="$classTMVA_1_1DataInputHandler.html" title="Class that contains all the data information. " alt="" coords="10787,1887,10968,1913"/>
+<area shape="rect" id="node111" href="$classTVirtualHistPainter.html" title="Abstract interface to a histogram painter. " alt="" coords="3280,1512,3424,1539"/>
+<area shape="rect" id="node121" href="$classTMethodCall.html" title="Method or function calling interface. " alt="" coords="2209,1512,2311,1539"/>
+<area shape="rect" id="node128" href="$classTF1AbsComposition.html" title="TF1AbsComposition" alt="" coords="2063,702,2214,729"/>
+<area shape="rect" id="node135" href="$classTMVA_1_1Results.html" title="Class that is the base&#45;class for a vector of result. " alt="" coords="9665,2305,9778,2332"/>
+<area shape="rect" id="node143" href="$classTFileCacheRead.html" title=" A cache when reading files over the network. " alt="" coords="10966,1692,11090,1719"/>
+<area shape="rect" id="node144" href="$classTFilePrefetch.html" title=" The prefetching mechanism uses two classes (TFilePrefetch and TFPBlock) to prefetch in advance a blo..." alt="" coords="11079,1512,11185,1539"/>
+<area shape="rect" id="node146" href="$classTThreadImp.html" title="TThreadImp" alt="" coords="11254,243,11354,270"/>
+<area shape="rect" id="node149" href="$classTMutexImp.html" title="TMutexImp" alt="" coords="11003,184,11098,211"/>
+<area shape="rect" id="node150" href="$classTCondition.html" title="TCondition" alt="" coords="11032,405,11123,432"/>
+<area shape="rect" id="node151" href="$classTConditionImp.html" title="TConditionImp" alt="" coords="10935,243,11051,270"/>
+<area shape="rect" id="node152" href="$classTSemaphore.html" title="TSemaphore" alt="" coords="11308,353,11412,380"/>
+<area shape="rect" id="node153" href="$classTStopwatch.html" title="Stopwatch class. " alt="" coords="11381,457,11480,484"/>
+<area shape="rect" id="node162" href="$classTUrl.html" title="This class represents a WWW compatible URL. " alt="" coords="9805,1049,9854,1076"/>
+<area shape="rect" id="node163" href="$classTFileCacheWrite.html" title=" &#160;A cache when writing files over the network " alt="" coords="9031,1512,9158,1539"/>
+<area shape="rect" id="node164" href="$classTArchiveFile.html" title="Class describing an archive file containing multiple sub&#45;files, like a ZIP or TAR archive..." alt="" coords="8903,1512,9003,1539"/>
+<area shape="rect" id="node165" href="$classTArchiveMember.html" title="TArchiveMember" alt="" coords="8777,1049,8908,1076"/>
+<area shape="rect" id="node167" href="$classTMVA_1_1Event.html" title="TMVA::Event" alt="" coords="3682,2172,3785,2199"/>
+<area shape="rect" id="node8" href="$classTString.html" title="Basic string class. " alt="" coords="4605,184,4673,211"/>
+<area shape="rect" id="node28" href="$classTMVA_1_1TransformationHandler.html" title="Class that contains all the data information. " alt="" coords="4514,2305,4729,2332"/>
+<area shape="rect" id="node62" href="$classTClass.html" title="TClass" alt="" coords="6797,1288,6861,1315"/>
+<area shape="rect" id="node122" href="$classTFunction.html" title="Global functions class (global functions are obtained from CINT). " alt="" coords="2394,1288,2478,1315"/>
+<area shape="rect" id="node132" href="$classTMVA_1_1Ranking.html" title="Ranking for variables in method (implementation) " alt="" coords="3829,1887,3947,1913"/>
+<area shape="rect" id="node141" href="$classTFile.html" title="A ROOT file is a suite of consecutive data records (TKey instances) with a well defined format..." alt="" coords="9337,1288,9389,1315"/>
+<area shape="rect" id="node9" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="4583,95,4695,121"/>
+<area shape="rect" id="node10" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="4410,5,4547,32"/>
+<area shape="rect" id="node11" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="4571,5,4706,32"/>
+<area shape="rect" id="node12" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="4730,5,4870,32"/>
+<area shape="rect" id="node14" href="$classTList.html" title="A doubly linked list. " alt="" coords="6665,575,6719,602"/>
+<area shape="rect" id="node65" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="8107,770,8205,797"/>
+<area shape="rect" id="node66" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="6868,770,7015,797"/>
+<area shape="rect" id="node74" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="8271,913,8358,940"/>
+<area shape="rect" id="node79" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="6602,770,6779,797"/>
+<area shape="rect" id="node142" href="$classTDirectoryFile.html" title=" A ROOT file is structured in Directories (like a file system). " alt="" coords="8932,1049,9044,1076"/>
+<area shape="rect" id="node15" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="8173,405,8291,432"/>
+<area shape="rect" id="node161" href="$classTMap.html" title="TMap implements an associative array of (key,value) pairs using a THashTable for efficient retrieval ..." alt="" coords="9863,913,9921,940"/>
+<area shape="rect" id="node20" title="STL class. " alt="" coords="9876,1512,10017,1539"/>
+<area shape="rect" id="node24" title="STL class. " alt="" coords="10355,770,10461,797"/>
+<area shape="rect" id="node25" title="STL class. " alt="" coords="6051,1288,6138,1315"/>
+<area shape="rect" id="node78" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="6700,1512,6785,1539"/>
+<area shape="rect" id="node30" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="5125,770,5280,797"/>
+<area shape="rect" id="node31" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="5389,770,5453,797"/>
+<area shape="rect" id="node35" href="$classTRandom3.html" title=" &#160;Random number generator class based on M. " alt="" coords="11526,1595,11618,1621"/>
+<area shape="rect" id="node37" href="$classROOT_1_1Math_1_1TRandomEngine.html" title="ROOT::Math::TRandomEngine" alt="" coords="11589,770,11801,797"/>
+<area shape="rect" id="node49" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="2733,1512,2808,1539"/>
+<area shape="rect" id="node50" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="2525,1512,2592,1539"/>
+<area shape="rect" id="node51" href="$classTAttMarker.html" title="Marker Attributes class. " alt="" coords="2616,1512,2709,1539"/>
+<area shape="rect" id="node85" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="7119,1692,7243,1719"/>
+<area shape="rect" id="node92" href="$classTBasket.html" title="Manages buffers for branches of a Tree. " alt="" coords="7043,2008,7117,2035"/>
+<area shape="rect" id="node59" href="$classTArrayD.html" title="Array of doubles (64 bits per element). " alt="" coords="2876,1049,2951,1076"/>
+<area shape="rect" id="node60" href="$classTArray.html" title="Abstract array base class. " alt="" coords="3231,913,3295,940"/>
+<area shape="rect" id="node87" href="$classTArrayI.html" title="Array of integers (32 bits per element). " alt="" coords="4110,1415,4178,1441"/>
+<area shape="rect" id="node114" href="$classTArrayF.html" title="Array of floats (32 bits per element). " alt="" coords="2581,1147,2651,1173"/>
+<area shape="rect" id="node157" href="$classTArrayC.html" title="Array of chars or bytes (8 bits per element). " alt="" coords="8150,1049,8223,1076"/>
+<area shape="rect" id="node73" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="8357,1512,8547,1539"/>
+<area shape="rect" id="node84" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="8126,1512,8285,1539"/>
+<area shape="rect" id="node67" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="6627,1049,6829,1076"/>
+<area shape="rect" id="node69" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="6317,1049,6448,1076"/>
+<area shape="rect" id="node70" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="6150,1049,6293,1076"/>
+<area shape="rect" id="node76" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="8380,770,8511,797"/>
+<area shape="rect" id="node82" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="6333,1692,6507,1719"/>
+<area shape="rect" id="node81" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="4651,913,4794,940"/>
+<area shape="rect" id="node83" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="6472,1049,6603,1076"/>
+<area shape="rect" id="node89" href="$classTBranchRef.html" title="A branch containing and managing a TRefTable for TRef autoloading. " alt="" coords="7452,2008,7548,2035"/>
+<area shape="rect" id="node91" href="$classROOT_1_1Experimental_1_1Internal_1_1TBulkBranchRead.html" title="ROOT::Experimental\l::Internal::TBulkBranchRead" alt="" coords="4787,2001,4989,2042"/>
+<area shape="rect" id="node94" href="$classTDatime.html" title="This class stores the date and time with a precision of one second in an unsigned 32 bit word (950130..." alt="" coords="8765,913,8843,940"/>
+<area shape="rect" id="node95" href="$classROOT_1_1Internal_1_1TBranchCacheInfo.html" title="ROOT::Internal::TBranchCacheInfo" alt="" coords="4659,838,4901,865"/>
+<area shape="rect" id="node99" href="$classROOT_1_1Internal_1_1TAtomicPointer.html" title="ROOT::Internal::TAtomicPointer\l\&lt; TObjArray *\&gt;" alt="" coords="8025,906,8247,947"/>
+<area shape="rect" id="node129" href="$classTF1Parameters.html" title="TF1 Parameters class. " alt="" coords="2549,1692,2667,1719"/>
+<area shape="rect" id="node140" href="$classTMVA_1_1TSpline1.html" title="Linear interpolation of TGraph. " alt="" coords="1657,2305,1780,2332"/>
+<area shape="rect" id="node109" href="$classTH1F.html" title="1&#45;D histogram with a float per channel (see TH1 documentation)} " alt="" coords="1609,1887,1663,1913"/>
+<area shape="rect" id="node113" href="$classTAttAxis.html" title="Manages histogram axis attributes. " alt="" coords="2975,1049,3051,1076"/>
+<area shape="rect" id="node130" href="$structTF1_1_1TF1FunctorPointer.html" title="TF1::TF1FunctorPointer" alt="" coords="2202,1692,2371,1719"/>
+<area shape="rect" id="node137" href="$classTMVA_1_1IPythonInteractive.html" title="This class is needed by JsMVA, and it&#39;s a helper class for tracking errors during the training in Jup..." alt="" coords="8745,2172,8930,2199"/>
+<area shape="rect" id="node147" href="$classTMutex.html" title="TMutex" alt="" coords="11122,303,11193,329"/>
+<area shape="rect" id="node148" href="$classTVirtualMutex.html" title="This class implements a mutex interface. " alt="" coords="11122,184,11235,211"/>
+<area shape="rect" id="node154" href="$classROOT_1_1TRWSpinLock.html" title="ROOT::TRWSpinLock" alt="" coords="9627,1049,9781,1076"/>
+<area shape="rect" id="node155" href="$classROOT_1_1TSpinMutex.html" title="A spin mutex class which respects the STL interface for mutexes. " alt="" coords="9697,913,9839,940"/>
+<area shape="rect" id="node158" href="$classROOT_1_1Internal_1_1RConcurrentHashColl.html" title="This class is a TS set of unsigned set. " alt="" coords="9400,1042,9603,1083"/>
+</map>

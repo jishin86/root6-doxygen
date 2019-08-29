@@ -1,0 +1,7 @@
+<map id="ROOT::Math::BasicMinimizer" name="ROOT::Math::BasicMinimizer">
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1GSLMinimizer.html" title="GSLMinimizer class. " alt="" coords="499,5,693,32"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1GSLNLSMinimizer.html" title="GSLNLSMinimizer class for Non Linear Least Square fitting It Uses the Levemberg&#45;Marquardt algorithm f..." alt="" coords="486,56,706,83"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Math_1_1GSLSimAnMinimizer.html" title="GSLSimAnMinimizer class for minimization using simulated annealing using the algorithm from GSL..." alt="" coords="477,107,715,133"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Math_1_1RMinimizer.html" title="RMinimizer class. " alt="" coords="507,157,685,184"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1Minimizer.html" title="Abstract Minimizer class, defining the interface for the various minimizer (like Minuit2, Minuit, GSL, etc..) Plug&#45;in&#39;s exist in ROOT to be able to instantiate the derived classes like ROOT::Math::GSLMinimizer or ROOT::Math::Minuit2Minimizer via the plug&#45;in manager. " alt="" coords="5,81,176,108"/>
+</map>

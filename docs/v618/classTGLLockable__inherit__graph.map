@@ -1,0 +1,9 @@
+<map id="TGLLockable" name="TGLLockable">
+<area shape="rect" id="node2" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="10,80,129,107"/>
+<area shape="rect" id="node5" href="$classTGLViewerBase.html" title="Base class for GL viewers. " alt="" coords="157,80,280,107"/>
+<area shape="rect" id="node3" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="19,155,106,181"/>
+<area shape="rect" id="node4" href="$classTGLScenePad.html" title="Implements VirtualViewer3D interface and fills the base&#45;class visualization structures from pad conte..." alt="" coords="5,229,115,256"/>
+<area shape="rect" id="node6" href="$classTGLViewer.html" title="Base GL viewer object &#45; used by both standalone and embedded (in pad) GL. " alt="" coords="175,155,265,181"/>
+<area shape="rect" id="node7" href="$classTGLEmbeddedViewer.html" title="Minimal GL&#45;viewer that can be embedded in a standard ROOT frames. " alt="" coords="139,229,301,256"/>
+<area shape="rect" id="node8" href="$classTGLSAViewer.html" title="The top level standalone GL&#45;viewer &#45; created via plugin manager. " alt="" coords="325,229,433,256"/>
+</map>

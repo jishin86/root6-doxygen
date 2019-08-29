@@ -1,0 +1,25 @@
+<map id="TGLClipPlane" name="TGLClipPlane">
+<area shape="rect" id="node2" href="$classTGLClip.html" title="Abstract clipping shape &#45; derives from TGLPhysicalShape Adds clip mode (inside/outside) and pure virt..." alt="" coords="1518,56,1590,83"/>
+<area shape="rect" id="node8" href="$classTGLSceneBase.html" title="Scene base&#45;class – provides basic interface expected by the TGLViewer or its sub&#45;classes: ..." alt="" coords="1855,371,1973,397"/>
+<area shape="rect" id="node3" href="$classTGLPhysicalShape.html" title="Concrete physical shape &#45; a GL drawable. " alt="" coords="2680,363,2821,389"/>
+<area shape="rect" id="node5" href="$classTGLPShapeRef.html" title="Base class for references to TGLPysicalShape that need to be notified when the shape is destroyed..." alt="" coords="2943,363,3059,389"/>
+<area shape="rect" id="node6" href="$classTGLLogicalShape.html" title="Abstract logical shape &#45; a GL &#39;drawable&#39; &#45; base for all shapes &#45; faceset sphere etc. " alt="" coords="2403,337,2536,364"/>
+<area shape="rect" id="node4" href="$classTGLMatrix.html" title="16 component (4x4) transform matrix &#45; column MAJOR as per GL. " alt="" coords="2425,408,2513,435"/>
+<area shape="rect" id="node7" href="$classTGLScene.html" title="TGLScene provides management and rendering of ROOT&#39;s default 3D /object representation as logical and..." alt="" coords="2214,337,2301,364"/>
+<area shape="rect" id="node9" href="$classTGLLockable.html" title="Simple locking interface used by viewer and scene. " alt="" coords="1501,376,1607,403"/>
+<area shape="rect" id="node10" href="$classTString.html" title="Basic string class. " alt="" coords="461,411,529,437"/>
+<area shape="rect" id="node23" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,327,828,353"/>
+<area shape="rect" id="node11" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,411,349,437"/>
+<area shape="rect" id="node12" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,360,144,387"/>
+<area shape="rect" id="node13" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,411,143,437"/>
+<area shape="rect" id="node14" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,461,145,488"/>
+<area shape="rect" id="node15" href="$classTGLBoundingBox.html" title="Concrete class describing an orientated (free) or axis aligned box of 8 vertices. ..." alt="" coords="1487,500,1621,527"/>
+<area shape="rect" id="node16" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="889,519,985,545"/>
+<area shape="rect" id="node17" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="1143,488,1238,515"/>
+<area shape="rect" id="node19" href="$classTGLContextIdentity.html" title="Identifier of a shared GL&#45;context. " alt="" coords="1840,237,1988,264"/>
+<area shape="rect" id="node20" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1489,275,1619,301"/>
+<area shape="rect" id="node21" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1147,291,1234,317"/>
+<area shape="rect" id="node22" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="877,301,996,328"/>
+<area shape="rect" id="node24" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,276,329,303"/>
+<area shape="rect" id="node25" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,327,548,353"/>
+</map>

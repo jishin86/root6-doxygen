@@ -1,0 +1,4 @@
+<map id="ROOT::Math::GSLNLSMinimizer" name="ROOT::Math::GSLNLSMinimizer">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1BasicMinimizer.html" title="Base Minimizer class, which defines the basic funcionality of various minimizer implementations (apar..." alt="" coords="13,80,218,107"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1Minimizer.html" title="Abstract Minimizer class, defining the interface for the various minimizer (like Minuit2, Minuit, GSL, etc..) Plug&#45;in&#39;s exist in ROOT to be able to instantiate the derived classes like ROOT::Math::GSLMinimizer or ROOT::Math::Minuit2Minimizer via the plug&#45;in manager. " alt="" coords="30,5,201,32"/>
+</map>

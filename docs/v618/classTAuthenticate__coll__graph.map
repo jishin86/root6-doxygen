@@ -1,0 +1,55 @@
+<map id="TAuthenticate" name="TAuthenticate">
+<area shape="rect" id="node2" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="311,1453,383,1480"/>
+<area shape="rect" id="node7" href="$classTSecContext.html" title="TSecContext" alt="" coords="1827,276,1931,303"/>
+<area shape="rect" id="node16" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="947,1541,1042,1568"/>
+<area shape="rect" id="node17" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="619,1555,726,1581"/>
+<area shape="rect" id="node20" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1495,1213,1572,1240"/>
+<area shape="rect" id="node21" href="$classTBits.html" title="Container of bits. " alt="" coords="821,421,876,448"/>
+<area shape="rect" id="node24" href="$classTInetAddress.html" title="This class represents an Internet Protocol (IP) address. " alt="" coords="941,341,1048,368"/>
+<area shape="rect" id="node29" href="$classTPluginHandler.html" title="TPluginHandler" alt="" coords="3619,805,3740,832"/>
+<area shape="rect" id="node32" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2171,1304,2311,1331"/>
+<area shape="rect" id="node34" href="$classTMethodCall.html" title="Method or function calling interface. " alt="" coords="3289,973,3391,1000"/>
+<area shape="rect" id="node39" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="638,2328,707,2355"/>
+<area shape="rect" id="node47" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="3009,1344,3082,1371"/>
+<area shape="rect" id="node49" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1657,2253,1744,2280"/>
+<area shape="rect" id="node50" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="3568,2201,3791,2228"/>
+<area shape="rect" id="node54" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1834,1891,1925,1917"/>
+<area shape="rect" id="node58" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2182,2048,2299,2075"/>
+<area shape="rect" id="node64" href="$classTHostAuth.html" title="THostAuth" alt="" coords="1834,681,1925,708"/>
+<area shape="rect" id="node4" href="$structrsa__KEY.html" title="rsa_KEY" alt="" coords="3303,112,3377,139"/>
+<area shape="rect" id="node5" href="$structrsa__NUMBER.html" title="rsa_NUMBER" alt="" coords="2992,112,3099,139"/>
+<area shape="rect" id="node6" href="$classTRootSecContext.html" title="TRootSecContext" alt="" coords="2378,300,2511,327"/>
+<area shape="rect" id="node19" href="$classTSocket.html" title="TSocket" alt="" coords="2203,456,2278,483"/>
+<area shape="rect" id="node8" href="$classTString.html" title="Basic string class. " alt="" coords="639,909,707,936"/>
+<area shape="rect" id="node30" href="$classTFunction.html" title="Global functions class (global functions are obtained from CINT). " alt="" coords="3003,1052,3087,1079"/>
+<area shape="rect" id="node35" href="$classTClass.html" title="TClass" alt="" coords="3013,1839,3077,1865"/>
+<area shape="rect" id="node9" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="291,621,403,648"/>
+<area shape="rect" id="node10" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,571,144,597"/>
+<area shape="rect" id="node11" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,621,143,648"/>
+<area shape="rect" id="node12" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,672,145,699"/>
+<area shape="rect" id="node13" href="$classTDatime.html" title="This class stores the date and time with a precision of one second in an unsigned 32 bit word (950130..." alt="" coords="1494,231,1573,257"/>
+<area shape="rect" id="node14" href="$classTList.html" title="A doubly linked list. " alt="" coords="1507,1444,1560,1471"/>
+<area shape="rect" id="node33" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1831,1416,1928,1443"/>
+<area shape="rect" id="node36" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1806,1780,1953,1807"/>
+<area shape="rect" id="node46" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="3002,1508,3089,1535"/>
+<area shape="rect" id="node57" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1791,1679,1968,1705"/>
+<area shape="rect" id="node15" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1190,1656,1309,1683"/>
+<area shape="rect" id="node31" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2589,1241,2687,1268"/>
+<area shape="rect" id="node22" href="$classTVirtualMutex.html" title="This class implements a mutex interface. " alt="" coords="1823,377,1936,404"/>
+<area shape="rect" id="node23" href="$classTTimeStamp.html" title="The TTimeStamp encapsulates seconds and ns since EPOCH. " alt="" coords="1827,428,1932,455"/>
+<area shape="rect" id="node28" href="$structrsa__KEY__export.html" title="rsa_KEY_export" alt="" coords="3279,405,3401,432"/>
+<area shape="rect" id="node45" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3245,1491,3435,1517"/>
+<area shape="rect" id="node51" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="3297,2365,3383,2392"/>
+<area shape="rect" id="node62" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3261,1723,3419,1749"/>
+<area shape="rect" id="node37" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2537,1912,2739,1939"/>
+<area shape="rect" id="node63" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="3617,2455,3741,2481"/>
+<area shape="rect" id="node41" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2573,1963,2703,1989"/>
+<area shape="rect" id="node42" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2567,1608,2709,1635"/>
+<area shape="rect" id="node48" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="2573,1343,2703,1369"/>
+<area shape="rect" id="node60" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="3592,2325,3767,2352"/>
+<area shape="rect" id="node52" title="STL class. " alt="" coords="3002,2433,3089,2460"/>
+<area shape="rect" id="node55" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1456,1929,1611,1956"/>
+<area shape="rect" id="node56" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1501,1825,1565,1852"/>
+<area shape="rect" id="node59" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1808,2012,1951,2039"/>
+<area shape="rect" id="node61" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2573,1760,2703,1787"/>
+</map>

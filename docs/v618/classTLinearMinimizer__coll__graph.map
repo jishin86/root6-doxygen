@@ -1,0 +1,57 @@
+<map id="TLinearMinimizer" name="TLinearMinimizer">
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1Minimizer.html" title="Abstract Minimizer class, defining the interface for the various minimizer (like Minuit2, Minuit, GSL, etc..) Plug&#45;in&#39;s exist in ROOT to be able to instantiate the derived classes like ROOT::Math::GSLMinimizer or ROOT::Math::Minuit2Minimizer via the plug&#45;in manager. " alt="" coords="2728,5,2899,32"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1MinimizerOptions.html" title="Minimizer options. " alt="" coords="2057,7,2277,33"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1IOptions.html" title="Generic interface for defining configuration options of a numerical algorithm. " alt="" coords="1705,7,1865,33"/>
+<area shape="rect" id="node5" title="STL class. " alt="" coords="1742,120,1829,147"/>
+<area shape="rect" id="node42" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="2125,463,2210,489"/>
+<area shape="rect" id="node57" href="$classTFormula.html" title="The Formula class. " alt="" coords="3627,633,3710,660"/>
+<area shape="rect" id="node7" href="$classTLinearFitter.html" title=" The Linear Fitter &#45; For fitting functions that are LINEAR IN PARAMETERS " alt="" coords="3972,1932,4075,1959"/>
+<area shape="rect" id="node8" href="$classTVirtualFitter.html" title="Abstract Base Class for Fitting. " alt="" coords="3615,2100,3722,2127"/>
+<area shape="rect" id="node9" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1387,1552,1464,1579"/>
+<area shape="rect" id="node18" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2527,1519,2624,1545"/>
+<area shape="rect" id="node43" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1740,1335,1831,1361"/>
+<area shape="rect" id="node10" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,1152,329,1179"/>
+<area shape="rect" id="node16" href="$classTMethodCall.html" title="Method or function calling interface. " alt="" coords="3230,1849,3333,1876"/>
+<area shape="rect" id="node19" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2097,1475,2237,1501"/>
+<area shape="rect" id="node21" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,997,828,1024"/>
+<area shape="rect" id="node22" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,1027,548,1053"/>
+<area shape="rect" id="node30" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="2133,553,2202,580"/>
+<area shape="rect" id="node38" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="2947,311,3020,337"/>
+<area shape="rect" id="node40" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="2124,1109,2211,1136"/>
+<area shape="rect" id="node41" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="2464,677,2687,704"/>
+<area shape="rect" id="node47" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2109,1248,2226,1275"/>
+<area shape="rect" id="node55" href="$classTMatrixTBase.html" title="Linear Algebra Package. " alt="" coords="3182,1652,3381,1679"/>
+<area shape="rect" id="node66" href="$classTBits.html" title="Container of bits. " alt="" coords="613,2068,668,2095"/>
+<area shape="rect" id="node69" href="$classTVectorT.html" title="TVectorT\&lt; Double_t \&gt;" alt="" coords="852,2016,1019,2043"/>
+<area shape="rect" id="node11" href="$classTString.html" title="Basic string class. " alt="" coords="461,1563,529,1589"/>
+<area shape="rect" id="node17" href="$classTFunction.html" title="Global functions class (global functions are obtained from CINT). " alt="" coords="2941,1720,3025,1747"/>
+<area shape="rect" id="node26" href="$classTClass.html" title="TClass" alt="" coords="2951,880,3015,907"/>
+<area shape="rect" id="node12" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,2069,349,2096"/>
+<area shape="rect" id="node13" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,2019,144,2045"/>
+<area shape="rect" id="node14" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,2069,143,2096"/>
+<area shape="rect" id="node15" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,2120,145,2147"/>
+<area shape="rect" id="node20" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1737,525,1834,552"/>
+<area shape="rect" id="node36" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3187,684,3376,711"/>
+<area shape="rect" id="node37" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2940,609,3027,636"/>
+<area shape="rect" id="node24" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1082,955,1201,981"/>
+<area shape="rect" id="node23" href="$classTList.html" title="A doubly linked list. " alt="" coords="1399,883,1452,909"/>
+<area shape="rect" id="node27" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1712,867,1859,893"/>
+<area shape="rect" id="node46" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1697,917,1874,944"/>
+<area shape="rect" id="node51" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3202,755,3361,781"/>
+<area shape="rect" id="node28" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2475,779,2676,805"/>
+<area shape="rect" id="node52" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="2513,549,2637,576"/>
+<area shape="rect" id="node32" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2510,728,2641,755"/>
+<area shape="rect" id="node33" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2504,1196,2647,1223"/>
+<area shape="rect" id="node39" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="2510,233,2641,260"/>
+<area shape="rect" id="node49" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="2488,499,2663,525"/>
+<area shape="rect" id="node44" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1348,1284,1503,1311"/>
+<area shape="rect" id="node45" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1393,1335,1457,1361"/>
+<area shape="rect" id="node48" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1714,1233,1857,1260"/>
+<area shape="rect" id="node50" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2510,981,2641,1008"/>
+<area shape="rect" id="node53" href="$structFoption__t.html" title="Foption_t" alt="" coords="3240,2217,3323,2244"/>
+<area shape="rect" id="node54" href="$classTMatrixTSym.html" title="TMatrixTSym\&lt; Double_t \&gt;" alt="" coords="3571,1680,3767,1707"/>
+<area shape="rect" id="node67" href="$classTMatrixT.html" title="TMatrixT\&lt; Double_t \&gt;" alt="" coords="3585,1607,3752,1633"/>
+<area shape="rect" id="node70" href="$classROOT_1_1Math_1_1IGradientFunctionMultiDimTempl.html" title="Interface (abstract class) for multi&#45;dimensional functions providing a gradient calculation. " alt="" coords="3913,2130,4133,2171"/>
+<area shape="rect" id="node71" href="$classROOT_1_1Math_1_1IBaseFunctionMultiDimTempl.html" title="Documentation for the abstract class IBaseFunctionMultiDim. " alt="" coords="3571,2217,3767,2258"/>
+<area shape="rect" id="node72" href="$classROOT_1_1Math_1_1IGradientMultiDimTempl.html" title="Gradient interface (abstract class) defining the signature for calculating the gradient of a multi&#45;di..." alt="" coords="3569,2151,3768,2193"/>
+</map>

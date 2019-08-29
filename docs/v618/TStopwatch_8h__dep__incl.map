@@ -1,0 +1,201 @@
+<map id="core/base/inc/TStopwatch.h" name="core/base/inc/TStopwatch.h">
+<area shape="rect" id="node2" href="$TBenchmark_8h.html" title="core/base/inc/TBenchmark.h" alt="" coords="629,87,835,114"/>
+<area shape="rect" id="node4" href="$TBenchmark_8cxx.html" title="core/base/src/TBenchmark.cxx" alt="" coords="5,177,227,203"/>
+<area shape="rect" id="node5" href="$TRint_8cxx.html" title="core/rint/src/TRint.cxx" alt="" coords="251,177,415,203"/>
+<area shape="rect" id="node9" href="$TStopwatch_8cxx.html" title="core/base/src/TStopwatch.cxx" alt="" coords="906,87,1121,114"/>
+<area shape="rect" id="node10" href="$TGeoNode_8cxx.html" title="geom/geom/src/TGeoNode.cxx" alt="" coords="1145,87,1367,114"/>
+<area shape="rect" id="node11" href="$TGeoChecker_8cxx.html" title="geom/geompainter/src\l/TGeoChecker.cxx" alt="" coords="1391,80,1561,121"/>
+<area shape="rect" id="node12" href="$TGeoPainter_8cxx.html" title="geom/geompainter/src\l/TGeoPainter.cxx" alt="" coords="1585,80,1754,121"/>
+<area shape="rect" id="node13" href="$TGLAutoRotator_8cxx.html" title="graf3d/gl/src/TGLAutoRotator.cxx" alt="" coords="1779,87,2013,114"/>
+<area shape="rect" id="node14" href="$TFileMerger_8h.html" title="io/io/inc/TFileMerger.h" alt="" coords="2088,87,2251,114"/>
+<area shape="rect" id="node25" href="$TProofPlayer_8cxx.html" title="proof/proofplayer/src\l/TProofPlayer.cxx" alt="" coords="2570,259,2729,300"/>
+<area shape="rect" id="node26" href="$TFilePrefetch_8h.html" title="io/io/inc/TFilePrefetch.h" alt="" coords="12671,87,12844,114"/>
+<area shape="rect" id="node30" href="$TFile_8cxx.html" title=" &#160;" alt="" coords="12869,87,13003,114"/>
+<area shape="rect" id="node31" href="$GoFTest_8cxx.html" title="math/mathcore/src/GoFTest.cxx" alt="" coords="13028,87,13255,114"/>
+<area shape="rect" id="node32" href="$TAlienFile_8cxx.html" title="net/alien/src/TAlienFile.cxx" alt="" coords="13279,87,13473,114"/>
+<area shape="rect" id="node33" href="$TMonaLisaWriter_8h.html" title="net/monalisa/inc/TMonaLisa\lWriter.h" alt="" coords="13548,80,13751,121"/>
+<area shape="rect" id="node34" href="$TMonaLisaWriter_8cxx.html" title="net/monalisa/src/TMonaLisa\lWriter.cxx" alt="" coords="13295,169,13497,211"/>
+<area shape="rect" id="node35" href="$TFTP_8cxx.html" title="net/net/src/TFTP.cxx" alt="" coords="13775,87,13926,114"/>
+<area shape="rect" id="node36" href="$TXNetFileStager_8cxx.html" title="net/netx/src/TXNetFileStager.cxx" alt="" coords="13950,87,14183,114"/>
+<area shape="rect" id="node37" href="$TProof_8h.html" title="proof/proof/inc/TProof.h" alt="" coords="6790,87,6965,114"/>
+<area shape="rect" id="node58" href="$TProofServ_8cxx.html" title="proof/proof/src/TProofServ.cxx" alt="" coords="2393,177,2612,203"/>
+<area shape="rect" id="node73" href="$TPacketizerFile_8cxx.html" title="proof/proofplayer/src\l/TPacketizerFile.cxx" alt="" coords="9953,169,10111,211"/>
+<area shape="rect" id="node75" href="$TPacketizerUnit_8cxx.html" title="proof/proofplayer/src\l/TPacketizerUnit.cxx" alt="" coords="12046,169,12205,211"/>
+<area shape="rect" id="node80" href="$TXProofMgr_8cxx.html" title="proof/proofx/src/TXProof\lMgr.cxx" alt="" coords="12229,169,12409,211"/>
+<area shape="rect" id="node86" href="$TProofServ_8h.html" title="proof/proof/inc/TProofServ.h" alt="" coords="10588,87,10791,114"/>
+<area shape="rect" id="node93" href="$TQueryResultManager_8h.html" title="proof/proof/inc/TQueryResult\lManager.h" alt="" coords="2399,80,2607,121"/>
+<area shape="rect" id="node94" href="$Envelope_8h.html" title="tmva/tmva/inc/TMVA\l/Envelope.h" alt="" coords="14208,80,14365,121"/>
+<area shape="rect" id="node105" href="$Timer_8h.html" title="tmva/tmva/inc/TMVA\l/Timer.h" alt="" coords="17940,80,18097,121"/>
+<area shape="rect" id="node148" href="$MethodDL_8cxx.html" title="tmva/tmva/src/MethodDL.cxx" alt="" coords="21912,177,22125,203"/>
+<area shape="rect" id="node159" href="$Timer_8cxx.html" title="tmva/tmva/src/Timer.cxx" alt="" coords="22150,177,22335,203"/>
+<area shape="rect" id="node160" href="$DecisionTree_8cxx.html" title="tmva/tmva/src/DecisionTree.cxx" alt="" coords="18223,87,18454,114"/>
+<area shape="rect" id="node161" href="$HistoToWorkspaceFactory_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory.cxx" alt="" coords="21461,355,21701,397"/>
+<area shape="rect" id="node162" href="$HistoToWorkspaceFactoryFast_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory\lFast.cxx" alt="" coords="21726,348,21941,404"/>
+<area shape="rect" id="node163" href="$RooAbsTestStatistic_8h.html" title="roofit/roofitcore/inc\l/RooAbsTestStatistic.h" alt="" coords="24267,80,24432,121"/>
+<area shape="rect" id="node175" href="$MinNLLTestStat_8h.html" title="roofit/roostats/inc\l/RooStats/MinNLLTestStat.h" alt="" coords="22518,355,22714,397"/>
+<area shape="rect" id="node176" href="$AsymptoticCalculator_8cxx.html" title="roofit/roostats/src\l/AsymptoticCalculator.cxx" alt="" coords="24356,355,24548,397"/>
+<area shape="rect" id="node178" href="$ProfileLikelihoodTestStat_8cxx.html" title="roofit/roostats/src\l/ProfileLikelihoodTestStat.cxx" alt="" coords="24572,355,24785,397"/>
+<area shape="rect" id="node183" href="$RooConstraintSum_8h.html" title="roofit/roofitcore/inc\l/RooConstraintSum.h" alt="" coords="23813,259,23971,300"/>
+<area shape="rect" id="node184" href="$RooMCIntegrator_8h.html" title="roofit/roofitcore/inc\l/RooMCIntegrator.h" alt="" coords="24558,80,24703,121"/>
+<area shape="rect" id="node187" href="$RooMinimizer_8h.html" title="roofit/roofitcore/inc\l/RooMinimizer.h" alt="" coords="22905,259,23050,300"/>
+<area shape="rect" id="node189" href="$RooMinimizer_8cxx.html" title=" &#160;" alt="" coords="24810,355,24955,397"/>
+<area shape="rect" id="node193" href="$RooMinuit_8h.html" title="roofit/roofitcore/inc\l/RooMinuit.h" alt="" coords="22453,259,22598,300"/>
+<area shape="rect" id="node194" href="$RooMinuit_8cxx.html" title=" &#160;" alt="" coords="21291,355,21437,397"/>
+<area shape="rect" id="node196" href="$RooRealMPFE_8h.html" title="roofit/roofitcore/inc\l/RooRealMPFE.h" alt="" coords="25149,259,25294,300"/>
+<area shape="rect" id="node198" href="$RooAbsCollection_8cxx.html" title=" &#160;" alt="" coords="24727,80,24894,121"/>
+<area shape="rect" id="node199" href="$RooCustomizer_8cxx.html" title="roofit/roofitcore/src\l/RooCustomizer.cxx" alt="" coords="24918,80,25069,121"/>
+<area shape="rect" id="node200" href="$TTreePerfStats_8cxx.html" title="tree/treeplayer/src\l/TTreePerfStats.cxx" alt="" coords="25093,80,25240,121"/>
+<area shape="rect" id="node3" href="$TPyROOTApplication_8cxx.html" title="bindings/pyroot/src\l/TPyROOTApplication.cxx" alt="" coords="639,169,825,211"/>
+<area shape="rect" id="node6" href="$TTabCom_8cxx.html" title="core/rint/src/TTabCom.cxx" alt="" coords="850,177,1041,203"/>
+<area shape="rect" id="node7" href="$TFormula_8cxx.html" title="hist/hist/src/TFormula.cxx" alt="" coords="1065,177,1255,203"/>
+<area shape="rect" id="node8" href="$TApplicationServer_8cxx.html" title="net/net/src/TApplication\lServer.cxx" alt="" coords="439,169,614,211"/>
+<area shape="rect" id="node15" href="$TBufferMerger_8hxx.html" title="io/io/inc/ROOT/TBufferMerger.hxx" alt="" coords="1279,177,1516,203"/>
+<area shape="rect" id="node22" href="$TFileMerger_8cxx.html" title="io/io/src/TFileMerger.cxx" alt="" coords="1591,177,1769,203"/>
+<area shape="rect" id="node23" href="$TAlienMasterJob_8cxx.html" title="net/alien/src/TAlienMaster\lJob.cxx" alt="" coords="1794,169,1985,211"/>
+<area shape="rect" id="node24" href="$TProofOutputFile_8cxx.html" title="proof/proof/src/TProofOutput\lFile.cxx" alt="" coords="2111,169,2318,211"/>
+<area shape="rect" id="node16" href="$TBufferMerger_8cxx.html" title="io/io/src/TBufferMerger.cxx" alt="" coords="1069,266,1264,293"/>
+<area shape="rect" id="node17" href="$TBufferMergerFile_8cxx.html" title="io/io/src/TBufferMergerFile.cxx" alt="" coords="1288,266,1507,293"/>
+<area shape="rect" id="node18" href="$ActionHelpers_8hxx.html" title="tree/dataframe/inc\l/ROOT/RDF/ActionHelpers.hxx" alt="" coords="1531,259,1747,300"/>
+<area shape="rect" id="node19" href="$InterfaceUtils_8hxx.html" title="tree/dataframe/inc\l/ROOT/RDF/InterfaceUtils.hxx" alt="" coords="1388,355,1601,397"/>
+<area shape="rect" id="node20" href="$RInterface_8hxx.html" title="tree/dataframe/inc\l/ROOT/RDF/RInterface.hxx" alt="" coords="1471,452,1663,493"/>
+<area shape="rect" id="node21" href="$RDFActionHelpers_8cxx.html" title="tree/dataframe/src\l/RDFActionHelpers.cxx" alt="" coords="1677,355,1846,397"/>
+<area shape="rect" id="node27" href="$TFileCacheRead_8cxx.html" title="io/io/src/TFileCacheRead.cxx" alt="" coords="13063,177,13270,203"/>
+<area shape="rect" id="node28" href="$TFilePrefetch_8cxx.html" title="io/io/src/TFilePrefetch.cxx" alt="" coords="12650,177,12838,203"/>
+<area shape="rect" id="node29" href="$TChain_8cxx.html" title="tree/tree/src/TChain.cxx" alt="" coords="12863,177,13039,203"/>
+<area shape="rect" id="node38" href="$TProofProgressDialog_8cxx.html" title="gui/sessionviewer/src\l/TProofProgressDialog.cxx" alt="" coords="3925,169,4118,211"/>
+<area shape="rect" id="node39" href="$TProofProgressLog_8cxx.html" title="gui/sessionviewer/src\l/TProofProgressLog.cxx" alt="" coords="5321,169,5495,211"/>
+<area shape="rect" id="node40" href="$TProofProgressMemoryPlot_8cxx.html" title="gui/sessionviewer/src\l/TProofProgressMemoryPlot.cxx" alt="" coords="5520,169,5749,211"/>
+<area shape="rect" id="node41" href="$TSessionDialogs_8cxx.html" title="gui/sessionviewer/src\l/TSessionDialogs.cxx" alt="" coords="5773,169,5936,211"/>
+<area shape="rect" id="node42" href="$TSessionLogView_8cxx.html" title="gui/sessionviewer/src\l/TSessionLogView.cxx" alt="" coords="5960,169,6125,211"/>
+<area shape="rect" id="node43" href="$TSessionViewer_8cxx.html" title="gui/sessionviewer/src\l/TSessionViewer.cxx" alt="" coords="6149,169,6312,211"/>
+<area shape="rect" id="node44" href="$TProofCondor_8h.html" title="proof/proof/inc/TProofCondor.h" alt="" coords="8418,177,8638,203"/>
+<area shape="rect" id="node46" href="$TProofLite_8h.html" title="proof/proof/inc/TProofLite.h" alt="" coords="3702,177,3901,203"/>
+<area shape="rect" id="node50" href="$TProofSuperMaster_8h.html" title="proof/proof/inc/TProofSuper\lMaster.h" alt="" coords="4143,169,4343,211"/>
+<area shape="rect" id="node52" href="$TDSet_8cxx.html" title="proof/proof/src/TDSet.cxx" alt="" coords="8927,177,9113,203"/>
+<area shape="rect" id="node53" href="$TPackMgr_8cxx.html" title="proof/proof/src/TPackMgr.cxx" alt="" coords="4367,177,4577,203"/>
+<area shape="rect" id="node54" href="$TProof_8cxx.html" title="proof/proof/src/TProof.cxx" alt="" coords="8713,177,8903,203"/>
+<area shape="rect" id="node55" href="$TProofChain_8cxx.html" title="proof/proof/src/TProofChain.cxx" alt="" coords="4601,177,4828,203"/>
+<area shape="rect" id="node56" href="$TProofMgr_8cxx.html" title="proof/proof/src/TProofMgr.cxx" alt="" coords="4852,177,5065,203"/>
+<area shape="rect" id="node57" href="$TProofOutputList_8cxx.html" title="proof/proof/src/TProofOutput\lList.cxx" alt="" coords="5090,169,5297,211"/>
+<area shape="rect" id="node59" href="$TProofServLite_8cxx.html" title="proof/proof/src/TProofServ\lLite.cxx" alt="" coords="11492,259,11684,300"/>
+<area shape="rect" id="node60" href="$TQueryResultManager_8cxx.html" title="proof/proof/src/TQueryResult\lManager.cxx" alt="" coords="7817,169,8025,211"/>
+<area shape="rect" id="node61" href="$TSlave_8cxx.html" title="proof/proof/src/TSlave.cxx" alt="" coords="6387,177,6579,203"/>
+<area shape="rect" id="node62" href="$TSlaveLite_8cxx.html" title="proof/proof/src/TSlaveLite.cxx" alt="" coords="9137,177,9353,203"/>
+<area shape="rect" id="node63" href="$TProofBench_8cxx.html" title="proof/proofbench/src\l/TProofBench.cxx" alt="" coords="6603,169,6759,211"/>
+<area shape="rect" id="node64" href="$TProofBenchDataSet_8cxx.html" title="proof/proofbench/src\l/TProofBenchDataSet.cxx" alt="" coords="6784,169,6971,211"/>
+<area shape="rect" id="node65" href="$TProofBenchRun_8cxx.html" title="proof/proofbench/src\l/TProofBenchRun.cxx" alt="" coords="6995,169,7154,211"/>
+<area shape="rect" id="node66" href="$TProofBenchRunCPU_8cxx.html" title="proof/proofbench/src\l/TProofBenchRunCPU.cxx" alt="" coords="7179,169,7365,211"/>
+<area shape="rect" id="node67" href="$TProofBenchRunDataRead_8cxx.html" title="proof/proofbench/src\l/TProofBenchRunDataRead.cxx" alt="" coords="7390,169,7613,211"/>
+<area shape="rect" id="node68" href="$TProofNodes_8cxx.html" title="proof/proofbench/src\l/TProofNodes.cxx" alt="" coords="7637,169,7793,211"/>
+<area shape="rect" id="node69" href="$TSelEventGen_8cxx.html" title="proof/proofbench/src\l/TSelEventGen.cxx" alt="" coords="9378,169,9534,211"/>
+<area shape="rect" id="node70" href="$TDrawFeedback_8cxx.html" title="proof/proofplayer/src\l/TDrawFeedback.cxx" alt="" coords="8050,169,8209,211"/>
+<area shape="rect" id="node71" href="$TPacketizer_8cxx.html" title="proof/proofplayer/src\l/TPacketizer.cxx" alt="" coords="9558,169,9717,211"/>
+<area shape="rect" id="node72" href="$TPacketizerAdaptive_8cxx.html" title="proof/proofplayer/src\l/TPacketizerAdaptive.cxx" alt="" coords="9741,169,9928,211"/>
+<area shape="rect" id="node74" href="$TPacketizerMulti_8cxx.html" title="proof/proofplayer/src\l/TPacketizerMulti.cxx" alt="" coords="8233,169,8393,211"/>
+<area shape="rect" id="node76" href="$TPerfStats_8cxx.html" title="proof/proofplayer/src\l/TPerfStats.cxx" alt="" coords="10135,169,10294,211"/>
+<area shape="rect" id="node77" href="$TProofDraw_8cxx.html" title="proof/proofplayer/src\l/TProofDraw.cxx" alt="" coords="2687,169,2846,211"/>
+<area shape="rect" id="node78" href="$TStatsFeedback_8cxx.html" title="proof/proofplayer/src\l/TStatsFeedback.cxx" alt="" coords="2870,169,3029,211"/>
+<area shape="rect" id="node79" href="$TVirtualPacketizer_8cxx.html" title="proof/proofplayer/src\l/TVirtualPacketizer.cxx" alt="" coords="10319,169,10489,211"/>
+<area shape="rect" id="node81" href="$TXProofServ_8cxx.html" title="proof/proofx/src/TXProof\lServ.cxx" alt="" coords="6259,259,6439,300"/>
+<area shape="rect" id="node82" href="$TXSlave_8cxx.html" title="proof/proofx/src/TXSlave.cxx" alt="" coords="10514,177,10723,203"/>
+<area shape="rect" id="node83" href="$TXSocket_8cxx.html" title="proof/proofx/src/TXSocket.cxx" alt="" coords="3053,177,3270,203"/>
+<area shape="rect" id="node84" href="$TXSocketHandler_8cxx.html" title="proof/proofx/src/TXSocket\lHandler.cxx" alt="" coords="3294,169,3485,211"/>
+<area shape="rect" id="node85" href="$RooStudyPackage_8cxx.html" title=" &#160;" alt="" coords="3509,169,3677,211"/>
+<area shape="rect" id="node45" href="$TProofCondor_8cxx.html" title="proof/proof/src/TProofCondor.cxx" alt="" coords="9352,266,9587,293"/>
+<area shape="rect" id="node47" href="$TProofLite_8cxx.html" title="proof/proof/src/TProofLite.cxx" alt="" coords="3581,266,3795,293"/>
+<area shape="rect" id="node48" href="$TProofMgrLite_8cxx.html" title="proof/proof/src/TProofMgr\lLite.cxx" alt="" coords="3820,259,4007,300"/>
+<area shape="rect" id="node49" href="$TProofPlayerLite_8cxx.html" title="proof/proofplayer/src\l/TProofPlayerLite.cxx" alt="" coords="7233,259,7393,300"/>
+<area shape="rect" id="node51" href="$TProofSuperMaster_8cxx.html" title="proof/proof/src/TProofSuper\lMaster.cxx" alt="" coords="8272,259,8472,300"/>
+<area shape="rect" id="node87" href="$TProofServLite_8h.html" title="proof/proof/inc/TProofServ\lLite.h" alt="" coords="12433,169,12625,211"/>
+<area shape="rect" id="node88" href="$TDSetProxy_8cxx.html" title="proof/proof/src/TDSetProxy.cxx" alt="" coords="11054,177,11277,203"/>
+<area shape="rect" id="node89" href="$TSelVerifyDataSet_8cxx.html" title="proof/proof/src/TSelVerify\lDataSet.cxx" alt="" coords="11301,169,11488,211"/>
+<area shape="rect" id="node90" href="$TEventIter_8cxx.html" title="proof/proofplayer/src\l/TEventIter.cxx" alt="" coords="11513,169,11671,211"/>
+<area shape="rect" id="node91" href="$TProofLimitsFinder_8cxx.html" title="proof/proofplayer/src\l/TProofLimitsFinder.cxx" alt="" coords="11696,169,11869,211"/>
+<area shape="rect" id="node92" href="$TXProofServ_8h.html" title="proof/proofx/inc/TXProof\lServ.h" alt="" coords="10850,169,11030,211"/>
+<area shape="rect" id="node95" href="$Classification_8h.html" title="tmva/tmva/inc/TMVA\l/Classification.h" alt="" coords="14428,169,14585,211"/>
+<area shape="rect" id="node98" href="$CrossValidation_8h.html" title="tmva/tmva/inc/TMVA\l/CrossValidation.h" alt="" coords="13521,169,13679,211"/>
+<area shape="rect" id="node100" href="$HyperParameterOptimisation_8h.html" title="tmva/tmva/inc/TMVA\l/HyperParameterOptimisation.h" alt="" coords="13703,169,13931,211"/>
+<area shape="rect" id="node102" href="$VariableImportance_8h.html" title="tmva/tmva/inc/TMVA\l/VariableImportance.h" alt="" coords="13956,169,14121,211"/>
+<area shape="rect" id="node103" href="$VariableImportance_8cxx.html" title="tmva/tmva/src/VariableImportance.cxx" alt="" coords="14004,266,14279,293"/>
+<area shape="rect" id="node104" href="$Envelope_8cxx.html" title="tmva/tmva/src/Envelope.cxx" alt="" coords="14196,177,14404,203"/>
+<area shape="rect" id="node96" href="$Classification_8cxx.html" title="tmva/tmva/src/Classification.cxx" alt="" coords="14571,266,14805,293"/>
+<area shape="rect" id="node97" href="$classification_8C.html" title=" &lt;a href=&quot;http://nbviewer.jupyter.org/url/root.cern.ch/doc/master/notebooks/classification.C.nbconvert.ipynb&quot; target=&quot;_blank&quot;&gt;&lt;img src= notebook.gif alt=&quot;View in nbviewer&quot; style=&quot;height:1em&quot; &gt;&lt;/a&gt; &lt;a href=&quot;https://cern.ch/swanserver/cgi&#45;bin/go?projurl=https://root.cern.ch/doc/master/notebooks/classification.C.nbconvert.ipynb&quot; target=&quot;_blank&quot;&gt;&lt;img src=&quot;http://swanserver.web.cern.ch/swanserver/images/badge_swan_white_150.png&quot; &#160;alt=&quot;Open in SWAN&quot; style=&quot;height:1em&quot; &gt;&lt;/a&gt; &#160;" alt="" coords="14368,259,14547,300"/>
+<area shape="rect" id="node99" href="$CrossValidation_8cxx.html" title="tmva/tmva/src/CrossValidation.cxx" alt="" coords="13446,266,13695,293"/>
+<area shape="rect" id="node101" href="$HyperParameterOptimisation_8cxx.html" title="tmva/tmva/src/HyperParameter\lOptimisation.cxx" alt="" coords="13720,259,13947,300"/>
+<area shape="rect" id="node106" href="$MethodPyAdaBoost_8cxx.html" title="tmva/pymva/src/MethodPyAda\lBoost.cxx" alt="" coords="21109,169,21331,211"/>
+<area shape="rect" id="node107" href="$MethodPyGTB_8cxx.html" title="tmva/pymva/src/MethodPyGTB.cxx" alt="" coords="21355,177,21605,203"/>
+<area shape="rect" id="node108" href="$MethodPyKeras_8cxx.html" title="tmva/pymva/src/MethodPyKeras.cxx" alt="" coords="21629,177,21888,203"/>
+<area shape="rect" id="node109" href="$MethodPyRandomForest_8cxx.html" title="tmva/pymva/src/MethodPyRandom\lForest.cxx" alt="" coords="14609,169,14860,211"/>
+<area shape="rect" id="node110" href="$PyMethodBase_8cxx.html" title="tmva/pymva/src/PyMethodBase.cxx" alt="" coords="14885,177,15139,203"/>
+<area shape="rect" id="node111" href="$MethodC50_8cxx.html" title="tmva/rmva/src/MethodC50.cxx" alt="" coords="15164,177,15385,203"/>
+<area shape="rect" id="node112" href="$MethodRSNNS_8cxx.html" title="tmva/rmva/src/MethodRSNNS.cxx" alt="" coords="15410,177,15651,203"/>
+<area shape="rect" id="node113" href="$MethodRSVM_8cxx.html" title="tmva/rmva/src/MethodRSVM.cxx" alt="" coords="15675,177,15909,203"/>
+<area shape="rect" id="node114" href="$MethodRXGB_8cxx.html" title="tmva/rmva/src/MethodRXGB.cxx" alt="" coords="15933,177,16166,203"/>
+<area shape="rect" id="node115" href="$NeuralNet_8h.html" title="tmva/tmva/inc/TMVA\l/NeuralNet.h" alt="" coords="16241,169,16399,211"/>
+<area shape="rect" id="node117" href="$MethodDNN_8cxx.html" title="tmva/tmva/src/MethodDNN.cxx" alt="" coords="14760,363,14987,389"/>
+<area shape="rect" id="node120" href="$PDEFoam_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoam.h" alt="" coords="16423,169,16580,211"/>
+<area shape="rect" id="node137" href="$PDEFoam_8cxx.html" title="tmva/tmva/src/PDEFoam.cxx" alt="" coords="17287,363,17497,389"/>
+<area shape="rect" id="node140" href="$GeneticFitter_8cxx.html" title="tmva/tmva/src/GeneticFitter.cxx" alt="" coords="16655,177,16886,203"/>
+<area shape="rect" id="node141" href="$MCFitter_8cxx.html" title="tmva/tmva/src/MCFitter.cxx" alt="" coords="16911,177,17111,203"/>
+<area shape="rect" id="node142" href="$MethodBase_8cxx.html" title="tmva/tmva/src/MethodBase.cxx" alt="" coords="17135,177,17363,203"/>
+<area shape="rect" id="node143" href="$MethodBDT_8cxx.html" title="tmva/tmva/src/MethodBDT.cxx" alt="" coords="17388,177,17609,203"/>
+<area shape="rect" id="node144" href="$MethodBoost_8cxx.html" title="tmva/tmva/src/MethodBoost.cxx" alt="" coords="17634,177,17867,203"/>
+<area shape="rect" id="node145" href="$MethodCategory_8cxx.html" title="tmva/tmva/src/MethodCategory.cxx" alt="" coords="17892,177,18145,203"/>
+<area shape="rect" id="node146" href="$MethodCFMlpANN__Utils_8cxx.html" title="tmva/tmva/src/MethodCFMlp\lANN_Utils.cxx" alt="" coords="18169,169,18377,211"/>
+<area shape="rect" id="node147" href="$MethodCuts_8cxx.html" title="tmva/tmva/src/MethodCuts.cxx" alt="" coords="18402,177,18627,203"/>
+<area shape="rect" id="node149" href="$MethodDT_8cxx.html" title="tmva/tmva/src/MethodDT.cxx" alt="" coords="18651,177,18863,203"/>
+<area shape="rect" id="node150" href="$MethodFDA_8cxx.html" title="tmva/tmva/src/MethodFDA.cxx" alt="" coords="18887,177,19110,203"/>
+<area shape="rect" id="node151" href="$MethodMLP_8cxx.html" title="tmva/tmva/src/MethodMLP.cxx" alt="" coords="19134,177,19354,203"/>
+<area shape="rect" id="node152" href="$MethodRuleFit_8cxx.html" title="tmva/tmva/src/MethodRule\lFit.cxx" alt="" coords="19379,169,19576,211"/>
+<area shape="rect" id="node153" href="$MethodSVM_8cxx.html" title="tmva/tmva/src/MethodSVM.cxx" alt="" coords="19600,177,19824,203"/>
+<area shape="rect" id="node154" href="$MinuitFitter_8cxx.html" title="tmva/tmva/src/MinuitFitter.cxx" alt="" coords="19849,177,20069,203"/>
+<area shape="rect" id="node155" href="$RuleFit_8cxx.html" title="tmva/tmva/src/RuleFit.cxx" alt="" coords="20093,177,20283,203"/>
+<area shape="rect" id="node156" href="$RuleFitAPI_8cxx.html" title="tmva/tmva/src/RuleFitAPI.cxx" alt="" coords="20307,177,20519,203"/>
+<area shape="rect" id="node157" href="$RuleFitParams_8cxx.html" title="tmva/tmva/src/RuleFitParams.cxx" alt="" coords="20543,177,20782,203"/>
+<area shape="rect" id="node158" href="$SimulatedAnnealing_8cxx.html" title="tmva/tmva/src/SimulatedAnnealing.cxx" alt="" coords="20806,177,21085,203"/>
+<area shape="rect" id="node116" href="$MethodDNN_8h.html" title="tmva/tmva/inc/TMVA\l/MethodDNN.h" alt="" coords="15249,259,15407,300"/>
+<area shape="rect" id="node118" href="$NeuralNet_8cxx.html" title="tmva/tmva/src/NeuralNet.cxx" alt="" coords="15242,363,15457,389"/>
+<area shape="rect" id="node119" href="$VarTransformHandler_8cxx.html" title="tmva/tmva/src/VarTransform\lHandler.cxx" alt="" coords="15011,355,15218,397"/>
+<area shape="rect" id="node121" href="$MethodPDEFoam_8h.html" title="tmva/tmva/inc/TMVA\l/MethodPDEFoam.h" alt="" coords="16329,452,16487,493"/>
+<area shape="rect" id="node123" href="$PDEFoamDiscriminant_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamDiscriminant.h" alt="" coords="16663,259,16846,300"/>
+<area shape="rect" id="node124" href="$PDEFoamDiscriminant_8cxx.html" title="tmva/tmva/src/PDEFoamDiscriminant.cxx" alt="" coords="16969,363,17263,389"/>
+<area shape="rect" id="node125" href="$PDEFoamEvent_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamEvent.h" alt="" coords="17728,259,17885,300"/>
+<area shape="rect" id="node126" href="$PDEFoamEvent_8cxx.html" title="tmva/tmva/src/PDEFoamEvent.cxx" alt="" coords="17573,363,17819,389"/>
+<area shape="rect" id="node127" href="$PDEFoamMultiTarget_8cxx.html" title="tmva/tmva/src/PDEFoamMulti\lTarget.cxx" alt="" coords="17895,355,18110,397"/>
+<area shape="rect" id="node128" href="$PDEFoamKernelBase_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamKernelBase.h" alt="" coords="16415,259,16588,300"/>
+<area shape="rect" id="node129" href="$PDEFoamKernelGauss_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamKernelGauss.h" alt="" coords="15583,355,15764,397"/>
+<area shape="rect" id="node130" href="$PDEFoamKernelGauss_8cxx.html" title="tmva/tmva/src/PDEFoamKernel\lGauss.cxx" alt="" coords="15561,452,15785,493"/>
+<area shape="rect" id="node131" href="$PDEFoamKernelLinN_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamKernelLinN.h" alt="" coords="16215,355,16385,397"/>
+<area shape="rect" id="node132" href="$PDEFoamKernelLinN_8cxx.html" title="tmva/tmva/src/PDEFoamKernel\lLinN.cxx" alt="" coords="16065,452,16289,493"/>
+<area shape="rect" id="node133" href="$PDEFoamKernelTrivial_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamKernelTrivial.h" alt="" coords="16714,355,16894,397"/>
+<area shape="rect" id="node134" href="$PDEFoamKernelTrivial_8cxx.html" title="tmva/tmva/src/PDEFoamKernel\lTrivial.cxx" alt="" coords="16561,452,16785,493"/>
+<area shape="rect" id="node135" href="$PlotFoams_8h.html" title="tmva/tmvagui/inc/TMVA\l/PlotFoams.h" alt="" coords="16861,452,17038,493"/>
+<area shape="rect" id="node136" href="$PlotFoams_8cxx.html" title="tmva/tmvagui/src/PlotFoams.cxx" alt="" coords="16767,541,17003,568"/>
+<area shape="rect" id="node138" href="$PDEFoamTarget_8cxx.html" title="tmva/tmva/src/PDEFoamTarget.cxx" alt="" coords="15839,363,16089,389"/>
+<area shape="rect" id="node139" href="$PDEFoamTarget_8h.html" title="tmva/tmva/inc/TMVA\l/PDEFoamTarget.h" alt="" coords="15885,259,16043,300"/>
+<area shape="rect" id="node122" href="$MethodPDEFoam_8cxx.html" title="tmva/tmva/src/MethodPDEFoam.cxx" alt="" coords="16279,541,16537,568"/>
+<area shape="rect" id="node164" href="$RooAbsOptTestStatistic_8h.html" title="roofit/roofitcore/inc\l/RooAbsOptTestStatistic.h" alt="" coords="23453,169,23641,211"/>
+<area shape="rect" id="node171" href="$RooAbsTestStatistic_8cxx.html" title=" &#160;" alt="" coords="25318,355,25498,397"/>
+<area shape="rect" id="node165" href="$RooChi2Var_8h.html" title="roofit/roofitcore/inc\l/RooChi2Var.h" alt="" coords="23643,259,23789,300"/>
+<area shape="rect" id="node169" href="$RooDataWeightedAverage_8h.html" title="roofit/roofitcore/inc\l/RooDataWeightedAverage.h" alt="" coords="22674,259,22881,300"/>
+<area shape="rect" id="node170" href="$RooNLLVar_8h.html" title="roofit/roofitcore/inc\l/RooNLLVar.h" alt="" coords="23995,259,24141,300"/>
+<area shape="rect" id="node180" href="$RooXYChi2Var_8h.html" title="roofit/roofitcore/inc\l/RooXYChi2Var.h" alt="" coords="23474,259,23619,300"/>
+<area shape="rect" id="node181" href="$RooAbsOptTestStatistic_8cxx.html" title=" &#160;" alt="" coords="23075,259,23277,300"/>
+<area shape="rect" id="node182" href="$RooWorkspace_8cxx.html" title=" &#160;" alt="" coords="23302,259,23450,300"/>
+<area shape="rect" id="node166" href="$RooAbsPdf_8cxx.html" title="roofit/roofitcore/src\l/RooAbsPdf.cxx" alt="" coords="23475,355,23621,397"/>
+<area shape="rect" id="node167" href="$RooAbsReal_8cxx.html" title="roofit/roofitcore/src\l/RooAbsReal.cxx" alt="" coords="23081,355,23226,397"/>
+<area shape="rect" id="node168" href="$RooConstraintSum_8cxx.html" title=" &#160;" alt="" coords="24159,355,24332,397"/>
+<area shape="rect" id="node172" href="$RooNLLVar_8cxx.html" title=" &#160;" alt="" coords="24979,355,25125,397"/>
+<area shape="rect" id="node173" href="$RooRealMPFE_8cxx.html" title=" &#160;" alt="" coords="25149,355,25294,397"/>
+<area shape="rect" id="node174" href="$MaxLikelihoodEstimateTestStat_8h.html" title="roofit/roostats/inc\l/RooStats/MaxLikelihoodEstimate\lTestStat.h" alt="" coords="23645,348,23883,404"/>
+<area shape="rect" id="node177" href="$ProfileLikelihoodCalculator_8cxx.html" title="roofit/roostats/src\l/ProfileLikelihoodCalculator.cxx" alt="" coords="23908,355,24135,397"/>
+<area shape="rect" id="node179" href="$UpperLimitMCSModule_8cxx.html" title="roofit/roostats/src\l/UpperLimitMCSModule.cxx" alt="" coords="23251,355,23451,397"/>
+<area shape="rect" id="node185" href="$RooMCIntegrator_8cxx.html" title=" &#160;" alt="" coords="24752,169,24912,211"/>
+<area shape="rect" id="node186" href="$RooNumIntFactory_8cxx.html" title=" &#160;" alt="" coords="24557,169,24728,211"/>
+<area shape="rect" id="node188" href="$Helper_8cxx.html" title="roofit/histfactory\l/src/Helper.cxx" alt="" coords="22739,355,22869,397"/>
+<area shape="rect" id="node190" href="$RooMinimizerFcn_8cxx.html" title="roofit/roofitcore/src\l/RooMinimizerFcn.cxx" alt="" coords="22893,355,23056,397"/>
+<area shape="rect" id="node191" href="$RooProfileLL_8cxx.html" title=" &#160;" alt="" coords="22134,355,22279,397"/>
+<area shape="rect" id="node192" href="$FrequentistCalculator_8cxx.html" title="roofit/roostats/src\l/FrequentistCalculator.cxx" alt="" coords="22303,355,22494,397"/>
+<area shape="rect" id="node195" href="$RooSentinel_8cxx.html" title=" &#160;" alt="" coords="21965,355,22110,397"/>
+<area shape="rect" id="node197" href="$RooMPSentinel_8cxx.html" title=" &#160;" alt="" coords="25523,355,25672,397"/>
+</map>

@@ -1,0 +1,11 @@
+<map id="TBufferIO" name="TBufferIO">
+<area shape="rect" id="node4" href="$classTBufferFile.html" title="The concrete implementation of TBuffer for writing/reading to/from a ROOT file or socket..." alt="" coords="122,229,213,256"/>
+<area shape="rect" id="node7" href="$classTBufferText.html" title=" Base class for text&#45;based streamers like TBufferJSON or TBufferXML Special actions list will use met..." alt="" coords="301,229,397,256"/>
+<area shape="rect" id="node2" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="191,80,261,107"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="190,5,262,32"/>
+<area shape="rect" id="node5" href="$classTBufferSQL.html" title="Implement TBuffer for a SQL backend. " alt="" coords="5,304,100,331"/>
+<area shape="rect" id="node6" href="$classTMessage.html" title="TMessage" alt="" coords="124,304,211,331"/>
+<area shape="rect" id="node8" href="$classTBufferJSON.html" title=" Class for serializing object to and from JavaScript Object Notation (JSON) format. " alt="" coords="235,304,337,331"/>
+<area shape="rect" id="node9" href="$classTBufferSQL2.html" title=" Converts data to SQL statements or read data from SQL tables. " alt="" coords="361,304,464,331"/>
+<area shape="rect" id="node10" href="$classTBufferXML.html" title=" Class for serializing/deserializing object to/from xml. " alt="" coords="489,304,585,331"/>
+</map>

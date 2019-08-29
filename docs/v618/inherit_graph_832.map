@@ -1,0 +1,10 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROOT_1_1Math_1_1VirtualIntegrator.html" title="Abstract class for all numerical integration methods (1D and multi&#45;dim) Interface defining the common..." alt="" coords="5,101,219,127"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Math_1_1VirtualIntegratorMultiDim.html" title="Interface (abstract) class for multi numerical integration It must be implemented by the concrete Int..." alt="" coords="267,60,480,101"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Math_1_1VirtualIntegratorOneDim.html" title="Interface (abstract) class for 1D numerical integration It must be implemented by the concrate Integr..." alt="" coords="267,125,480,167"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Math_1_1AdaptiveIntegratorMultiDim.html" title="Class for adaptive quadrature integration in multi&#45;dimensions using rectangular regions. " alt="" coords="528,5,756,47"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Math_1_1GSLMCIntegrator.html" title="ROOT::Math::GSLMCIntegrator" alt="" coords="535,71,749,98"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Math_1_1GaussIntegrator.html" title="User class for performing function integration. " alt="" coords="537,129,747,155"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Math_1_1GSLIntegrator.html" title="Class for performing numerical integration of a function in one dimension. " alt="" coords="545,179,739,206"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Math_1_1GaussLegendreIntegrator.html" title="User class for performing function integration. " alt="" coords="804,121,1011,163"/>
+</map>

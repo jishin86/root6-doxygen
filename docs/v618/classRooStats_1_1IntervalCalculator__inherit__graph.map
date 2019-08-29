@@ -1,0 +1,10 @@
+<map id="RooStats::IntervalCalculator" name="RooStats::IntervalCalculator">
+<area shape="rect" id="node2" href="$classRooStats_1_1BayesianCalculator.html" title="BayesianCalculator is a concrete implementation of IntervalCalculator, providing the computation of a..." alt="" coords="261,5,475,32"/>
+<area shape="rect" id="node3" href="$classRooStats_1_1CombinedCalculator.html" title="CombinedCalculator is an interface class for a tools which can produce both RooStats HypoTestResults ..." alt="" coords="259,56,477,83"/>
+<area shape="rect" id="node5" href="$classRooStats_1_1FeldmanCousins.html" title="The FeldmanCousins class (like the Feldman&#45;Cousins technique) is essentially a specific configuration..." alt="" coords="271,107,465,133"/>
+<area shape="rect" id="node6" href="$classRooStats_1_1HypoTestInverter.html" title="HypoTestInverter class for performing an hypothesis test inversion by scanning the hypothesis test re..." alt="" coords="269,157,467,184"/>
+<area shape="rect" id="node7" href="$classRooStats_1_1HypoTestInverterOriginal.html" title="This class is now deprecated and to be replaced by the HypoTestInverter. " alt="" coords="269,209,467,250"/>
+<area shape="rect" id="node8" href="$classRooStats_1_1MCMCCalculator.html" title="Bayesian Calculator estimating an interval or a credible region using the Markov&#45;Chain Monte Carlo me..." alt="" coords="271,275,465,301"/>
+<area shape="rect" id="node9" href="$classRooStats_1_1NeymanConstruction.html" title="NeymanConstruction is a concrete implementation of the NeymanConstruction interface that..." alt="" coords="256,325,480,352"/>
+<area shape="rect" id="node4" href="$classRooStats_1_1ProfileLikelihoodCalculator.html" title="The ProfileLikelihoodCalculator is a concrete implementation of CombinedCalculator (the interface cla..." alt="" coords="528,49,723,90"/>
+</map>

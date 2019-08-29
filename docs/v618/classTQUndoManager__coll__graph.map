@@ -1,0 +1,24 @@
+<map id="TQUndoManager" name="TQUndoManager">
+<area shape="rect" id="node2" href="$classTQCommand.html" title="The Command design pattern is based on the idea, that all editing in an application is done by creati..." alt="" coords="2727,553,2833,580"/>
+<area shape="rect" id="node3" href="$classTList.html" title="A doubly linked list. " alt="" coords="1185,500,1238,527"/>
+<area shape="rect" id="node14" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="2356,551,2439,577"/>
+<area shape="rect" id="node16" href="$classTVirtualQConnection.html" title="Mediates the link between the signal and the slot. " alt="" coords="1524,500,1680,527"/>
+<area shape="rect" id="node19" href="$classTFunction.html" title="Global functions class (global functions are obtained from CINT). " alt="" coords="2167,348,2251,375"/>
+<area shape="rect" id="node23" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1403,399,1500,425"/>
+<area shape="rect" id="node4" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="917,453,1035,480"/>
+<area shape="rect" id="node5" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="733,437,828,464"/>
+<area shape="rect" id="node6" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,425,329,452"/>
+<area shape="rect" id="node7" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,476,548,503"/>
+<area shape="rect" id="node17" title="Slightly modified TMethodCall class used in the object communication mechanism. " alt="" coords="2365,297,2430,324"/>
+<area shape="rect" id="node21" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="742,297,819,324"/>
+<area shape="rect" id="node22" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="1704,348,1844,375"/>
+<area shape="rect" id="node24" href="$classTObjLink.html" title="Wrapper around a TObject so it can be stored in a TList. " alt="" coords="1172,619,1251,645"/>
+<area shape="rect" id="node8" href="$classTString.html" title="Basic string class. " alt="" coords="461,152,529,179"/>
+<area shape="rect" id="node15" href="$classTQConnection.html" title="TQConnection class is an internal class, used in the object communication mechanism. " alt="" coords="2521,484,2635,511"/>
+<area shape="rect" id="node9" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,152,349,179"/>
+<area shape="rect" id="node10" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,101,144,128"/>
+<area shape="rect" id="node11" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,152,143,179"/>
+<area shape="rect" id="node12" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,203,145,229"/>
+<area shape="rect" id="node18" href="$classTRefCnt.html" title="Definitions for TRefCnt, base class for reference counted objects. " alt="" coords="2172,297,2245,324"/>
+<area shape="rect" id="node20" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2020,348,2117,375"/>
+</map>

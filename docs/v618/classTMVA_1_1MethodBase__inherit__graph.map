@@ -1,0 +1,40 @@
+<map id="TMVA::MethodBase" name="TMVA::MethodBase">
+<area shape="rect" id="node6" href="$classTMVA_1_1MethodANNBase.html" title="Base class for all TMVA methods using artificial neural networks. " alt="" coords="662,5,837,32"/>
+<area shape="rect" id="node8" href="$classTMVA_1_1MethodBayesClassifier.html" title="Description of bayesian classifiers. " alt="" coords="642,56,857,83"/>
+<area shape="rect" id="node9" href="$classTMVA_1_1MethodBDT.html" title="Analysis of Boosted Decision Trees. " alt="" coords="679,107,820,133"/>
+<area shape="rect" id="node10" href="$classTMVA_1_1MethodCFMlpANN.html" title="Interface to Clermond&#45;Ferrand artificial neural network. " alt="" coords="658,157,841,184"/>
+<area shape="rect" id="node11" href="$classTMVA_1_1MethodCompositeBase.html" title="Virtual base class for combining several TMVA method. " alt="" coords="641,208,857,235"/>
+<area shape="rect" id="node14" href="$classTMVA_1_1MethodCrossValidation.html" title="TMVA::MethodCrossValidation" alt="" coords="642,259,857,285"/>
+<area shape="rect" id="node15" href="$classTMVA_1_1MethodCuts.html" title="Multivariate optimisation of signal efficiency for given background efficiency, applying rectangular ..." alt="" coords="678,309,821,336"/>
+<area shape="rect" id="node16" href="$classTMVA_1_1MethodDL.html" title="TMVA::MethodDL" alt="" coords="684,360,815,387"/>
+<area shape="rect" id="node17" href="$classTMVA_1_1MethodDNN.html" title="Deep Neural Network Implementation. " alt="" coords="677,411,821,437"/>
+<area shape="rect" id="node18" href="$classTMVA_1_1MethodDT.html" title="Analysis of Boosted Decision Trees. " alt="" coords="683,461,815,488"/>
+<area shape="rect" id="node19" href="$classTMVA_1_1MethodFDA.html" title="Function discriminant analysis (FDA). " alt="" coords="679,512,819,539"/>
+<area shape="rect" id="node20" href="$classTMVA_1_1MethodFisher.html" title="Fisher and Mahalanobis Discriminants (Linear Discriminant Analysis) " alt="" coords="673,563,825,589"/>
+<area shape="rect" id="node21" href="$classTMVA_1_1MethodHMatrix.html" title="H&#45;Matrix method, which is implemented as a simple comparison of chi&#45;squared estimators for signal and..." alt="" coords="667,613,832,640"/>
+<area shape="rect" id="node22" href="$classTMVA_1_1MethodKNN.html" title="Analysis of k&#45;nearest neighbor. " alt="" coords="678,664,821,691"/>
+<area shape="rect" id="node23" href="$classTMVA_1_1MethodLD.html" title="Linear Discriminant. " alt="" coords="684,715,815,741"/>
+<area shape="rect" id="node24" href="$classTMVA_1_1MethodLikelihood.html" title="Likelihood analysis (&quot;non&#45;parametric approach&quot;) " alt="" coords="659,765,840,792"/>
+<area shape="rect" id="node25" href="$classTMVA_1_1MethodPDEFoam.html" title="The PDEFoam method is an extension of the PDERS method, which divides the multi&#45;dimensional phase spa..." alt="" coords="661,816,837,843"/>
+<area shape="rect" id="node26" href="$classTMVA_1_1MethodPDERS.html" title="This is a generalization of the above Likelihood methods to &#160;dimensions, where &#160;is the number of inpu..." alt="" coords="671,867,828,893"/>
+<area shape="rect" id="node27" href="$classTMVA_1_1MethodRuleFit.html" title="J Friedman&#39;s RuleFit method. " alt="" coords="671,917,828,944"/>
+<area shape="rect" id="node28" href="$classTMVA_1_1MethodSVM.html" title="SMO Platt&#39;s SVM classifier with Keerthi &amp; Shavade improvements. " alt="" coords="678,968,821,995"/>
+<area shape="rect" id="node29" href="$classTMVA_1_1MethodTMlpANN.html" title="This is the TMVA TMultiLayerPerceptron interface class. " alt="" coords="662,1019,837,1045"/>
+<area shape="rect" id="node30" href="$classTMVA_1_1PyMethodBase.html" title="TMVA::PyMethodBase" alt="" coords="668,1069,831,1096"/>
+<area shape="rect" id="node35" href="$classTMVA_1_1RMethodBase.html" title="TMVA::RMethodBase" alt="" coords="672,1221,827,1248"/>
+<area shape="rect" id="node2" href="$classTMVA_1_1IMethod.html" title="Interface for all concrete MVA method implementations. " alt="" coords="265,537,384,564"/>
+<area shape="rect" id="node3" href="$classTMVA_1_1Configurable.html" title="TMVA::Configurable" alt="" coords="251,588,399,615"/>
+<area shape="rect" id="node4" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="125,588,203,615"/>
+<area shape="rect" id="node5" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="5,588,77,615"/>
+<area shape="rect" id="node7" href="$classTMVA_1_1MethodMLP.html" title="Multilayer Perceptron class built off of MethodANNBase. " alt="" coords="947,5,1087,32"/>
+<area shape="rect" id="node12" href="$classTMVA_1_1MethodBoost.html" title="Class for boosting a TMVA method. " alt="" coords="942,183,1093,209"/>
+<area shape="rect" id="node13" href="$classTMVA_1_1MethodCategory.html" title="Class for categorizing the phase space. " alt="" coords="931,233,1104,260"/>
+<area shape="rect" id="node31" href="$classTMVA_1_1MethodPyAdaBoost.html" title="TMVA::MethodPyAdaBoost" alt="" coords="921,968,1113,995"/>
+<area shape="rect" id="node32" href="$classTMVA_1_1MethodPyGTB.html" title="TMVA::MethodPyGTB" alt="" coords="939,1019,1096,1045"/>
+<area shape="rect" id="node33" href="$classTMVA_1_1MethodPyKeras.html" title="TMVA::MethodPyKeras" alt="" coords="934,1069,1101,1096"/>
+<area shape="rect" id="node34" href="$classTMVA_1_1MethodPyRandomForest.html" title="TMVA::MethodPyRandomForest" alt="" coords="905,1120,1129,1147"/>
+<area shape="rect" id="node36" href="$classTMVA_1_1MethodC50.html" title="TMVA::MethodC50" alt="" coords="948,1171,1087,1197"/>
+<area shape="rect" id="node37" href="$classTMVA_1_1MethodRSNNS.html" title="TMVA::MethodRSNNS" alt="" coords="938,1221,1097,1248"/>
+<area shape="rect" id="node38" href="$classTMVA_1_1MethodRSVM.html" title="TMVA::MethodRSVM" alt="" coords="942,1272,1093,1299"/>
+<area shape="rect" id="node39" href="$classTMVA_1_1MethodRXGB.html" title="TMVA::MethodRXGB" alt="" coords="942,1323,1093,1349"/>
+</map>

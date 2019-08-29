@@ -1,0 +1,12 @@
+<map id="ROOT::Minuit2::InitialGradientCalculator" name="ROOT::Minuit2::InitialGradientCalculator">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1GradientCalculator.html" title="interface class for gradient calculators " alt="" coords="695,5,939,32"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnStrategy.html" title="API class for defining three levels of strategies: low (0), medium (1), high (&gt;=2); acts on: Migrad (..." alt="" coords="719,56,915,83"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1MnFcn.html" title="Wrapper class to FCNBase interface used internally by Minuit. " alt="" coords="736,107,899,133"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1FCNBase.html" title="Interface (abstract class) defining the function to be minimized, which has to be implemented by the ..." alt="" coords="312,13,492,40"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1GenericFunction.html" title="Class from which all the other classes, representing functions, inherit. " alt="" coords="5,13,232,40"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="683,236,952,263"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="281,65,523,106"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="285,130,519,171"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="305,195,499,237"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="297,261,507,302"/>
+</map>

@@ -1,0 +1,121 @@
+<?xml version="1.0"?>
+<MethodSetup Method="Category::FisherCat">
+  <GeneralInfo>
+    <Info name="TMVA Release" value="4.2.1 [262657]"/>
+    <Info name="ROOT Release" value="6.18/03 [397827]"/>
+    <Info name="Creator" value="sftnight"/>
+    <Info name="Date" value="Thu Aug 29 03:46:12 2019"/>
+    <Info name="Host" value="Linux root-fedora29-2.cern.ch 5.1.6-200.fc29.x86_64 #1 SMP Mon Jun 3 17:20:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux"/>
+    <Info name="Dir" value="/mnt/build/workspace/root-makedoc-v618/rootspi/rdoc/v618_TMP/notebooks"/>
+    <Info name="Training events" value="10000"/>
+    <Info name="TrainingTime" value="4.35619354e-02"/>
+    <Info name="AnalysisType" value="Classification"/>
+  </GeneralInfo>
+  <Options>
+    <Option name="V" modified="No">False</Option>
+    <Option name="VerbosityLevel" modified="No">Default</Option>
+    <Option name="VarTransform" modified="No">None</Option>
+    <Option name="H" modified="No">False</Option>
+    <Option name="CreateMVAPdfs" modified="No">False</Option>
+    <Option name="IgnoreNegWeightsInTraining" modified="No">False</Option>
+  </Options>
+  <Variables NVar="4">
+    <Variable VarIndex="0" Expression="var1" Label="var1" Title="var1" Unit="" Internal="var1" Type="F" Min="-4.16552305e+00" Max="4.20716429e+00"/>
+    <Variable VarIndex="1" Expression="var2" Label="var2" Title="var2" Unit="" Internal="var2" Type="F" Min="-4.22068262e+00" Max="4.51537323e+00"/>
+    <Variable VarIndex="2" Expression="var3" Label="var3" Title="var3" Unit="" Internal="var3" Type="F" Min="-4.52968788e+00" Max="4.82019377e+00"/>
+    <Variable VarIndex="3" Expression="var4" Label="var4" Title="var4" Unit="" Internal="var4" Type="F" Min="-4.64965725e+00" Max="5.14146757e+00"/>
+  </Variables>
+  <Spectators NSpec="1">
+    <Spectator SpecIndex="0" Expression="eta" Label="eta" Title="eta" Unit="" Internal="eta" Type="F" Min="-2.49952102e+00" Max="2.49992323e+00"/>
+  </Spectators>
+  <Classes NClass="2">
+    <Class Name="Signal" Index="0"/>
+    <Class Name="Background" Index="1"/>
+  </Classes>
+  <Transformations NTransformations="0"/>
+  <MVAPdfs/>
+  <Weights NSubMethods="2">
+    <SubMethod Index="0" Method="Fisher::Category_Fisher_1" Cut="abs(eta)&lt;=1.3" Variables="var1:var2:var3:var4">
+      <GeneralInfo>
+        <Info name="TMVA Release" value="4.2.1 [262657]"/>
+        <Info name="ROOT Release" value="6.18/03 [397827]"/>
+        <Info name="Creator" value="sftnight"/>
+        <Info name="Date" value="Thu Aug 29 03:46:12 2019"/>
+        <Info name="Host" value="Linux root-fedora29-2.cern.ch 5.1.6-200.fc29.x86_64 #1 SMP Mon Jun 3 17:20:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux"/>
+        <Info name="Dir" value="/mnt/build/workspace/root-makedoc-v618/rootspi/rdoc/v618_TMP/notebooks"/>
+        <Info name="Training events" value="5128"/>
+        <Info name="TrainingTime" value="1.66797638e-03"/>
+        <Info name="AnalysisType" value="Classification"/>
+      </GeneralInfo>
+      <Options>
+        <Option name="V" modified="Yes">False</Option>
+        <Option name="VerbosityLevel" modified="No">Default</Option>
+        <Option name="VarTransform" modified="No">None</Option>
+        <Option name="H" modified="Yes">False</Option>
+        <Option name="CreateMVAPdfs" modified="No">False</Option>
+        <Option name="IgnoreNegWeightsInTraining" modified="No">False</Option>
+        <Option name="Method" modified="Yes">Fisher</Option>
+      </Options>
+      <Variables NVar="4">
+        <Variable VarIndex="0" Expression="var1" Label="var1" Title="var1" Unit="" Internal="var1" Type="F" Min="-4.29009962e+00" Max="2.73605919e+00"/>
+        <Variable VarIndex="1" Expression="var2" Label="var2" Title="var2" Unit="" Internal="var2" Type="F" Min="-4.75368166e+00" Max="3.00996470e+00"/>
+        <Variable VarIndex="2" Expression="var3" Label="var3" Title="var3" Unit="" Internal="var3" Type="F" Min="-5.28915071e+00" Max="3.57000399e+00"/>
+        <Variable VarIndex="3" Expression="var4" Label="var4" Title="var4" Unit="" Internal="var4" Type="F" Min="-4.66884232e+00" Max="3.96445107e+00"/>
+      </Variables>
+      <Classes NClass="2">
+        <Class Name="Signal" Index="0"/>
+        <Class Name="Background" Index="1"/>
+      </Classes>
+      <Transformations NTransformations="0"/>
+      <MVAPdfs/>
+      <Weights NCoeff="5">
+        <Coefficient Index="0" Value="6.4767910531417205e-01"/>
+        <Coefficient Index="1" Value="1.0468727486754269e-01"/>
+        <Coefficient Index="2" Value="1.5214438443999312e-01"/>
+        <Coefficient Index="3" Value="2.4684335410768946e-01"/>
+        <Coefficient Index="4" Value="3.7543280658053241e-01"/>
+      </Weights>
+    </SubMethod>
+    <SubMethod Index="1" Method="Fisher::Category_Fisher_2" Cut="abs(eta)&gt;1.3" Variables="var1:var2:var3:var4">
+      <GeneralInfo>
+        <Info name="TMVA Release" value="4.2.1 [262657]"/>
+        <Info name="ROOT Release" value="6.18/03 [397827]"/>
+        <Info name="Creator" value="sftnight"/>
+        <Info name="Date" value="Thu Aug 29 03:46:12 2019"/>
+        <Info name="Host" value="Linux root-fedora29-2.cern.ch 5.1.6-200.fc29.x86_64 #1 SMP Mon Jun 3 17:20:05 UTC 2019 x86_64 x86_64 x86_64 GNU/Linux"/>
+        <Info name="Dir" value="/mnt/build/workspace/root-makedoc-v618/rootspi/rdoc/v618_TMP/notebooks"/>
+        <Info name="Training events" value="4871"/>
+        <Info name="TrainingTime" value="1.45101547e-03"/>
+        <Info name="AnalysisType" value="Classification"/>
+      </GeneralInfo>
+      <Options>
+        <Option name="V" modified="Yes">False</Option>
+        <Option name="VerbosityLevel" modified="No">Default</Option>
+        <Option name="VarTransform" modified="No">None</Option>
+        <Option name="H" modified="Yes">False</Option>
+        <Option name="CreateMVAPdfs" modified="No">False</Option>
+        <Option name="IgnoreNegWeightsInTraining" modified="No">False</Option>
+        <Option name="Method" modified="Yes">Fisher</Option>
+      </Options>
+      <Variables NVar="4">
+        <Variable VarIndex="0" Expression="var1" Label="var1" Title="var1" Unit="" Internal="var1" Type="F" Min="-2.46209240e+00" Max="4.56086302e+00"/>
+        <Variable VarIndex="1" Expression="var2" Label="var2" Title="var2" Unit="" Internal="var2" Type="F" Min="-3.07094312e+00" Max="4.67226028e+00"/>
+        <Variable VarIndex="2" Expression="var3" Label="var3" Title="var3" Unit="" Internal="var3" Type="F" Min="-2.65145278e+00" Max="4.74734545e+00"/>
+        <Variable VarIndex="3" Expression="var4" Label="var4" Title="var4" Unit="" Internal="var4" Type="F" Min="-2.66141653e+00" Max="5.14146757e+00"/>
+      </Variables>
+      <Classes NClass="2">
+        <Class Name="Signal" Index="0"/>
+        <Class Name="Background" Index="1"/>
+      </Classes>
+      <Transformations NTransformations="0"/>
+      <MVAPdfs/>
+      <Weights NCoeff="5">
+        <Coefficient Index="0" Value="-7.5100540805066618e-01"/>
+        <Coefficient Index="1" Value="1.0738976745672958e-01"/>
+        <Coefficient Index="2" Value="1.4763967609882531e-01"/>
+        <Coefficient Index="3" Value="2.5104288760417431e-01"/>
+        <Coefficient Index="4" Value="3.7172535675701385e-01"/>
+      </Weights>
+    </SubMethod>
+  </Weights>
+</MethodSetup>

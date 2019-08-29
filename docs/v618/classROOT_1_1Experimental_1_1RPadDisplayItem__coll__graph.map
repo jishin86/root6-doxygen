@@ -1,0 +1,24 @@
+<map id="ROOT::Experimental::RPadDisplayItem" name="ROOT::Experimental::RPadDisplayItem">
+<area shape="rect" id="node2" href="$classROOT_1_1Experimental_1_1RDisplayItem.html" title="Base class for painting data for JS. " alt="" coords="873,541,1027,582"/>
+<area shape="rect" id="node3" title="STL class. " alt="" coords="398,488,485,515"/>
+<area shape="rect" id="node29" href="$structROOT_1_1Experimental_1_1RDrawingAttrBase_1_1Path.html" title="Combination of names, e.g. &quot;hist2d.box.line.width&quot;. " alt="" coords="651,422,836,463"/>
+<area shape="rect" id="node6" href="$structROOT_1_1Experimental_1_1RPadExtent.html" title="An extent / size (horizontal and vertical) in a RPad. " alt="" coords="1408,731,1561,773"/>
+<area shape="rect" id="node7" href="$structROOT_1_1Experimental_1_1Internal_1_1RPadHorizVert.html" title="A 2D (horizontal and vertical) combination of RPadLengths. " alt="" coords="1057,666,1237,707"/>
+<area shape="rect" id="node16" href="$structROOT_1_1Experimental_1_1RPadPos.html" title="A position (horizontal and vertical) in a RPad. " alt="" coords="1408,666,1561,707"/>
+<area shape="rect" id="node8" href="$classROOT_1_1Experimental_1_1RPadLength.html" title="A coordinate in a RPad. " alt="" coords="667,666,820,707"/>
+<area shape="rect" id="node9" href="$structROOT_1_1Experimental_1_1RPadLength_1_1Pixel.html" title="A pixel coordinate: 0 in the left, bottom corner, 1 in the top, right corner of the RPad..." alt="" coords="365,589,518,630"/>
+<area shape="rect" id="node10" href="$structROOT_1_1Experimental_1_1RPadLength_1_1CoordSysBase.html" title="ROOT::Experimental\l::RPadLength::CoordSysBase\l\&lt; Pixel \&gt;" alt="" coords="5,579,212,635"/>
+<area shape="rect" id="node11" href="$structROOT_1_1Experimental_1_1RPadLength_1_1Normal.html" title="A normalized coordinate: 0 in the left, bottom corner, 1 in the top, right corner of the RPad..." alt="" coords="360,666,523,707"/>
+<area shape="rect" id="node12" href="$structROOT_1_1Experimental_1_1RPadLength_1_1CoordSysBase.html" title="ROOT::Experimental\l::RPadLength::CoordSysBase\l\&lt; Normal \&gt;" alt="" coords="5,659,212,715"/>
+<area shape="rect" id="node13" href="$structROOT_1_1Experimental_1_1RPadLength_1_1User.html" title="A user coordinate, as defined by the EUserCoordSystem parameter of the RPad. " alt="" coords="365,738,518,779"/>
+<area shape="rect" id="node14" href="$structROOT_1_1Experimental_1_1RPadLength_1_1CoordSysBase.html" title="ROOT::Experimental\l::RPadLength::CoordSysBase\l\&lt; User \&gt;" alt="" coords="5,739,212,795"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Experimental_1_1RFrame.html" title="Holds a user coordinate system with a palette. " alt="" coords="1408,146,1561,187"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Experimental_1_1RPalette.html" title="A set of colors. " alt="" coords="1071,49,1224,90"/>
+<area shape="rect" id="node20" href="$structROOT_1_1Experimental_1_1RPalette_1_1Discrete__t.html" title="Tag type used to signal that the palette&#39;s colors should not be interpolated. " alt="" coords="664,86,823,127"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Experimental_1_1RFrame_1_1DrawingOpts.html" title="ROOT::Experimental\l::RFrame::DrawingOpts" alt="" coords="1062,195,1233,237"/>
+<area shape="rect" id="node22" href="$classROOT_1_1Experimental_1_1RDrawingOptsBase.html" title="ROOT::Experimental\l::RDrawingOptsBase" alt="" coords="666,195,821,237"/>
+<area shape="rect" id="node27" href="$classROOT_1_1Experimental_1_1RPad_1_1DrawingOpts.html" title="Drawing options for a RPad. " alt="" coords="1407,349,1562,390"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Experimental_1_1RDrawingAttrHolder.html" title="A container of (stringified) attributes for which values have been provided. " alt="" coords="361,195,521,237"/>
+<area shape="rect" id="node28" href="$classROOT_1_1Experimental_1_1RDrawingAttrBase.html" title="A collection of graphics attributes, for instance everything describing a line: color, width, opacity and style. " alt="" coords="1071,349,1224,390"/>
+<area shape="rect" id="node31" href="$structROOT_1_1Experimental_1_1RDrawingAttrBase_1_1FromOption__t.html" title="Tag type to disambiguate construction from options. " alt="" coords="665,341,822,397"/>
+</map>

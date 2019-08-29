@@ -1,0 +1,9 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$classROOT_1_1Minuit2_1_1FunctionMinimizer.html" title="base class for function minimizers; user may give FCN or FCN with Gradient, Parameter starting values..." alt="" coords="5,107,245,133"/>
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1ModularFunctionMinimizer.html" title="Base common class providing the API for all the minimizer Various Minimize methods are provided varyi..." alt="" coords="293,99,521,141"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1CombinedMinimizer.html" title="Combined minimizer: combination of Migrad and Simplex. " alt="" coords="569,5,821,32"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1FumiliMinimizer.html" title="Instantiates the seed generator and Minimum builder for the Fumili minimization method. " alt="" coords="583,56,808,83"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1ScanMinimizer.html" title="Class implementing the required methods for a minimization using SCAN API is provided in the upper RO..." alt="" coords="587,107,804,133"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1SimplexMinimizer.html" title="Class implementing the required methods for a minimization using Simplex. " alt="" coords="576,157,815,184"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1VariableMetricMinimizer.html" title="Instantiates the SeedGenerator and MinimumBuilder for Variable Metric Minimization method..." alt="" coords="588,209,803,250"/>
+</map>

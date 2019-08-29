@@ -1,0 +1,49 @@
+<map id="TGraphTime" name="TGraphTime">
+<area shape="rect" id="node2" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="1423,276,1500,303"/>
+<area shape="rect" id="node13" href="$classTH1.html" title="The TH1 histogram class. " alt="" coords="3578,288,3626,315"/>
+<area shape="rect" id="node17" href="$classTDirectory.html" title="Describe directory structure in memory. " alt="" coords="1762,1317,1853,1344"/>
+<area shape="rect" id="node26" href="$classTDictionary.html" title="This class defines an abstract interface that must be implemented by all classes that contain diction..." alt="" coords="2517,1085,2615,1112"/>
+<area shape="rect" id="node53" href="$classTAxis.html" title="Class to manage histogram axis. " alt="" coords="2537,331,2595,357"/>
+<area shape="rect" id="node3" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="311,1408,383,1435"/>
+<area shape="rect" id="node9" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="2523,1756,2609,1783"/>
+<area shape="rect" id="node11" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="881,1441,976,1468"/>
+<area shape="rect" id="node12" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="589,1413,696,1440"/>
+<area shape="rect" id="node24" href="$classTVirtualHistPainter.html" title="Abstract interface to a histogram painter. " alt="" coords="3191,465,3335,492"/>
+<area shape="rect" id="node27" href="$classTDictAttributeMap.html" title="The ROOT object has a list of properties which are stored and retrieved using TDictAttributeMap. " alt="" coords="2099,1069,2239,1096"/>
+<area shape="rect" id="node32" href="$classTBuffer.html" title="Buffer base class used for serializing objects. " alt="" coords="608,1723,677,1749"/>
+<area shape="rect" id="node40" href="$classTExMap.html" title="This class stores a (key,value) pair using an external hash. " alt="" coords="2927,768,3000,795"/>
+<area shape="rect" id="node42" href="$classROOT_1_1Detail_1_1TSchemaRuleSet.html" title="ROOT::Detail::TSchemaRuleSet" alt="" coords="3491,1513,3713,1540"/>
+<area shape="rect" id="node47" href="$classTFileMergeInfo.html" title="TFileMergeInfo" alt="" coords="2110,1553,2227,1580"/>
+<area shape="rect" id="node4" href="$classTString.html" title="Basic string class. " alt="" coords="609,580,677,607"/>
+<area shape="rect" id="node25" href="$classTClass.html" title="TClass" alt="" coords="2931,1313,2995,1340"/>
+<area shape="rect" id="node5" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="291,361,403,388"/>
+<area shape="rect" id="node6" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,311,144,337"/>
+<area shape="rect" id="node7" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,361,143,388"/>
+<area shape="rect" id="node8" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,412,145,439"/>
+<area shape="rect" id="node10" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1118,1492,1237,1519"/>
+<area shape="rect" id="node20" href="$classTList.html" title="A doubly linked list. " alt="" coords="1435,987,1488,1013"/>
+<area shape="rect" id="node28" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1759,897,1856,924"/>
+<area shape="rect" id="node14" href="$classTAttLine.html" title="Line Attributes class. " alt="" coords="3225,212,3300,239"/>
+<area shape="rect" id="node15" href="$classTAttFill.html" title="Fill Area Attributes class. " alt="" coords="3229,263,3296,289"/>
+<area shape="rect" id="node16" href="$classTAttMarker.html" title="Marker Attributes class. " alt="" coords="3216,313,3309,340"/>
+<area shape="rect" id="node18" href="$classTDirectory_1_1TContext.html" title="TDirectory::TContext" alt="" coords="1384,1284,1539,1311"/>
+<area shape="rect" id="node19" href="$classTUUID.html" title="This class defines a UUID (Universally Unique IDentifier), also known as GUIDs (Globally Unique IDent..." alt="" coords="1429,1335,1493,1361"/>
+<area shape="rect" id="node29" href="$classTViewPubFunctions.html" title="View implementing the TList interface and giving access all the TFunction describing public methods i..." alt="" coords="1734,1216,1881,1243"/>
+<area shape="rect" id="node39" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="2125,816,2212,843"/>
+<area shape="rect" id="node46" href="$classTViewPubDataMembers.html" title="View implementing the TList interface and giving access all the TDictionary describing public data me..." alt="" coords="1719,987,1896,1013"/>
+<area shape="rect" id="node22" href="$classTArrayD.html" title="Array of doubles (64 bits per element). " alt="" coords="2131,209,2206,236"/>
+<area shape="rect" id="node23" href="$classTArray.html" title="Abstract array base class. " alt="" coords="1775,209,1839,236"/>
+<area shape="rect" id="node38" href="$classTListOfFunctionTemplates.html" title="A collection of TFunction objects designed for fast access given a DeclId_t and for keep track of TFu..." alt="" coords="3168,788,3357,815"/>
+<area shape="rect" id="node43" href="$classTClassRef.html" title="TClassRef is used to implement a permanent reference to a TClass object. " alt="" coords="3220,1692,3305,1719"/>
+<area shape="rect" id="node51" href="$classTListOfDataMembers.html" title="A collection of TDataMember objects designed for fast access given a DeclId_t and for keep track of T..." alt="" coords="3183,921,3342,948"/>
+<area shape="rect" id="node30" href="$classTClass_1_1TDeclNameRegistry.html" title="TClass::TDeclNameRegistry" alt="" coords="2465,1187,2667,1213"/>
+<area shape="rect" id="node52" href="$classTClassStreamer.html" title="TClassStreamer" alt="" coords="3540,1749,3664,1776"/>
+<area shape="rect" id="node34" href="$classTVirtualIsAProxy.html" title="TVirtualIsAProxy" alt="" coords="2501,1389,2631,1416"/>
+<area shape="rect" id="node35" href="$classTMemberInspector.html" title="Abstract base class for accessing the data&#45;members of a class. " alt="" coords="2495,1136,2637,1163"/>
+<area shape="rect" id="node41" href="$structTExMap_1_1Assoc__t.html" title="TExMap::Assoc_t" alt="" coords="2501,769,2631,796"/>
+<area shape="rect" id="node49" href="$classTVirtualCollectionProxy.html" title="TVirtualCollectionProxy" alt="" coords="3515,1643,3689,1669"/>
+<area shape="rect" id="node44" title="STL class. " alt="" coords="2920,1807,3007,1833"/>
+<area shape="rect" id="node48" href="$classROOT_1_1TIOFeatures.html" title="TIOFeatures provides the end&#45;user with the ability to change the IO behavior of data written via a TT..." alt="" coords="1736,1553,1879,1580"/>
+<area shape="rect" id="node50" href="$classTVirtualRefProxy.html" title="TVirtualRefProxy" alt="" coords="2501,1541,2631,1568"/>
+<area shape="rect" id="node54" href="$classTAttAxis.html" title="Manages histogram axis attributes. " alt="" coords="2131,311,2207,337"/>
+</map>

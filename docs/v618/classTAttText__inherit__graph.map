@@ -1,0 +1,39 @@
+<map id="TAttText" name="TAttText">
+<area shape="rect" id="node2" href="$classTAxisModLab.html" title="TAxis helper class used to store the modified labels. " alt="" coords="143,5,249,32"/>
+<area shape="rect" id="node3" href="$classTButton.html" title="A TButton object is a user interface object. " alt="" coords="159,56,233,83"/>
+<area shape="rect" id="node5" href="$classTDialogCanvas.html" title="A canvas specialized to set attributes. " alt="" coords="136,107,256,133"/>
+<area shape="rect" id="node6" href="$classTGaxis.html" title="The axis painter class. " alt="" coords="163,157,229,184"/>
+<area shape="rect" id="node7" href="$classTGLAxis.html" title="GL Axis. " alt="" coords="159,208,233,235"/>
+<area shape="rect" id="node8" href="$classTGLText.html" title="GL Text. " alt="" coords="160,259,232,285"/>
+<area shape="rect" id="node9" href="$classTGraphNode.html" title="A graph node object which can be added in a TGraphStruct. " alt="" coords="145,309,247,336"/>
+<area shape="rect" id="node10" href="$classTGraphPolargram.html" title="To draw polar axis. " alt="" coords="128,360,264,387"/>
+<area shape="rect" id="node11" href="$classTInspectCanvas.html" title="A TInspectCanvas is a canvas specialized to inspect Root objects. " alt="" coords="133,411,259,437"/>
+<area shape="rect" id="node12" href="$classTLegend.html" title="This class displays a legend box (TPaveText) containing several legend entries. " alt="" coords="157,461,235,488"/>
+<area shape="rect" id="node13" href="$classTLegendEntry.html" title="Storage class for one entry of a TLegend. " alt="" coords="141,512,251,539"/>
+<area shape="rect" id="node14" href="$classTPaveLabel.html" title="A Pave (see TPave) with a text centered in the Pave. " alt="" coords="148,563,244,589"/>
+<area shape="rect" id="node16" href="$classTPaveText.html" title="A Pave (see TPave) with text, lines or/and boxes inside. " alt="" coords="152,613,240,640"/>
+<area shape="rect" id="node20" href="$classTPie.html" title="Draw a Pie Chart,. " alt="" coords="171,664,221,691"/>
+<area shape="rect" id="node21" href="$classTStyle.html" title="TStyle objects may be created to define special styles. " alt="" coords="165,715,227,741"/>
+<area shape="rect" id="node22" href="$classTText.html" title="Base class for several text objects. " alt="" coords="167,765,225,792"/>
+<area shape="rect" id="node27" href="$classTVirtualPS.html" title="TVirtualPS is an abstract interface to Postscript, PDF, SVG. " alt="" coords="151,968,241,995"/>
+<area shape="rect" id="node33" href="$classTVirtualX.html" title="Semi&#45;Abstract base class defining a generic interface to the underlying, low level, native graphics backend (X11, Win32, MacOS, OpenGL...). " alt="" coords="155,1196,237,1223"/>
+<area shape="rect" id="node4" href="$classTGroupButton.html" title="A specialized TButton used in a group of Buttons. " alt="" coords="341,56,453,83"/>
+<area shape="rect" id="node15" href="$classTPaveClass.html" title="A TPaveLabel specialized to process classes inside a TClassTree. " alt="" coords="349,487,445,513"/>
+<area shape="rect" id="node17" href="$classTDiamond.html" title="Draw a Diamond. " alt="" coords="353,537,442,564"/>
+<area shape="rect" id="node18" href="$classTPaveStats.html" title="The histogram statistics painter class. " alt="" coords="350,588,445,615"/>
+<area shape="rect" id="node19" href="$classTPavesText.html" title="A PaveText (see TPaveText) with several stacked paves. " alt="" coords="350,639,445,665"/>
+<area shape="rect" id="node23" href="$classTLatex.html" title="To draw Mathematical Formula. " alt="" coords="364,689,431,716"/>
+<area shape="rect" id="node24" href="$classTLink.html" title="Special TText object used to show hyperlinks. " alt="" coords="369,740,426,767"/>
+<area shape="rect" id="node25" href="$classTMathText.html" title="To draw TeX Mathematical Formula. " alt="" coords="353,791,442,817"/>
+<area shape="rect" id="node28" href="$classTImageDump.html" title="Save canvas as an image (GIF, JPEG, PNG, XPM, TIFF etc.). " alt="" coords="342,892,453,919"/>
+<area shape="rect" id="node29" href="$classTPDF.html" title="Interface to PDF. " alt="" coords="370,943,425,969"/>
+<area shape="rect" id="node30" href="$classTPostScript.html" title="Interface to PostScript. " alt="" coords="350,993,445,1020"/>
+<area shape="rect" id="node31" href="$classTSVG.html" title="Interface to SVG. " alt="" coords="369,1044,426,1071"/>
+<area shape="rect" id="node32" href="$classTTeXDump.html" title="Interface to TeX. " alt="" coords="351,1095,443,1121"/>
+<area shape="rect" id="node34" href="$classTGCocoa.html" title="This class implements TVirtualX interface for MacOS X, using Cocoa and Quartz 2D. ..." alt="" coords="357,1145,437,1172"/>
+<area shape="rect" id="node36" href="$classTGWin32.html" title="This class is the basic interface to the Win32 graphics system. " alt="" coords="357,1196,438,1223"/>
+<area shape="rect" id="node37" href="$classTGWin32VirtualXProxy.html" title="TGWin32VirtualXProxy" alt="" coords="312,1247,483,1273"/>
+<area shape="rect" id="node38" href="$classTGX11.html" title="This class is the basic interface to the X11 (Xlib) graphics system. " alt="" coords="365,1297,430,1324"/>
+<area shape="rect" id="node35" href="$classTGQuartz.html" title="This is non&#45;GUI part of TVirtualX interface, implemented for MacOS X, using CoreGraphics (Quartz)..." alt="" coords="533,1145,616,1172"/>
+<area shape="rect" id="node39" href="$classTGX11TTF.html" title="Interface to low level X11 (Xlib). " alt="" coords="531,1297,619,1324"/>
+</map>

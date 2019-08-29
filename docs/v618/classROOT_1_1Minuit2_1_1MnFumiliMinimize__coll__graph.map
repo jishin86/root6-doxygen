@@ -1,0 +1,27 @@
+<map id="ROOT::Minuit2::MnFumiliMinimize" name="ROOT::Minuit2::MnFumiliMinimize">
+<area shape="rect" id="node2" href="$classROOT_1_1Minuit2_1_1MnApplication.html" title="application interface class for minimizers (migrad, simplex, Minimize, Scan) User normally instantiat..." alt="" coords="1718,311,1933,338"/>
+<area shape="rect" id="node3" href="$classROOT_1_1Minuit2_1_1MnStrategy.html" title="API class for defining three levels of strategies: low (0), medium (1), high (&gt;=2); acts on: Migrad (..." alt="" coords="1377,265,1573,291"/>
+<area shape="rect" id="node4" href="$classROOT_1_1Minuit2_1_1FCNBase.html" title="Interface (abstract class) defining the function to be minimized, which has to be implemented by the ..." alt="" coords="1385,315,1565,342"/>
+<area shape="rect" id="node18" href="$classROOT_1_1Minuit2_1_1FumiliFCNBase.html" title="Extension of the FCNBase for the Fumili method. " alt="" coords="1716,362,1935,389"/>
+<area shape="rect" id="node5" href="$classROOT_1_1Minuit2_1_1GenericFunction.html" title="Class from which all the other classes, representing functions, inherit. " alt="" coords="988,271,1215,298"/>
+<area shape="rect" id="node6" href="$classROOT_1_1Minuit2_1_1MnUserParameterState.html" title="class which holds the external user and/or internal Minuit representation of the parameters and error..." alt="" coords="1356,427,1595,468"/>
+<area shape="rect" id="node24" href="$classROOT_1_1Minuit2_1_1MnTraceObject.html" title="ROOT::Minuit2::MnTraceObject" alt="" coords="1717,523,1934,550"/>
+<area shape="rect" id="node7" href="$classROOT_1_1Minuit2_1_1MnUserCovariance.html" title="Class containing the covariance matrix data represented as a vector of size n*(n+1)/2 Used to hide in..." alt="" coords="705,394,949,421"/>
+<area shape="rect" id="node10" href="$classROOT_1_1Minuit2_1_1MnUserTransformation.html" title="class dealing with the transformation between user specified parameters (external) and internal param..." alt="" coords="407,237,676,263"/>
+<area shape="rect" id="node17" href="$classROOT_1_1Minuit2_1_1MnGlobalCorrelationCoeff.html" title="class for global correlation coefficient " alt="" coords="700,495,955,536"/>
+<area shape="rect" id="node9" href="$classROOT_1_1Minuit2_1_1MnUserParameters.html" title="API class for the user interaction with the parameters; serves as input to the minimizer as well as o..." alt="" coords="979,322,1224,349"/>
+<area shape="rect" id="node11" href="$classROOT_1_1Minuit2_1_1SqrtLowParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="5,201,247,243"/>
+<area shape="rect" id="node12" href="$classROOT_1_1Minuit2_1_1SqrtUpParameterTransformation.html" title="Transformation from external to internal Parameter based on sqrt(1 + x**2) " alt="" coords="9,267,243,308"/>
+<area shape="rect" id="node13" href="$classROOT_1_1Minuit2_1_1MnMachinePrecision.html" title="determines the relative floating point arithmetic precision. " alt="" coords="29,332,223,373"/>
+<area shape="rect" id="node14" href="$classROOT_1_1Minuit2_1_1SinParameterTransformation.html" title="class for the transformation for double&#45;limited parameter Using a sin function one goes from a double..." alt="" coords="21,5,231,47"/>
+<area shape="rect" id="node19" href="$classROOT_1_1Minuit2_1_1FumiliMinimizer.html" title="Instantiates the seed generator and Minimum builder for the Fumili minimization method. " alt="" coords="2791,473,3016,499"/>
+<area shape="rect" id="node20" href="$classROOT_1_1Minuit2_1_1ModularFunctionMinimizer.html" title="Base common class providing the API for all the minimizer Various Minimize methods are provided varyi..." alt="" coords="2419,431,2647,472"/>
+<area shape="rect" id="node21" href="$classROOT_1_1Minuit2_1_1FunctionMinimizer.html" title="base class for function minimizers; user may give FCN or FCN with Gradient, Parameter starting values..." alt="" coords="2032,413,2272,439"/>
+<area shape="rect" id="node22" href="$classROOT_1_1Minuit2_1_1FumiliBuilder.html" title="Builds the FunctionMinimum using the Fumili method. " alt="" coords="2429,509,2636,535"/>
+<area shape="rect" id="node23" href="$classROOT_1_1Minuit2_1_1MinimumBuilder.html" title="ROOT::Minuit2::MinimumBuilder" alt="" coords="2037,530,2267,557"/>
+<area shape="rect" id="node25" href="$classROOT_1_1Minuit2_1_1FumiliErrorUpdator.html" title="In the case of the Fumili algorithm the Error matrix (or the Hessian matrix containing the (approxima..." alt="" coords="2056,581,2248,623"/>
+<area shape="rect" id="node26" href="$classROOT_1_1Minuit2_1_1MinimumErrorUpdator.html" title="ROOT::Minuit2::MinimumError\lUpdator" alt="" coords="1718,581,1933,623"/>
+<area shape="rect" id="node27" href="$classROOT_1_1Minuit2_1_1VariableMetricEDMEstimator.html" title="ROOT::Minuit2::VariableMetric\lEDMEstimator" alt="" coords="2045,464,2259,505"/>
+<area shape="rect" id="node28" href="$classROOT_1_1Minuit2_1_1MnSeedGenerator.html" title="concrete implementation of the MinimumSeedGenerator interface; used within ModularFunctionMinimizer; ..." alt="" coords="2413,615,2652,642"/>
+<area shape="rect" id="node29" href="$classROOT_1_1Minuit2_1_1MinimumSeedGenerator.html" title="base class for seed generators (starting values); the seed generator prepares initial starting values..." alt="" coords="2045,647,2259,688"/>
+</map>

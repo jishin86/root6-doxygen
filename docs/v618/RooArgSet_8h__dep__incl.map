@@ -1,0 +1,201 @@
+<map id="roofit/roofitcore/inc/RooArgSet.h" name="roofit/roofitcore/inc/RooArgSet.h">
+<area shape="rect" id="node2" href="$HistFactoryModelUtils_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/HistFactoryModelUtils.h" alt="" coords="1129,511,1311,567"/>
+<area shape="rect" id="node3" href="$HistFactoryModelUtils_8cxx.html" title="roofit/histfactory\l/src/HistFactoryModelUtils.cxx" alt="" coords="1111,615,1329,656"/>
+<area shape="rect" id="node5" href="$HistoToWorkspaceFactory_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/HistoToWorkspaceFactory.h" alt="" coords="13428,303,13631,359"/>
+<area shape="rect" id="node8" href="$HistoToWorkspaceFactoryFast_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/HistoToWorkspaceFactoryFast.h" alt="" coords="11717,303,11947,359"/>
+<area shape="rect" id="node11" href="$Helper_8cxx.html" title="roofit/histfactory\l/src/Helper.cxx" alt="" coords="13959,310,14089,351"/>
+<area shape="rect" id="node12" href="$ParamHistFunc_8cxx.html" title="roofit/histfactory\l/src/ParamHistFunc.cxx" alt="" coords="1335,518,1507,559"/>
+<area shape="rect" id="node13" href="$PiecewiseInterpolation_8cxx.html" title="roofit/histfactory\l/src/PiecewiseInterpolation.cxx" alt="" coords="1633,518,1857,559"/>
+<area shape="rect" id="node14" href="$RooJeffreysPrior_8cxx.html" title="roofit/roofit/src/RooJeffreys\lPrior.cxx" alt="" coords="1260,414,1455,455"/>
+<area shape="rect" id="node15" href="$RooUnblindCPAsymVar_8cxx.html" title="roofit/roofit/src/RooUnblind\lCPAsymVar.cxx" alt="" coords="397,102,592,143"/>
+<area shape="rect" id="node16" href="$RooUnblindOffset_8cxx.html" title="roofit/roofit/src/RooUnblind\lOffset.cxx" alt="" coords="616,102,811,143"/>
+<area shape="rect" id="node17" href="$RooUnblindPrecision_8cxx.html" title="roofit/roofit/src/RooUnblind\lPrecision.cxx" alt="" coords="835,102,1029,143"/>
+<area shape="rect" id="node18" href="$RooUnblindUniform_8cxx.html" title="roofit/roofit/src/RooUnblind\lUniform.cxx" alt="" coords="1053,102,1248,143"/>
+<area shape="rect" id="node19" href="$RooUniform_8cxx.html" title="roofit/roofit/src/RooUniform.cxx" alt="" coords="398,213,623,240"/>
+<area shape="rect" id="node20" href="$RooAbsReal_8h.html" title="roofit/roofitcore/inc\l/RooAbsReal.h" alt="" coords="5087,102,5233,143"/>
+<area shape="rect" id="node42" href="$BayesianCalculator_8cxx.html" title="roofit/roostats/src\l/BayesianCalculator.cxx" alt="" coords="3001,414,3180,455"/>
+<area shape="rect" id="node55" href="$AsymptoticCalculator_8cxx.html" title="roofit/roostats/src\l/AsymptoticCalculator.cxx" alt="" coords="13961,414,14153,455"/>
+<area shape="rect" id="node59" href="$RooObjCacheManager_8h.html" title="roofit/roofitcore/inc\l/RooObjCacheManager.h" alt="" coords="328,310,507,351"/>
+<area shape="rect" id="node60" href="$RooCacheManager_8h.html" title="roofit/roofitcore/inc\l/RooCacheManager.h" alt="" coords="1072,206,1229,247"/>
+<area shape="rect" id="node61" href="$RooDataHist_8h.html" title="roofit/roofitcore/inc\l/RooDataHist.h" alt="" coords="12845,310,12990,351"/>
+<area shape="rect" id="node62" href="$RooAbsOptTestStatistic_8cxx.html" title=" &#160;" alt="" coords="13225,414,13428,455"/>
+<area shape="rect" id="node63" href="$RooAbsReal_8cxx.html" title="roofit/roofitcore/src\l/RooAbsReal.cxx" alt="" coords="12493,414,12638,455"/>
+<area shape="rect" id="node64" href="$RooDataHistSliceIter_8cxx.html" title=" &#160;" alt="" coords="12281,414,12468,455"/>
+<area shape="rect" id="node65" href="$RooSimPdfBuilder_8cxx.html" title="roofit/roofitcore/src\l/RooSimPdfBuilder.cxx" alt="" coords="12713,414,12881,455"/>
+<area shape="rect" id="node66" href="$RooSimultaneous_8cxx.html" title=" &#160;" alt="" coords="16973,414,17139,455"/>
+<area shape="rect" id="node67" href="$MarkovChain_8cxx.html" title="roofit/roostats/src\l/MarkovChain.cxx" alt="" coords="13503,414,13641,455"/>
+<area shape="rect" id="node68" href="$RooFormula_8h.html" title="roofit/roofitcore/inc\l/RooFormula.h" alt="" coords="10897,206,11042,247"/>
+<area shape="rect" id="node69" href="$RooArgSet_8cxx.html" title="roofit/roofitcore/src\l/RooArgSet.cxx" alt="" coords="10977,310,11122,351"/>
+<area shape="rect" id="node70" href="$RooFunctor_8h.html" title="roofit/roofitcore/inc\l/RooFunctor.h" alt="" coords="851,206,997,247"/>
+<area shape="rect" id="node71" href="$RooAbsMoment_8cxx.html" title=" &#160;" alt="" coords="9411,310,9565,351"/>
+<area shape="rect" id="node72" href="$RooDerivative_8cxx.html" title=" &#160;" alt="" coords="714,310,859,351"/>
+<area shape="rect" id="node73" href="$RooFirstMoment_8cxx.html" title=" &#160;" alt="" coords="1325,310,1483,351"/>
+<area shape="rect" id="node74" href="$RooFunctor_8cxx.html" title=" &#160;" alt="" coords="883,310,1029,351"/>
+<area shape="rect" id="node75" href="$RooMoment_8cxx.html" title=" &#160;" alt="" coords="1105,310,1250,351"/>
+<area shape="rect" id="node76" href="$RooSecondMoment_8cxx.html" title=" &#160;" alt="" coords="9209,310,9386,351"/>
+<area shape="rect" id="node77" href="$RooRealIntegral_8h.html" title="roofit/roofitcore/inc\l/RooRealIntegral.h" alt="" coords="10246,206,10391,247"/>
+<area shape="rect" id="node78" href="$RooAbsArg_8cxx.html" title="roofit/roofitcore/src\l/RooAbsArg.cxx" alt="" coords="12675,310,12821,351"/>
+<area shape="rect" id="node79" href="$RooAbsPdf_8cxx.html" title="roofit/roofitcore/src\l/RooAbsPdf.cxx" alt="" coords="17094,310,17239,351"/>
+<area shape="rect" id="node80" href="$RooCurve_8cxx.html" title=" &#160;" alt="" coords="9641,310,9786,351"/>
+<area shape="rect" id="node81" href="$RooRealIntegral_8cxx.html" title=" &#160;" alt="" coords="12496,310,12651,351"/>
+<area shape="rect" id="node82" href="$RooAddition_8cxx.html" title=" &#160;" alt="" coords="6941,206,7086,247"/>
+<area shape="rect" id="node83" href="$RooChangeTracker_8cxx.html" title=" &#160;" alt="" coords="7110,206,7282,247"/>
+<area shape="rect" id="node84" href="$RooConstraintSum_8cxx.html" title=" &#160;" alt="" coords="7307,206,7480,247"/>
+<area shape="rect" id="node85" href="$RooConvIntegrandBinding_8cxx.html" title=" &#160;" alt="" coords="7504,206,7725,247"/>
+<area shape="rect" id="node86" href="$RooExpensiveObjectCache_8cxx.html" title=" &#160;" alt="" coords="11533,206,11760,247"/>
+<area shape="rect" id="node87" href="$RooFracRemainder_8cxx.html" title=" &#160;" alt="" coords="7750,206,7922,247"/>
+<area shape="rect" id="node88" href="$RooGenFunction_8cxx.html" title=" &#160;" alt="" coords="7947,206,8104,247"/>
+<area shape="rect" id="node89" href="$RooMinimizer_8cxx.html" title=" &#160;" alt="" coords="8129,206,8274,247"/>
+<area shape="rect" id="node90" href="$RooMinuit_8cxx.html" title=" &#160;" alt="" coords="8298,206,8443,247"/>
+<area shape="rect" id="node91" href="$RooMultiGenFunction_8cxx.html" title=" &#160;" alt="" coords="8468,206,8657,247"/>
+<area shape="rect" id="node92" href="$RooPlot_8cxx.html" title=" &#160;" alt="" coords="8682,206,8827,247"/>
+<area shape="rect" id="node93" href="$RooRealBinding_8cxx.html" title=" &#160;" alt="" coords="8852,206,9007,247"/>
+<area shape="rect" id="node94" href="$RooRecursiveFraction_8cxx.html" title=" &#160;" alt="" coords="9031,206,9222,247"/>
+<area shape="rect" id="node95" href="$RooTFoamBinding_8cxx.html" title=" &#160;" alt="" coords="11168,206,11339,247"/>
+<area shape="rect" id="node96" href="$LikelihoodInterval_8h.html" title="roofit/roostats/inc\l/RooStats/LikelihoodInterval.h" alt="" coords="12053,206,12269,247"/>
+<area shape="rect" id="node97" href="$LikelihoodIntervalPlot_8h.html" title="roofit/roostats/inc\l/RooStats/LikelihoodInterval\lPlot.h" alt="" coords="11971,303,12175,359"/>
+<area shape="rect" id="node98" href="$MCMCCalculator_8cxx.html" title="roofit/roostats/src\l/MCMCCalculator.cxx" alt="" coords="18786,518,18945,559"/>
+<area shape="rect" id="node99" href="$ProfileInspector_8cxx.html" title="roofit/roostats/src\l/ProfileInspector.cxx" alt="" coords="9246,206,9399,247"/>
+<area shape="rect" id="node100" href="$RooAbsData_8h.html" title="roofit/roofitcore/inc\l/RooAbsData.h" alt="" coords="14977,102,15122,143"/>
+<area shape="rect" id="node101" href="$RooAbsDataStore_8h.html" title="roofit/roofitcore/inc\l/RooAbsDataStore.h" alt="" coords="13878,206,14029,247"/>
+<area shape="rect" id="node102" href="$RooSimPdfBuilder_8h.html" title="roofit/roofitcore/inc\l/RooSimPdfBuilder.h" alt="" coords="13701,206,13854,247"/>
+<area shape="rect" id="node103" href="$RooTreeData_8h.html" title="roofit/roofitcore/inc\l/RooTreeData.h" alt="" coords="14409,206,14554,247"/>
+<area shape="rect" id="node104" href="$RooAbsTestStatistic_8cxx.html" title=" &#160;" alt="" coords="14578,206,14758,247"/>
+<area shape="rect" id="node105" href="$RooCmdConfig_8cxx.html" title=" &#160;" alt="" coords="16378,206,16526,247"/>
+<area shape="rect" id="node106" href="$CombinedCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/CombinedCalculator.h" alt="" coords="14543,310,14774,351"/>
+<area shape="rect" id="node107" href="$ConfidenceBelt_8h.html" title="roofit/roostats/inc\l/RooStats/ConfidenceBelt.h" alt="" coords="15831,206,16028,247"/>
+<area shape="rect" id="node108" href="$FeldmanCousins_8h.html" title="roofit/roostats/inc\l/RooStats/FeldmanCousins.h" alt="" coords="15771,310,15976,351"/>
+<area shape="rect" id="node109" href="$NeymanConstruction_8h.html" title="roofit/roostats/inc\l/RooStats/NeymanConstruction.h" alt="" coords="15453,310,15689,351"/>
+<area shape="rect" id="node110" href="$MCMCCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/MCMCCalculator.h" alt="" coords="18882,310,19086,351"/>
+<area shape="rect" id="node111" href="$ModelConfig_8h.html" title="roofit/roostats/inc\l/RooStats/ModelConfig.h" alt="" coords="14104,206,14283,247"/>
+<area shape="rect" id="node112" href="$RooStatsUtils_8h.html" title="roofit/roostats/inc\l/RooStats/RooStatsUtils.h" alt="" coords="18671,310,18857,351"/>
+<area shape="rect" id="node113" href="$MetropolisHastings_8h.html" title="roofit/roostats/inc\l/RooStats/MetropolisHastings.h" alt="" coords="20291,414,20515,455"/>
+<area shape="rect" id="node114" href="$MetropolisHastings_8cxx.html" title="roofit/roostats/src\l/MetropolisHastings.cxx" alt="" coords="20313,518,20492,559"/>
+<area shape="rect" id="node115" href="$PdfProposal_8cxx.html" title="roofit/roostats/src\l/PdfProposal.cxx" alt="" coords="24800,414,24936,455"/>
+<area shape="rect" id="node116" href="$ProfileLikelihoodTestStat_8cxx.html" title="roofit/roostats/src\l/ProfileLikelihoodTestStat.cxx" alt="" coords="18953,414,19167,455"/>
+<area shape="rect" id="node117" href="$ProposalHelper_8cxx.html" title="roofit/roostats/src\l/ProposalHelper.cxx" alt="" coords="25242,518,25393,559"/>
+<area shape="rect" id="node118" href="$SequentialProposal_8cxx.html" title="roofit/roostats/src\l/SequentialProposal.cxx" alt="" coords="20088,414,20267,455"/>
+<area shape="rect" id="node119" href="$UniformProposal_8cxx.html" title="roofit/roostats/src\l/UniformProposal.cxx" alt="" coords="24613,414,24776,455"/>
+<area shape="rect" id="node120" href="$HypoTestInverter_8cxx.html" title="roofit/roostats/src\l/HypoTestInverter.cxx" alt="" coords="14799,310,14961,351"/>
+<area shape="rect" id="node121" href="$PointSetInterval_8h.html" title="roofit/roostats/inc\l/RooStats/PointSetInterval.h" alt="" coords="15604,206,15807,247"/>
+<area shape="rect" id="node122" href="$RatioOfProfiledLikelihoodsTestStat_8cxx.html" title="roofit/roostats/src\l/RatioOfProfiledLikelihoods\lTestStat.cxx" alt="" coords="16103,199,16302,255"/>
+<area shape="rect" id="node123" href="$RooSetProxy_8h.html" title="roofit/roofitcore/inc\l/RooSetProxy.h" alt="" coords="10717,102,10862,143"/>
+<area shape="rect" id="node124" href="$RooMultiCategory_8h.html" title="roofit/roofitcore/inc\l/RooMultiCategory.h" alt="" coords="12971,206,13122,247"/>
+<area shape="rect" id="node125" href="$RooMultiCategory_8cxx.html" title=" &#160;" alt="" coords="16430,310,16597,351"/>
+<area shape="rect" id="node126" href="$RooSuperCategory_8h.html" title="roofit/roofitcore/inc\l/RooSuperCategory.h" alt="" coords="13146,206,13302,247"/>
+<area shape="rect" id="node127" href="$RooSuperCategory_8cxx.html" title=" &#160;" alt="" coords="16621,310,16792,351"/>
+<area shape="rect" id="node128" href="$RooSetProxy_8cxx.html" title=" &#160;" alt="" coords="11363,206,11509,247"/>
+<area shape="rect" id="node129" href="$RooAbsGenContext_8h.html" title="roofit/roofitcore/inc\l/RooAbsGenContext.h" alt="" coords="17235,102,17397,143"/>
+<area shape="rect" id="node130" href="$RooAddGenContext_8h.html" title="roofit/roofitcore/inc\l/RooAddGenContext.h" alt="" coords="18149,206,18313,247"/>
+<area shape="rect" id="node131" href="$RooBinnedGenContext_8h.html" title="roofit/roofitcore/inc\l/RooBinnedGenContext.h" alt="" coords="17365,206,17549,247"/>
+<area shape="rect" id="node132" href="$RooConvGenContext_8h.html" title="roofit/roofitcore/inc\l/RooConvGenContext.h" alt="" coords="18389,206,18561,247"/>
+<area shape="rect" id="node133" href="$RooConvGenContext_8cxx.html" title=" &#160;" alt="" coords="18388,310,18575,351"/>
+<area shape="rect" id="node134" href="$RooGenContext_8h.html" title="roofit/roofitcore/inc\l/RooGenContext.h" alt="" coords="17574,206,17719,247"/>
+<area shape="rect" id="node135" href="$RooProdGenContext_8h.html" title="roofit/roofitcore/inc\l/RooProdGenContext.h" alt="" coords="18585,206,18753,247"/>
+<area shape="rect" id="node136" href="$RooSimGenContext_8h.html" title="roofit/roofitcore/inc\l/RooSimGenContext.h" alt="" coords="17961,206,18125,247"/>
+<area shape="rect" id="node137" href="$RooSimSplitGenContext_8h.html" title="roofit/roofitcore/inc\l/RooSimSplitGenContext.h" alt="" coords="17743,206,17937,247"/>
+<area shape="rect" id="node138" href="$RooAbsMCStudyModule_8h.html" title="roofit/roofitcore/inc\l/RooAbsMCStudyModule.h" alt="" coords="19194,206,19385,247"/>
+<area shape="rect" id="node139" href="$RooMCStudy_8h.html" title="roofit/roofitcore/inc\l/RooMCStudy.h" alt="" coords="17929,102,18074,143"/>
+<area shape="rect" id="node140" href="$RooAbsNumGenerator_8h.html" title="roofit/roofitcore/inc\l/RooAbsNumGenerator.h" alt="" coords="18200,102,18381,143"/>
+<area shape="rect" id="node141" href="$RooAcceptReject_8h.html" title="roofit/roofitcore/inc\l/RooAcceptReject.h" alt="" coords="19608,206,19755,247"/>
+<area shape="rect" id="node142" href="$RooNumGenFactory_8cxx.html" title=" &#160;" alt="" coords="19771,310,19949,351"/>
+<area shape="rect" id="node143" href="$RooFoamGenerator_8h.html" title="roofit/roofitcore/inc\l/RooFoamGenerator.h" alt="" coords="19779,206,19941,247"/>
+<area shape="rect" id="node144" href="$RooNumGenConfig_8cxx.html" title=" &#160;" alt="" coords="19409,206,19583,247"/>
+<area shape="rect" id="node145" href="$RooAbsStudy_8h.html" title="roofit/roofitcore/inc\l/RooAbsStudy.h" alt="" coords="18659,102,18805,143"/>
+<area shape="rect" id="node146" href="$RooGenFitStudy_8h.html" title="roofit/roofitcore/inc\l/RooGenFitStudy.h" alt="" coords="20067,206,20213,247"/>
+<area shape="rect" id="node147" href="$ToyMCStudy_8h.html" title="roofit/roostats/inc\l/RooStats/ToyMCStudy.h" alt="" coords="20139,310,20315,351"/>
+<area shape="rect" id="node148" href="$RooClassFactory_8h.html" title="roofit/roofitcore/inc\l/RooClassFactory.h" alt="" coords="17145,206,17290,247"/>
+<area shape="rect" id="node149" href="$RooFactoryWSTool_8h.html" title="roofit/roofitcore/inc\l/RooFactoryWSTool.h" alt="" coords="16801,102,16957,143"/>
+<area shape="rect" id="node150" href="$RooCustomizer_8h.html" title="roofit/roofitcore/inc\l/RooCustomizer.h" alt="" coords="16550,206,16695,247"/>
+<area shape="rect" id="node151" href="$RooCustomizer_8cxx.html" title="roofit/roofitcore/src\l/RooCustomizer.cxx" alt="" coords="16817,310,16967,351"/>
+<area shape="rect" id="node152" href="$RooCmdConfig_8h.html" title="roofit/roofitcore/inc\l/RooCmdConfig.h" alt="" coords="16631,102,16777,143"/>
+<area shape="rect" id="node153" href="$RooDataHistSliceIter_8h.html" title="roofit/roofitcore/inc\l/RooDataHistSliceIter.h" alt="" coords="12200,310,12371,351"/>
+<area shape="rect" id="node154" href="$RooExpensiveObjectCache_8h.html" title="roofit/roofitcore/inc\l/RooExpensiveObjectCache.h" alt="" coords="12547,102,12757,143"/>
+<area shape="rect" id="node155" href="$RooWorkspace_8h.html" title="roofit/roofitcore/inc\l/RooWorkspace.h" alt="" coords="13378,206,13523,247"/>
+<area shape="rect" id="node156" href="$RooSentinel_8cxx.html" title=" &#160;" alt="" coords="12649,206,12794,247"/>
+<area shape="rect" id="node157" href="$RooMPSentinel_8h.html" title="roofit/roofitcore/inc\l/RooMPSentinel.h" alt="" coords="19202,102,19347,143"/>
+<area shape="rect" id="node158" href="$RooRealMPFE_8cxx.html" title=" &#160;" alt="" coords="22561,206,22706,247"/>
+<area shape="rect" id="node159" href="$RooMultiCatIter_8h.html" title="roofit/roofitcore/inc\l/RooMultiCatIter.h" alt="" coords="16771,206,16917,247"/>
+<area shape="rect" id="node160" href="$RooSetPair_8h.html" title="roofit/roofitcore/inc\l/RooSetPair.h" alt="" coords="19033,102,19178,143"/>
+<area shape="rect" id="node161" href="$RooTFoamBinding_8h.html" title="roofit/roofitcore/inc\l/RooTFoamBinding.h" alt="" coords="11191,102,11345,143"/>
+<area shape="rect" id="node162" href="$RooAbsCategory_8cxx.html" title=" &#160;" alt="" coords="19371,102,19530,143"/>
+<area shape="rect" id="node163" href="$RooAbsCategoryLValue_8cxx.html" title=" &#160;" alt="" coords="19555,102,19757,143"/>
+<area shape="rect" id="node164" href="$RooAbsHiddenReal_8cxx.html" title=" &#160;" alt="" coords="19782,102,19957,143"/>
+<area shape="rect" id="node165" href="$RooAbsProxy_8cxx.html" title=" &#160;" alt="" coords="19981,102,20126,143"/>
+<area shape="rect" id="node166" href="$RooAbsString_8cxx.html" title=" &#160;" alt="" coords="20150,102,20295,143"/>
+<area shape="rect" id="node167" href="$RooAdaptiveGaussKronrodIntegrator1D_8cxx.html" title=" &#160;" alt="" coords="20319,95,20590,151"/>
+<area shape="rect" id="node168" href="$RooAdaptiveIntegratorND_8cxx.html" title=" &#160;" alt="" coords="20615,102,20833,143"/>
+<area shape="rect" id="node169" href="$RooAICRegistry_8cxx.html" title=" &#160;" alt="" coords="20858,102,21009,143"/>
+<area shape="rect" id="node170" href="$RooArgProxy_8cxx.html" title=" &#160;" alt="" coords="21033,102,21178,143"/>
+<area shape="rect" id="node171" href="$RooBinIntegrator_8cxx.html" title=" &#160;" alt="" coords="21202,102,21363,143"/>
+<area shape="rect" id="node172" href="$RooCategory_8cxx.html" title=" &#160;" alt="" coords="21387,102,21533,143"/>
+<area shape="rect" id="node173" href="$RooCategoryProxy_8cxx.html" title=" &#160;" alt="" coords="21557,102,21728,143"/>
+<area shape="rect" id="node174" href="$RooCmdArg_8cxx.html" title=" &#160;" alt="" coords="21753,102,21898,143"/>
+<area shape="rect" id="node175" href="$RooFitResult_8cxx.html" title="roofit/roofitcore/src\l/RooFitResult.cxx" alt="" coords="21922,102,22067,143"/>
+<area shape="rect" id="node176" href="$RooGaussKronrodIntegrator1D_8cxx.html" title=" &#160;" alt="" coords="22092,95,22305,151"/>
+<area shape="rect" id="node177" href="$RooImproperIntegrator1D_8cxx.html" title=" &#160;" alt="" coords="22329,102,22548,143"/>
+<area shape="rect" id="node178" href="$RooIntegrator1D_8cxx.html" title=" &#160;" alt="" coords="22573,102,22731,143"/>
+<area shape="rect" id="node179" href="$RooIntegrator2D_8cxx.html" title=" &#160;" alt="" coords="22755,102,22914,143"/>
+<area shape="rect" id="node180" href="$RooLinearVar_8cxx.html" title="roofit/roofitcore/src\l/RooLinearVar.cxx" alt="" coords="22938,102,23083,143"/>
+<area shape="rect" id="node181" href="$RooMCIntegrator_8cxx.html" title=" &#160;" alt="" coords="23108,102,23268,143"/>
+<area shape="rect" id="node182" href="$RooMinimizerFcn_8cxx.html" title="roofit/roofitcore/src\l/RooMinimizerFcn.cxx" alt="" coords="23292,102,23455,143"/>
+<area shape="rect" id="node183" href="$RooNameSet_8cxx.html" title=" &#160;" alt="" coords="23479,102,23625,143"/>
+<area shape="rect" id="node184" href="$RooNormSetCache_8cxx.html" title=" &#160;" alt="" coords="23649,102,23823,143"/>
+<area shape="rect" id="node185" href="$RooNumIntConfig_8cxx.html" title=" &#160;" alt="" coords="23847,102,24014,143"/>
+<area shape="rect" id="node186" href="$RooNumIntFactory_8cxx.html" title=" &#160;" alt="" coords="24039,102,24209,143"/>
+<area shape="rect" id="node187" href="$RooSegmentedIntegrator1D_8cxx.html" title=" &#160;" alt="" coords="24234,102,24467,143"/>
+<area shape="rect" id="node188" href="$RooSegmentedIntegrator2D_8cxx.html" title=" &#160;" alt="" coords="24491,102,24725,143"/>
+<area shape="rect" id="node189" href="$AsymptoticCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/AsymptoticCalculator.h" alt="" coords="15087,206,15326,247"/>
+<area shape="rect" id="node190" href="$BayesianCalculator_8h.html" title="roofit/roostats/inc\l/RooStats/BayesianCalculator.h" alt="" coords="3197,310,3421,351"/>
+<area shape="rect" id="node191" href="$ConfInterval_8h.html" title="roofit/roostats/inc\l/RooStats/ConfInterval.h" alt="" coords="15816,102,15995,143"/>
+<area shape="rect" id="node192" href="$MCMCInterval_8h.html" title="roofit/roostats/inc\l/RooStats/MCMCInterval.h" alt="" coords="18929,206,19119,247"/>
+<area shape="rect" id="node193" href="$MCMCIntervalPlot_8h.html" title="roofit/roostats/inc\l/RooStats/MCMCIntervalPlot.h" alt="" coords="20441,310,20655,351"/>
+<area shape="rect" id="node194" href="$SimpleInterval_8h.html" title="roofit/roostats/inc\l/RooStats/SimpleInterval.h" alt="" coords="11784,206,11979,247"/>
+<area shape="rect" id="node195" href="$DebuggingTestStat_8h.html" title="roofit/roostats/inc\l/RooStats/DebuggingTestStat.h" alt="" coords="25053,102,25275,143"/>
+<area shape="rect" id="node196" href="$PdfProposal_8h.html" title="roofit/roostats/inc\l/RooStats/PdfProposal.h" alt="" coords="25196,310,25372,351"/>
+<area shape="rect" id="node197" href="$ProposalHelper_8h.html" title="roofit/roostats/inc\l/RooStats/ProposalHelper.h" alt="" coords="25287,414,25484,455"/>
+<area shape="rect" id="node198" href="$ProposalFunction_8h.html" title="roofit/roostats/inc\l/RooStats/ProposalFunction.h" alt="" coords="25054,206,25263,247"/>
+<area shape="rect" id="node199" href="$SequentialProposal_8h.html" title="roofit/roostats/inc\l/RooStats/SequentialProposal.h" alt="" coords="20680,310,20904,351"/>
+<area shape="rect" id="node200" href="$UniformProposal_8h.html" title="roofit/roostats/inc\l/RooStats/UniformProposal.h" alt="" coords="24913,310,25121,351"/>
+<area shape="rect" id="node4" href="$RooBarlowBeestonLL_8cxx.html" title="roofit/histfactory\l/src/RooBarlowBeestonLL.cxx" alt="" coords="6561,615,6773,656"/>
+<area shape="rect" id="node6" href="$HistoToWorkspaceFactory_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory.cxx" alt="" coords="14177,414,14417,455"/>
+<area shape="rect" id="node7" href="$MakeModelAndMeasurements_8cxx.html" title="roofit/histfactory\l/src/MakeModelAndMeasurements.cxx" alt="" coords="13666,414,13937,455"/>
+<area shape="rect" id="node9" href="$HistoToWorkspaceFactoryFast_8cxx.html" title="roofit/histfactory\l/src/HistoToWorkspaceFactory\lFast.cxx" alt="" coords="12963,511,13178,567"/>
+<area shape="rect" id="node10" href="$MakeModelAndMeasurementsFast_8cxx.html" title="roofit/histfactory\l/src/MakeModelAndMeasurements\lFast.cxx" alt="" coords="12906,407,13150,463"/>
+<area shape="rect" id="node21" href="$MyPdfV1_8h.html" title="documentation/doxygen\l/MyPdfV1.h" alt="" coords="1811,206,1991,247"/>
+<area shape="rect" id="node22" href="$MyPdfV1_8cxx.html" title="documentation/doxygen\l/MyPdfV1.cxx" alt="" coords="1902,310,2082,351"/>
+<area shape="rect" id="node23" href="$MyPdfV2_8h.html" title="documentation/doxygen\l/MyPdfV2.h" alt="" coords="2067,206,2247,247"/>
+<area shape="rect" id="node24" href="$MyPdfV2_8cxx.html" title="documentation/doxygen\l/MyPdfV2.cxx" alt="" coords="2106,310,2286,351"/>
+<area shape="rect" id="node25" href="$MyPdfV3_8h.html" title="documentation/doxygen\l/MyPdfV3.h" alt="" coords="2271,206,2451,247"/>
+<area shape="rect" id="node26" href="$MyPdfV3_8cxx.html" title="documentation/doxygen\l/MyPdfV3.cxx" alt="" coords="2310,310,2490,351"/>
+<area shape="rect" id="node27" href="$RooCFAuto000Pdf_8h.html" title="documentation/doxygen\l/RooCFAuto000Pdf.h" alt="" coords="2527,206,2707,247"/>
+<area shape="rect" id="node28" href="$RooCFAuto000Pdf_8cxx.html" title="documentation/doxygen\l/RooCFAuto000Pdf.cxx" alt="" coords="2514,310,2694,351"/>
+<area shape="rect" id="node29" href="$RooGenPdfPdf_8h.html" title="documentation/doxygen\l/RooGenPdfPdf.h" alt="" coords="2783,206,2963,247"/>
+<area shape="rect" id="node30" href="$RooGenPdfPdf_8cxx.html" title="documentation/doxygen\l/RooGenPdfPdf.cxx" alt="" coords="2718,310,2898,351"/>
+<area shape="rect" id="node31" href="$ParamHistFunc_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/ParamHistFunc.h" alt="" coords="1479,407,1662,463"/>
+<area shape="rect" id="node32" href="$PiecewiseInterpolation_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/PiecewiseInterpolation.h" alt="" coords="1737,407,1924,463"/>
+<area shape="rect" id="node33" href="$RooBarlowBeestonLL_8h.html" title="roofit/histfactory\l/inc/RooStats/HistFactory\l/RooBarlowBeestonLL.h" alt="" coords="10415,199,10598,255"/>
+<area shape="rect" id="node34" href="$FlexibleInterpVar_8cxx.html" title="roofit/histfactory\l/src/FlexibleInterpVar.cxx" alt="" coords="3242,206,3427,247"/>
+<area shape="rect" id="node35" href="$LinInterpVar_8cxx.html" title="roofit/histfactory\l/src/LinInterpVar.cxx" alt="" coords="3451,206,3605,247"/>
+<area shape="rect" id="node36" href="$Roo2DKeysPdf_8h.html" title="roofit/roofit/inc/Roo2DKeys\lPdf.h" alt="" coords="3629,206,3824,247"/>
+<area shape="rect" id="node37" href="$RooCFunction1Binding_8h.html" title="roofit/roofit/inc/RooCFunction1\lBinding.h" alt="" coords="3848,206,4064,247"/>
+<area shape="rect" id="node38" href="$RooCFunction2Binding_8h.html" title="roofit/roofit/inc/RooCFunction2\lBinding.h" alt="" coords="4088,206,4304,247"/>
+<area shape="rect" id="node39" href="$RooCFunction3Binding_8h.html" title="roofit/roofit/inc/RooCFunction3\lBinding.h" alt="" coords="4328,206,4544,247"/>
+<area shape="rect" id="node40" href="$RooCFunction4Binding_8h.html" title="roofit/roofit/inc/RooCFunction4\lBinding.h" alt="" coords="4568,206,4784,247"/>
+<area shape="rect" id="node41" href="$RooFunctor1DBinding_8h.html" title="roofit/roofit/inc/RooFunctor1\lDBinding.h" alt="" coords="2923,310,3123,351"/>
+<area shape="rect" id="node43" href="$RooFunctorBinding_8h.html" title="roofit/roofit/inc/RooFunctor\lBinding.h" alt="" coords="4859,206,5051,247"/>
+<area shape="rect" id="node44" href="$RooHistConstraint_8h.html" title="roofit/roofit/inc/RooHist\lConstraint.h" alt="" coords="5075,206,5245,247"/>
+<area shape="rect" id="node45" href="$RooIntegralMorph_8h.html" title="roofit/roofit/inc/RooIntegral\lMorph.h" alt="" coords="5269,206,5464,247"/>
+<area shape="rect" id="node46" href="$RooLegendre_8h.html" title="roofit/roofit/inc/RooLegendre.h" alt="" coords="5489,213,5706,240"/>
+<area shape="rect" id="node47" href="$RooMomentMorph_8h.html" title="roofit/roofit/inc/RooMoment\lMorph.h" alt="" coords="9801,206,9999,247"/>
+<area shape="rect" id="node48" href="$RooMomentMorphFunc_8h.html" title="roofit/roofit/inc/RooMoment\lMorphFunc.h" alt="" coords="10023,206,10222,247"/>
+<area shape="rect" id="node49" href="$RooMomentMorphFuncND_8h.html" title="roofit/roofit/inc/RooMoment\lMorphFuncND.h" alt="" coords="10622,206,10821,247"/>
+<area shape="rect" id="node50" href="$RooMomentMorphND_8h.html" title="roofit/roofit/inc/RooMoment\lMorphND.h" alt="" coords="9526,206,9725,247"/>
+<area shape="rect" id="node51" href="$RooMultiBinomial_8h.html" title="roofit/roofit/inc/RooMulti\lBinomial.h" alt="" coords="5730,206,5907,247"/>
+<area shape="rect" id="node52" href="$RooNonCentralChiSquare_8h.html" title="roofit/roofit/inc/RooNon\lCentralChiSquare.h" alt="" coords="5932,206,6103,247"/>
+<area shape="rect" id="node53" href="$RooParamHistFunc_8h.html" title="roofit/roofit/inc/RooParam\lHistFunc.h" alt="" coords="10765,414,10952,455"/>
+<area shape="rect" id="node54" href="$RooPoisson_8h.html" title="roofit/roofit/inc/RooPoisson.h" alt="" coords="8926,317,9133,344"/>
+<area shape="rect" id="node56" href="$RooStepFunction_8h.html" title="roofit/roofit/inc/RooStep\lFunction.h" alt="" coords="6127,206,6302,247"/>
+<area shape="rect" id="node57" href="$RooTFnBinding_8h.html" title="roofit/roofit/inc/RooTFn\lBinding.h" alt="" coords="1709,310,1877,351"/>
+<area shape="rect" id="node58" href="$RooBernstein_8cxx.html" title="roofit/roofit/src/RooBernstein.cxx" alt="" coords="6327,213,6561,240"/>
+</map>

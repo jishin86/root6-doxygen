@@ -1,0 +1,190 @@
+<map id="TGObject" name="TGObject">
+<area shape="rect" id="node3" href="$classTGFontPool.html" title="TGFontPool" alt="" coords="271,4303,367,4329"/>
+<area shape="rect" id="node4" href="$classTGGCPool.html" title="TGGCPool" alt="" coords="276,4353,363,4380"/>
+<area shape="rect" id="node5" href="$classTGResourcePool.html" title="TGResourcePool" alt="" coords="256,4404,383,4431"/>
+<area shape="rect" id="node6" href="$classTGWindow.html" title="TGWindow" alt="" coords="273,4455,365,4481"/>
+<area shape="rect" id="node2" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="5,4379,77,4405"/>
+<area shape="rect" id="node7" href="$classTGFrame.html" title="TGFrame" alt="" coords="431,4455,511,4481"/>
+<area shape="rect" id="node9" href="$classTGButton.html" title="TGButton" alt="" coords="597,287,680,313"/>
+<area shape="rect" id="node22" href="$classTGCanvas.html" title="TGCanvas" alt="" coords="595,440,683,467"/>
+<area shape="rect" id="node26" href="$classTGColorFrame.html" title="TGColorFrame" alt="" coords="581,2859,696,2885"/>
+<area shape="rect" id="node27" href="$classTGColorPalette.html" title="TGColorPalette" alt="" coords="579,2909,698,2936"/>
+<area shape="rect" id="node28" href="$classTGColorPick.html" title="TGColorPick" alt="" coords="588,2960,689,2987"/>
+<area shape="rect" id="node29" href="$classTGCompositeFrame.html" title="TGCompositeFrame" alt="" coords="563,3011,714,3037"/>
+<area shape="rect" id="node151" href="$classTGDoubleSlider.html" title="TGDoubleSlider" alt="" coords="577,4049,700,4076"/>
+<area shape="rect" id="node154" href="$classTGDragWindow.html" title="TGDragWindow" alt="" coords="577,4100,700,4127"/>
+<area shape="rect" id="node155" href="$classTGedPatternFrame.html" title="TGedPatternFrame" alt="" coords="567,4151,710,4177"/>
+<area shape="rect" id="node157" href="$classTGHorizontal3DLine.html" title="TGHorizontal3DLine" alt="" coords="563,4252,715,4279"/>
+<area shape="rect" id="node158" href="$classTGIcon.html" title="TGIcon" alt="" coords="605,4303,672,4329"/>
+<area shape="rect" id="node161" href="$classTGLabel.html" title="TGLabel" alt="" coords="601,4353,676,4380"/>
+<area shape="rect" id="node162" href="$classTGLBEntry.html" title="TGLBEntry" alt="" coords="593,4404,684,4431"/>
+<area shape="rect" id="node165" href="$classTGLVEntry.html" title="TGLVEntry" alt="" coords="594,4455,683,4481"/>
+<area shape="rect" id="node168" href="$classTGLWidget.html" title="GL window with context. " alt="" coords="593,4505,685,4532"/>
+<area shape="rect" id="node169" href="$classTGMdiContainer.html" title="TGMdiContainer" alt="" coords="575,4556,702,4583"/>
+<area shape="rect" id="node170" href="$classTGMdiWinResizer.html" title="TGMdiWinResizer" alt="" coords="571,4607,706,4633"/>
+<area shape="rect" id="node174" href="$classTGMenuTitle.html" title="TGMenuTitle" alt="" coords="587,4657,691,4684"/>
+<area shape="rect" id="node176" href="$classTGPopupMenu.html" title="TGPopupMenu" alt="" coords="581,4708,696,4735"/>
+<area shape="rect" id="node179" href="$classTGProgressBar.html" title="TGProgressBar" alt="" coords="579,4759,698,4785"/>
+<area shape="rect" id="node182" href="$classTGScrollBar.html" title="TGScrollBar" alt="" coords="589,4809,688,4836"/>
+<area shape="rect" id="node185" href="$classTGScrollBarElement.html" title="TGScrollBarElement" alt="" coords="563,4860,715,4887"/>
+<area shape="rect" id="node186" href="$classTGSlider.html" title="TGSlider" alt="" coords="600,4911,677,4937"/>
+<area shape="rect" id="node189" href="$classTGSpeedo.html" title="TGSpeedo" alt="" coords="595,4961,683,4988"/>
+<area shape="rect" id="node190" href="$classTGSplitter.html" title="TGSplitter" alt="" coords="595,5012,682,5039"/>
+<area shape="rect" id="node193" href="$classTGTabElement.html" title="TGTabElement" alt="" coords="581,5063,697,5089"/>
+<area shape="rect" id="node194" href="$classTGTableCell.html" title="TGTableCell" alt="" coords="589,5113,688,5140"/>
+<area shape="rect" id="node196" href="$classTGTextEntry.html" title="TGTextEntry" alt="" coords="588,5164,689,5191"/>
+<area shape="rect" id="node198" href="$classTGuiBldDragManager.html" title="TGuiBldDragManager" alt="" coords="559,5215,719,5241"/>
+<area shape="rect" id="node199" href="$classTGVertical3DLine.html" title="TGVertical3DLine" alt="" coords="571,5265,706,5292"/>
+<area shape="rect" id="node10" href="$classTGDockButton.html" title="TGDockButton" alt="" coords="810,31,926,57"/>
+<area shape="rect" id="node12" href="$classTGPictureButton.html" title="TGPictureButton" alt="" coords="804,132,932,159"/>
+<area shape="rect" id="node16" href="$classTGTextButton.html" title="TGTextButton" alt="" coords="813,261,923,288"/>
+<area shape="rect" id="node21" href="$classTGuiBldHintsButton.html" title="TGuiBldHintsButton" alt="" coords="793,312,943,339"/>
+<area shape="rect" id="node11" href="$classTGDockHideButton.html" title="TGDockHideButton" alt="" coords="1051,5,1197,32"/>
+<area shape="rect" id="node13" href="$classTGImageMap.html" title="TGImageMap" alt="" coords="1070,56,1178,83"/>
+<area shape="rect" id="node17" href="$classTEveGedNameTextButton.html" title="Specialization of TGTextButton for EVE name frame. " alt="" coords="1029,208,1219,235"/>
+<area shape="rect" id="node18" href="$classTGCheckButton.html" title="TGCheckButton" alt="" coords="1063,259,1185,285"/>
+<area shape="rect" id="node19" href="$classTGRadioButton.html" title="TGRadioButton" alt="" coords="1064,309,1184,336"/>
+<area shape="rect" id="node20" href="$classTGSplitButton.html" title="TGSplitButton" alt="" coords="1068,360,1180,387"/>
+<area shape="rect" id="node23" href="$classTGListView.html" title="TGListView" alt="" coords="821,364,915,391"/>
+<area shape="rect" id="node24" href="$classTGMdiMainFrame.html" title="TGMdiMainFrame" alt="" coords="801,415,935,441"/>
+<area shape="rect" id="node25" href="$classTRootEmbeddedCanvas.html" title="TRootEmbeddedCanvas" alt="" coords="780,465,956,492"/>
+<area shape="rect" id="node30" href="$classTEditQueryFrame.html" title="TEditQueryFrame" alt="" coords="801,516,935,543"/>
+<area shape="rect" id="node31" href="$classTEveCompositeFrame.html" title="Abstract base&#45;class for frame&#45;slots that encompass EVE&#45;windows (sub&#45;classes of TEveWindow). " alt="" coords="786,567,950,593"/>
+<area shape="rect" id="node35" href="$classTEveGTriVecValuator.html" title="Composite GUI element for setting three numerical values (label, three number&#45;entries). " alt="" coords="790,621,946,648"/>
+<area shape="rect" id="node36" href="$classTEveGValuatorBase.html" title="Base class for composite GUI elements for setting of numeric values. " alt="" coords="793,672,943,699"/>
+<area shape="rect" id="node39" href="$classTG16ColorSelector.html" title="TG16ColorSelector" alt="" coords="797,731,939,757"/>
+<area shape="rect" id="node40" href="$classTGColorPopup.html" title="TGColorPopup" alt="" coords="811,781,925,808"/>
+<area shape="rect" id="node41" href="$classTGComboBox.html" title="TGComboBox" alt="" coords="813,832,923,859"/>
+<area shape="rect" id="node46" href="$classTGComboBoxPopup.html" title="TGComboBoxPopup" alt="" coords="793,933,943,960"/>
+<area shape="rect" id="node47" href="$classTGContainer.html" title="TGContainer" alt="" coords="817,984,919,1011"/>
+<area shape="rect" id="node51" href="$classTGDockableFrame.html" title="TGDockableFrame" alt="" coords="797,2225,939,2252"/>
+<area shape="rect" id="node52" href="$classTGedFrame.html" title="TGedFrame" alt="" coords="820,2276,916,2303"/>
+<area shape="rect" id="node110" href="$classTGedPatternSelector.html" title="TGedPatternSelector" alt="" coords="791,2327,945,2353"/>
+<area shape="rect" id="node111" href="$classTGedPopup.html" title="TGedPopup" alt="" coords="820,2377,916,2404"/>
+<area shape="rect" id="node114" href="$classTGeoPconSection.html" title="Utility frame used by TGeoPcon editor. " alt="" coords="801,2428,935,2455"/>
+<area shape="rect" id="node115" href="$classTGGroupFrame.html" title="TGGroupFrame" alt="" coords="809,2479,927,2505"/>
+<area shape="rect" id="node117" href="$classTGHorizontalFrame.html" title="TGHorizontalFrame" alt="" coords="795,2529,941,2556"/>
+<area shape="rect" id="node120" href="$classTGListBox.html" title="TGListBox" alt="" coords="824,2580,912,2607"/>
+<area shape="rect" id="node121" href="$classTGMainFrame.html" title="TGMainFrame" alt="" coords="813,2631,923,2657"/>
+<area shape="rect" id="node122" href="$classTGMdiButtons.html" title="TGMdiButtons" alt="" coords="811,2681,925,2708"/>
+<area shape="rect" id="node123" href="$classTGMdiDecorFrame.html" title="TGMdiDecorFrame" alt="" coords="797,2732,939,2759"/>
+<area shape="rect" id="node124" href="$classTGMdiFrame.html" title="TGMdiFrame" alt="" coords="817,2783,919,2809"/>
+<area shape="rect" id="node125" href="$classTGMdiMenuBar.html" title="TGMdiMenuBar" alt="" coords="808,2833,928,2860"/>
+<area shape="rect" id="node126" href="$classTGMdiTitleBar.html" title="TGMdiTitleBar" alt="" coords="811,2884,925,2911"/>
+<area shape="rect" id="node127" href="$classTGNumberEntry.html" title="TGNumberEntry" alt="" coords="805,2935,931,2961"/>
+<area shape="rect" id="node128" href="$classTGPack.html" title="TGPack" alt="" coords="833,2985,903,3012"/>
+<area shape="rect" id="node129" href="$classTGShapedFrame.html" title="TGShapedFrame" alt="" coords="804,3036,932,3063"/>
+<area shape="rect" id="node130" href="$classTGShutter.html" title="TGShutter" alt="" coords="825,3087,911,3113"/>
+<area shape="rect" id="node131" href="$classTGSplitFrame.html" title="TGSplitFrame" alt="" coords="813,3137,923,3164"/>
+<area shape="rect" id="node132" href="$classTGSplitTool.html" title="TGSplitTool" alt="" coords="821,3188,915,3215"/>
+<area shape="rect" id="node133" href="$classTGTab.html" title="TGTab" alt="" coords="837,3239,899,3265"/>
+<area shape="rect" id="node134" href="$classTGTable.html" title="TGTable" alt="" coords="831,3289,905,3316"/>
+<area shape="rect" id="node135" href="$classTGTableHeaderFrame.html" title="TGTableHeaderFrame" alt="" coords="787,3340,949,3367"/>
+<area shape="rect" id="node136" href="$classTGToolBar.html" title="TGToolBar" alt="" coords="824,3391,912,3417"/>
+<area shape="rect" id="node137" href="$classTGToolTip.html" title="TGToolTip" alt="" coords="825,3441,911,3468"/>
+<area shape="rect" id="node138" href="$classTGuiBldNameFrame.html" title="TGuiBldNameFrame" alt="" coords="792,3492,944,3519"/>
+<area shape="rect" id="node139" href="$classTGVerticalFrame.html" title="TGVerticalFrame" alt="" coords="803,3543,933,3569"/>
+<area shape="rect" id="node140" href="$classTGView.html" title="TGView" alt="" coords="832,3593,904,3620"/>
+<area shape="rect" id="node141" href="$classTGViewFrame.html" title="TGViewFrame" alt="" coords="812,3644,924,3671"/>
+<area shape="rect" id="node142" href="$classTGViewPort.html" title="TGViewPort" alt="" coords="819,3695,917,3721"/>
+<area shape="rect" id="node145" href="$classTSessionFrame.html" title="TSessionFrame" alt="" coords="808,3847,928,3873"/>
+<area shape="rect" id="node146" href="$classTSessionInputFrame.html" title="TSessionInputFrame" alt="" coords="791,3897,945,3924"/>
+<area shape="rect" id="node147" href="$classTSessionOutputFrame.html" title="TSessionOutputFrame" alt="" coords="786,3948,950,3975"/>
+<area shape="rect" id="node148" href="$classTSessionQueryFrame.html" title="TSessionQueryFrame" alt="" coords="789,3999,947,4025"/>
+<area shape="rect" id="node149" href="$classTSessionServerFrame.html" title="TSessionServerFrame" alt="" coords="787,4049,949,4076"/>
+<area shape="rect" id="node32" href="$classTEveCompositeFrameInMainFrame.html" title="An EVE window&#45;slot contained within a TGMainFrame. " alt="" coords="1021,411,1227,453"/>
+<area shape="rect" id="node33" href="$classTEveCompositeFrameInPack.html" title="An EVE window&#45;slot contained within one frame of a TGPack. " alt="" coords="1021,477,1227,504"/>
+<area shape="rect" id="node34" href="$classTEveCompositeFrameInTab.html" title="An EVE window&#45;slot contained within one tab of a TGTab. " alt="" coords="1025,528,1223,555"/>
+<area shape="rect" id="node37" href="$classTEveGDoubleValuator.html" title="Composite GUI element for selection of range (label, two number&#45;entries and double&#45;slider). " alt="" coords="1042,579,1206,605"/>
+<area shape="rect" id="node38" href="$classTEveGValuator.html" title="Composite GUI element for single value selection (supports label, number&#45;entry and slider)..." alt="" coords="1065,629,1183,656"/>
+<area shape="rect" id="node42" href="$classTGFontTypeComboBox.html" title="TGFontTypeComboBox" alt="" coords="1039,680,1209,707"/>
+<area shape="rect" id="node43" href="$classTGFSComboBox.html" title="TGFSComboBox" alt="" coords="1061,731,1187,757"/>
+<area shape="rect" id="node44" href="$classTGLineStyleComboBox.html" title="TGLineStyleComboBox" alt="" coords="1039,781,1209,808"/>
+<area shape="rect" id="node45" href="$classTGLineWidthComboBox.html" title="TGLineWidthComboBox" alt="" coords="1036,832,1212,859"/>
+<area shape="rect" id="node48" href="$classTGLBContainer.html" title="TGLBContainer" alt="" coords="1065,883,1183,909"/>
+<area shape="rect" id="node49" href="$classTGListTree.html" title="TGListTree" alt="" coords="1079,933,1169,960"/>
+<area shape="rect" id="node50" href="$classTGLVContainer.html" title="TGLVContainer" alt="" coords="1065,984,1183,1011"/>
+<area shape="rect" id="node53" href="$classTArrowEditor.html" title="TArrowEditor" alt="" coords="1071,1035,1177,1061"/>
+<area shape="rect" id="node54" href="$classTAttFillEditor.html" title="TAttFillEditor" alt="" coords="1072,1085,1176,1112"/>
+<area shape="rect" id="node55" href="$classTAttLineEditor.html" title="TAttLineEditor" alt="" coords="1067,1136,1181,1163"/>
+<area shape="rect" id="node56" href="$classTAttMarkerEditor.html" title="TAttMarkerEditor" alt="" coords="1059,1187,1189,1213"/>
+<area shape="rect" id="node57" href="$classTAttTextEditor.html" title="TAttTextEditor" alt="" coords="1067,1237,1181,1264"/>
+<area shape="rect" id="node58" href="$classTAxisEditor.html" title="TAxisEditor" alt="" coords="1077,1288,1171,1315"/>
+<area shape="rect" id="node59" href="$classTCurlyArcEditor.html" title="TCurlyArcEditor" alt="" coords="1063,1339,1185,1365"/>
+<area shape="rect" id="node60" href="$classTCurlyLineEditor.html" title="TCurlyLineEditor" alt="" coords="1060,1389,1188,1416"/>
+<area shape="rect" id="node61" href="$classTEveArrowEditor.html" title="GUI editor for TEveArrow. " alt="" coords="1059,1440,1189,1467"/>
+<area shape="rect" id="node62" href="$classTEveCalo3DEditor.html" title="GUI editor for TEveCalo3D. " alt="" coords="1055,1491,1193,1517"/>
+<area shape="rect" id="node63" href="$classTEveCaloLegoEditor.html" title="GUI editor for TEveCaloLego. " alt="" coords="1048,1541,1200,1568"/>
+<area shape="rect" id="node64" href="$classTEveCaloVizEditor.html" title="GUI editor for TEveCaloEditor. " alt="" coords="1053,1592,1195,1619"/>
+<area shape="rect" id="node65" href="$classTEveDigitSetEditor.html" title="Editor for TEveDigitSet class. " alt="" coords="1052,1643,1196,1669"/>
+<area shape="rect" id="node66" href="$classTEveElementEditor.html" title="Editor for TEveElement class. " alt="" coords="1051,1693,1197,1720"/>
+<area shape="rect" id="node67" href="$classTEveGedNameFrame.html" title="Specialization of TGedNameFrame used in EVE. " alt="" coords="1045,1744,1203,1771"/>
+<area shape="rect" id="node68" href="$classTEveGeoNodeEditor.html" title="Editor for TEveGeoNode class. " alt="" coords="1048,1795,1200,1821"/>
+<area shape="rect" id="node69" href="$classTEveGeoTopNodeEditor.html" title="Editor for TEveGeoTopNode class. " alt="" coords="1037,1845,1211,1872"/>
+<area shape="rect" id="node70" href="$classTEveGridStepperEditor.html" title="Editor for TEveGridStepper class. " alt="" coords="1039,1896,1209,1923"/>
+<area shape="rect" id="node71" href="$classTEveJetConeEditor.html" title="GUI editor for TEveJetCone. " alt="" coords="1053,1947,1195,1973"/>
+<area shape="rect" id="node72" href="$classTEveLineEditor.html" title="Editor for TEveLine class. " alt="" coords="1065,1997,1183,2024"/>
+<area shape="rect" id="node73" href="$classTEveParamListEditor.html" title="GUI editor for TEveParamList. " alt="" coords="1046,2048,1202,2075"/>
+<area shape="rect" id="node74" href="$classTEvePointSetArrayEditor.html" title="Editor for TEvePointSetArray class. " alt="" coords="1033,2099,1215,2125"/>
+<area shape="rect" id="node75" href="$classTEveProjectionAxesEditor.html" title="GUI editor for TEveProjectionAxes. " alt="" coords="1029,2149,1219,2176"/>
+<area shape="rect" id="node76" href="$classTEveProjectionManagerEditor.html" title="GUI editor for TEveProjectionManager class. " alt="" coords="1017,2200,1231,2227"/>
+<area shape="rect" id="node77" href="$classTEveRGBAPaletteEditor.html" title="Editor for TEveRGBAPalette class. " alt="" coords="1037,2251,1211,2277"/>
+<area shape="rect" id="node78" href="$classTEveShapeEditor.html" title="GUI editor for TEveShape. " alt="" coords="1058,2301,1190,2328"/>
+<area shape="rect" id="node79" href="$classTEveStraightLineSetEditor.html" title="Editor for TEveStraightLineSet class. " alt="" coords="1029,2352,1219,2379"/>
+<area shape="rect" id="node80" href="$classTEveTextEditor.html" title="GUI editor for TEveText. " alt="" coords="1065,2403,1183,2429"/>
+<area shape="rect" id="node81" href="$classTEveTrackEditor.html" title="Editor for TEveTrack class. " alt="" coords="1061,2453,1187,2480"/>
+<area shape="rect" id="node82" href="$classTEveTrackListEditor.html" title="Editor for TEveTrackList class. " alt="" coords="1049,2504,1199,2531"/>
+<area shape="rect" id="node83" href="$classTEveTrackPropagatorEditor.html" title="GUI editor for TEveTrackPropagator. " alt="" coords="1025,2555,1223,2581"/>
+<area shape="rect" id="node84" href="$classTEveTransEditor.html" title="Editor for TEveTrans class. " alt="" coords="1061,2605,1187,2632"/>
+<area shape="rect" id="node85" href="$classTEveTriangleSetEditor.html" title="Editor for TEveTriangleSet class. " alt="" coords="1042,2656,1206,2683"/>
+<area shape="rect" id="node86" href="$classTEveViewerListEditor.html" title="GUI editor for TEveViewerList. " alt="" coords="1044,2707,1204,2733"/>
+<area shape="rect" id="node87" href="$classTEveWindowEditor.html" title="GUI editor for TEveWindow. " alt="" coords="1052,2757,1196,2784"/>
+<area shape="rect" id="node88" href="$classTF1Editor.html" title="TF1Editor" alt="" coords="1083,2808,1165,2835"/>
+<area shape="rect" id="node89" href="$classTFrameEditor.html" title="TFrameEditor" alt="" coords="1070,2859,1178,2885"/>
+<area shape="rect" id="node90" href="$classTGedNameFrame.html" title="TGedNameFrame" alt="" coords="1057,2909,1191,2936"/>
+<area shape="rect" id="node91" href="$classTGeoGedFrame.html" title="Common base class for geombuilder editors. " alt="" coords="1063,2960,1185,2987"/>
+<area shape="rect" id="node92" href="$classTGeoManagerEditor.html" title="Editor for TGeoManager class. " alt="" coords="1049,3011,1199,3037"/>
+<area shape="rect" id="node93" href="$classTGL5DDataSetEditor.html" title="GUI editor for OpenGL 5D Painter. " alt="" coords="1047,3061,1201,3088"/>
+<area shape="rect" id="node94" href="$classTGLClipSetEditor.html" title="GUI editor for TGLClipSet. " alt="" coords="1059,3112,1189,3139"/>
+<area shape="rect" id="node95" href="$classTGLLightSetEditor.html" title="TGLLightSetEditor" alt="" coords="1055,3163,1193,3189"/>
+<area shape="rect" id="node96" href="$classTGLPShapeObjEditor.html" title="GUI editor for TGLPShapeObj. " alt="" coords="1047,3213,1201,3240"/>
+<area shape="rect" id="node97" href="$classTGLViewerEditor.html" title="GUI editor for TGLViewer. " alt="" coords="1059,3264,1189,3291"/>
+<area shape="rect" id="node98" href="$classTGraphEditor.html" title="TGraphEditor" alt="" coords="1071,3315,1177,3341"/>
+<area shape="rect" id="node99" href="$classTH1Editor.html" title="TH1Editor" alt="" coords="1081,3365,1167,3392"/>
+<area shape="rect" id="node100" href="$classTH2Editor.html" title="TH2Editor" alt="" coords="1081,3416,1167,3443"/>
+<area shape="rect" id="node101" href="$classTLineEditor.html" title="TLineEditor" alt="" coords="1077,3467,1171,3493"/>
+<area shape="rect" id="node102" href="$classTPadEditor.html" title="TPadEditor" alt="" coords="1079,3517,1169,3544"/>
+<area shape="rect" id="node103" href="$classTParallelCoordEditor.html" title="This is the TParallelCoord editor. " alt="" coords="1047,3568,1201,3595"/>
+<area shape="rect" id="node104" href="$classTPaveStatsEditor.html" title="TPaveStatsEditor" alt="" coords="1058,3619,1190,3645"/>
+<area shape="rect" id="node105" href="$classTPieEditor.html" title="TPieEditor" alt="" coords="1080,3669,1168,3696"/>
+<area shape="rect" id="node106" href="$classTPieSliceEditor.html" title="TPieSliceEditor" alt="" coords="1065,3720,1183,3747"/>
+<area shape="rect" id="node107" href="$classTSpiderEditor.html" title="The TSpider editor class. " alt="" coords="1069,3771,1179,3797"/>
+<area shape="rect" id="node108" href="$classTStructNodeEditor.html" title="TStructNodeEditor" alt="" coords="1054,3821,1194,3848"/>
+<area shape="rect" id="node109" href="$classTTextEditor.html" title="TTextEditor" alt="" coords="1077,3872,1171,3899"/>
+<area shape="rect" id="node112" href="$classTGedMarkerPopup.html" title="TGedMarkerPopup" alt="" coords="1053,3923,1195,3949"/>
+<area shape="rect" id="node113" href="$classTGedPatternPopup.html" title="TGedPatternPopup" alt="" coords="1053,3973,1195,4000"/>
+<area shape="rect" id="node116" href="$classTGButtonGroup.html" title="TGButtonGroup" alt="" coords="1063,4024,1185,4051"/>
+<area shape="rect" id="node118" href="$classTGHeaderFrame.html" title="TGHeaderFrame" alt="" coords="1061,4075,1187,4101"/>
+<area shape="rect" id="node119" href="$classTGMenuBar.html" title="TGMenuBar" alt="" coords="1075,4125,1173,4152"/>
+<area shape="rect" id="node152" href="$classTGDoubleHSlider.html" title="TGDoubleHSlider" alt="" coords="801,4100,935,4127"/>
+<area shape="rect" id="node153" href="$classTGDoubleVSlider.html" title="TGDoubleVSlider" alt="" coords="802,4151,934,4177"/>
+<area shape="rect" id="node160" href="$classTGMdiTitleIcon.html" title="TGMdiTitleIcon" alt="" coords="809,4252,927,4279"/>
+<area shape="rect" id="node163" href="$classTGTextLBEntry.html" title="TGTextLBEntry" alt="" coords="809,4303,927,4329"/>
+<area shape="rect" id="node164" href="$classTGTreeLBEntry.html" title="TGTreeLBEntry" alt="" coords="809,4353,927,4380"/>
+<area shape="rect" id="node166" href="$classTGFileItem.html" title="TGFileItem" alt="" coords="822,4404,914,4431"/>
+<area shape="rect" id="node167" href="$classTTVLVEntry.html" title="This class represent entries that goes into the TreeViewer listview container. " alt="" coords="820,4455,916,4481"/>
+<area shape="rect" id="node171" href="$classTGMdiCornerWinResizer.html" title="TGMdiCornerWinResizer" alt="" coords="779,4505,957,4532"/>
+<area shape="rect" id="node172" href="$classTGMdiHorizontalWinResizer.html" title="TGMdiHorizontalWinResizer" alt="" coords="767,4556,969,4583"/>
+<area shape="rect" id="node173" href="$classTGMdiVerticalWinResizer.html" title="TGMdiVerticalWinResizer" alt="" coords="776,4607,960,4633"/>
+<area shape="rect" id="node178" href="$classTRootContextMenu.html" title="TRootContextMenu" alt="" coords="795,4759,941,4785"/>
+<area shape="rect" id="node180" href="$classTGHProgressBar.html" title="TGHProgressBar" alt="" coords="804,4809,932,4836"/>
+<area shape="rect" id="node181" href="$classTGVProgressBar.html" title="TGVProgressBar" alt="" coords="805,4860,931,4887"/>
+<area shape="rect" id="node183" href="$classTGHScrollBar.html" title="TGHScrollBar" alt="" coords="814,4911,922,4937"/>
+<area shape="rect" id="node184" href="$classTGVScrollBar.html" title="TGVScrollBar" alt="" coords="815,4961,921,4988"/>
+<area shape="rect" id="node187" href="$classTGHSlider.html" title="TGHSlider" alt="" coords="825,5012,911,5039"/>
+<area shape="rect" id="node188" href="$classTGVSlider.html" title="TGVSlider" alt="" coords="825,5063,911,5089"/>
+<area shape="rect" id="node191" href="$classTGHSplitter.html" title="TGHSplitter" alt="" coords="819,5113,917,5140"/>
+<area shape="rect" id="node192" href="$classTGVSplitter.html" title="TGVSplitter" alt="" coords="820,5164,916,5191"/>
+<area shape="rect" id="node195" href="$classTGTableHeader.html" title="TGTableHeader" alt="" coords="807,5215,929,5241"/>
+<area shape="rect" id="node197" href="$classTGNumberEntryField.html" title="TGNumberEntryField" alt="" coords="790,5265,946,5292"/>
+</map>

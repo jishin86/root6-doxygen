@@ -1,0 +1,32 @@
+<map id="TEveRGBAPaletteOverlay" name="TEveRGBAPaletteOverlay">
+<area shape="rect" id="node2" href="$classTGLOverlayElement.html" title="An overlay element. " alt="" coords="2183,213,2335,239"/>
+<area shape="rect" id="node3" href="$classTGLAxisPainter.html" title="TGLAxisPainter" alt="" coords="2199,263,2319,290"/>
+<area shape="rect" id="node5" href="$classTAttAxis.html" title="Manages histogram axis attributes. " alt="" coords="1945,365,2021,391"/>
+<area shape="rect" id="node34" href="$classTAxis.html" title="Class to manage histogram axis. " alt="" coords="2230,487,2287,514"/>
+<area shape="rect" id="node6" href="$classTGLVector3.html" title="3 component (x/y/z) vector class. " alt="" coords="1936,162,2031,189"/>
+<area shape="rect" id="node7" href="$classTGLVertex3.html" title="3 component (x/y/z) vertex class. " alt="" coords="1677,162,1773,189"/>
+<area shape="rect" id="node8" href="$classTPMERegexp.html" title="Wrapper for PCRE library (Perl Compatible Regular Expressions). " alt="" coords="1031,326,1137,353"/>
+<area shape="rect" id="node9" href="$classTPRegexp.html" title="TPRegexp" alt="" coords="755,366,841,393"/>
+<area shape="rect" id="node11" href="$classTString.html" title="Basic string class. " alt="" coords="461,391,529,418"/>
+<area shape="rect" id="node23" href="$classTCollection.html" title="Collection abstract base class. " alt="" coords="751,557,845,583"/>
+<area shape="rect" id="node35" href="$classTNamed.html" title="The TNamed class is the base class for all named ROOT classes. " alt="" coords="759,670,837,697"/>
+<area shape="rect" id="node12" href="$structTString_1_1Rep__t.html" title="TString::Rep_t" alt="" coords="237,391,349,418"/>
+<area shape="rect" id="node13" href="$structTString_1_1LongStr__t.html" title="TString::LongStr_t" alt="" coords="7,341,144,367"/>
+<area shape="rect" id="node14" href="$structTString_1_1RawStr__t.html" title="TString::RawStr_t" alt="" coords="8,391,143,418"/>
+<area shape="rect" id="node15" href="$structTString_1_1ShortStr__t.html" title="TString::ShortStr_t" alt="" coords="5,442,145,469"/>
+<area shape="rect" id="node16" href="$classTArrayI.html" title="Array of integers (32 bits per element). " alt="" coords="764,467,832,494"/>
+<area shape="rect" id="node17" href="$classTArray.html" title="Abstract array base class. " alt="" coords="463,501,527,527"/>
+<area shape="rect" id="node36" href="$classTArrayD.html" title="Array of doubles (64 bits per element). " alt="" coords="887,721,961,747"/>
+<area shape="rect" id="node19" href="$classTGLFont.html" title="A wrapper class for FTFont. " alt="" coords="1946,50,2021,77"/>
+<area shape="rect" id="node20" href="$classTGLFontManager.html" title="A FreeType GL font manager. " alt="" coords="1660,71,1791,98"/>
+<area shape="rect" id="node21" href="$classTObjArray.html" title="An array of TObjects. " alt="" coords="1339,191,1426,218"/>
+<area shape="rect" id="node22" href="$classTSeqCollection.html" title="Sequenceable collection abstract base class. " alt="" coords="1025,471,1143,498"/>
+<area shape="rect" id="node31" href="$classTList.html" title="A doubly linked list. " alt="" coords="1356,510,1409,537"/>
+<area shape="rect" id="node38" href="$classTHashTable.html" title="THashTable implements a hash table to store TObject&#39;s. " alt="" coords="1677,567,1774,594"/>
+<area shape="rect" id="node24" href="$classTObject.html" title="Mother of all ROOT objects. " alt="" coords="257,635,329,662"/>
+<area shape="rect" id="node25" href="$classTObjectTable.html" title="This class registers all instances of TObject and its derived classes in a hash table. " alt="" coords="441,557,548,583"/>
+<area shape="rect" id="node29" href="$classTEveRGBAPalette.html" title="A generic, speed&#45;optimised mapping from value to RGBA color supporting different wrapping and range t..." alt="" coords="1915,861,2051,887"/>
+<area shape="rect" id="node30" href="$classTQObject.html" title="This is the ROOT implementation of the Qt object communication mechanism (see also http://www..." alt="" coords="1684,619,1767,646"/>
+<area shape="rect" id="node37" href="$classTHashList.html" title="THashList implements a hybrid collection class consisting of a hash table and a list to store TObject..." alt="" coords="1940,517,2027,543"/>
+<area shape="rect" id="node33" href="$classTEveRefCnt.html" title="Base&#45;class for reference&#45;counted objects. " alt="" coords="1677,873,1774,899"/>
+</map>
